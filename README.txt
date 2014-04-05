@@ -1,0 +1,1 @@
+This repository includes files and scripts that I have found useful to analyze data. I make frequent use of these scripts in the posts featured on my blog: http://statofmind.wordpress.com/
