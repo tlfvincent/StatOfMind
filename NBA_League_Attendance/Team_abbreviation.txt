@@ -1,0 +1,30 @@
+ATL,Atlanta Hawks,E
+BRK,Brooklyn Nets,E
+BOS,Boston Celtics,E
+CHA,Charlotte Bobcats,E
+CHI,Chicago Bulls,E
+CLE,Cleveland Cavaliers,E
+DAL,Dallas Mavericks,W
+DEN,Denver Nuggets,W
+DET,Detroit Pistons,E
+GSW,Golden State Warriors,W
+HOU,Houston Rockets,W
+IND,Indiana Pacers,E
+LAC,Los Angeles Clippers,W
+LAL,Los Angeles Lakers,W
+MEM,Memphis Grizzlies,W
+MIA,Miami Heat,E
+MIL,Milwaukee Bucks,E
+MIN,Minnesota Timberwolves,W
+NOH,New Orleans Pelicans,W
+NYK,New York Knicks,E
+OKC,Oklahoma City Thunder,W
+ORL,Orlando Magic,E
+PHI,Philadelphia 76ers,E
+PHO,Phoenix Suns,W
+POR,Portland Trail Blazers,W
+SAC,Sacramento Kings,W
+SAS,San Antonio Spurs,W
+TOR,Toronto Raptors,E
+UTA,Utah Jazz,W
+WAS,Washington Wizards,E
