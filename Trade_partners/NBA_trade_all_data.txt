@@ -1,0 +1,3528 @@
+Atlanta,0.2,0.5,2005
+Boston,5.4,0.7,2005
+Boston,3.8,13.8,2004
+Atlanta,-0.1,50.2,2004
+Boston,75.5,163.5,1956
+St. Louis,0.0,89.5,1956
+Boston,0.0,9.5,1953
+Milwaukee,6.5,0.0,1953
+Boston,1.0,-0.2,1951
+Tri-Cities,0.0,0.7,1951
+Boston,2.3,-1.1,1950
+Tri-Cities,-0.6,1.9,1950
+Atlanta,0.0,1.0,2004
+Charlotte,0.0,0.0,2004
+Atlanta,0.0,12.4,2012
+Chicago,10.4,0.0,2012
+Atlanta,0.0,0.0,1998
+Chicago,0.0,-0.6,1998
+Atlanta,0.0,0.0,1981
+Chicago,0.0,25.3,1981
+Atlanta,14.5,0.0,1978
+Chicago,0.0,1.7,1978
+Atlanta,5.4,1.7,2001
+Cleveland,13.6,-0.3,2001
+Atlanta,39.9,0.8,1986
+Cleveland,3.9,0.2,1986
+Atlanta,6.7,-0.2,1984
+Cleveland,1.4,3.9,1984
+Atlanta,1.2,2.3,1979
+Cleveland,2.9,1.2,1979
+Atlanta,0.0,-0.1,2013
+Dallas,0.0,-0.1,2013
+Atlanta,0.6,0.1,2013
+Dallas,0.4,0.0,2013
+Atlanta,0.0,2.2,2007
+Dallas,0.8,0.0,2007
+Atlanta,51.5,2.3,2004
+Dallas,4.7,63.6,2004
+Atlanta,-0.2,0.9,1997
+Denver,0.0,-0.6,1997
+Atlanta,0.0,2.9,1991
+Denver,16.1,-0.1,1991
+Atlanta,-0.1,50.2,2004
+Detroit,41.7,38.7,2004
+Atlanta,21.7,0.0,1999
+Detroit,0.9,5.8,1999
+Atlanta,42.8,7.5,1996
+Detroit,0.0,4.2,1996
+Atlanta,45.9,45.7,1984
+Detroit,6.6,2.7,1984
+Detroit,0.0,1.0,1983
+Atlanta,28.5,0.5,1983
+Atlanta,-0.3,-0.4,1980
+Detroit,0.5,4.1,1980
+Atlanta,2.2,10.7,1973
+Detroit,0.0,6.1,1973
+Atlanta,0.4,0.1,1972
+Detroit,0.0,5.4,1972
+Atlanta,0.0,30.6,1970
+Detroit,9.3,0.0,1970
+Detroit,1.4,0.3,1965
+St. Louis,6.8,22.5,1965
+Detroit,4.7,10.1,1965
+St. Louis,10.1,3.1,1965
+Detroit,1.3,14.7,1960
+St. Louis,1.4,0.0,1960
+Fort Wayne,5.4,3.6,1953
+Milwaukee,0.3,35.5,1953
+Fort Wayne,-0.9,0.1,1952
+Milwaukee,7.3,-0.1,1952
+Fort Wayne,1.9,15.3,1951
+Tri-Cities,5.6,0.6,1951
+Fort Wayne,-0.2,16.8,1949
+Tri-Cities,0.2,-0.6,1949
+Atlanta,0.0,0.0,2013
+Golden State,-0.2,0.0,2013
+Atlanta,0.0,0.0,2012
+Golden State,0.0,0.0,2012
+Atlanta,-0.2,10.7,2009
+Golden State,2.7,1.0,2009
+Atlanta,58.4,31.7,1999
+Golden State,4.6,6.7,1999
+Atlanta,0.0,1.9,1990
+Golden State,0.0,11.4,1990
+Atlanta,0.0,0.3,1987
+Golden State,-0.9,0.0,1987
+Atlanta,0.0,1.8,1983
+Golden State,2.9,0.7,1983
+Atlanta,55.9,26.0,1970
+San Francisco,13.8,0.0,1970
+Philadelphia,11.1,0.0,1961
+St. Louis,0.0,0.0,1961
+Philadelphia,6.8,0.4,1960
+St. Louis,0.0,-3.2,1960
+Philadelphia,4.2,0.0,1958
+St. Louis,0.0,0.6,1958
+Milwaukee,-0.1,3.0,1952
+Philadelphia,0.0,-1.2,1952
+Atlanta,2.6,9.3,2004
+Houston,0.5,4.1,2004
+Atlanta,0.0,0.0,2001
+Houston,0.0,1.1,2001
+Atlanta,0.9,1.1,1990
+Houston,21.9,37.3,1990
+Atlanta,1.2,0.2,1977
+Houston,0.0,0.0,1977
+Atlanta,10.7,14.8,1976
+Houston,3.9,27.3,1976
+Atlanta,11.4,0.3,1971
+Houston,6.5,0.0,1971
+Atlanta,5.6,0.6,2006
+Indiana,0.0,1.5,2006
+Atlanta,4.4,5.4,2004
+Indiana,14.4,9.2,2004
+Atlanta,0.0,1.0,2001
+Indiana,0.0,16.9,2001
+Atlanta,0.0,7.5,1982
+Indiana,20.3,5.1,1982
+Atlanta,0.0,0.0,2014
+Los Angeles Clippers,0.1,0.0,2014
+Atlanta,2.4,0.0,2012
+Los Angeles Clippers,0.0,3.0,2012
+Atlanta,0.0,6.2,1999
+Los Angeles Clippers,8.5,18.3,1999
+Atlanta,107.4,1.3,1994
+Los Angeles Clippers,31.0,2.6,1994
+Atlanta,52.0,27.8,1991
+Los Angeles Clippers,0.0,3.9,1991
+Atlanta,3.9,0.0,1983
+San Diego,0.0,0.0,1983
+Atlanta,10.2,-0.1,1982
+San Diego,10.3,4.3,1982
+Atlanta,2.1,0.0,1977
+Buffalo,0.0,1.2,1977
+Atlanta,5.7,2.8,1976
+Buffalo,7.6,0.0,1976
+Atlanta,13.5,0.0,1975
+Buffalo,0.0,1.0,1975
+Atlanta,14.5,17.2,1971
+Buffalo,7.5,3.2,1971
+Atlanta,0.0,3.3,1986
+Los Angeles Lakers,8.1,1.5,1986
+Atlanta,0.0,0.5,1977
+Los Angeles Lakers,0.0,0.0,1977
+Atlanta,73.5,3.6,1977
+Los Angeles Lakers,0.0,7.5,1977
+Atlanta,0.0,3.5,1975
+Los Angeles Lakers,7.8,0.0,1975
+Atlanta,55.9,0.1,1974
+Los Angeles Lakers,0.0,2.3,1974
+Minneapolis,10.6,-0.3,1960
+St. Louis,35.5,6.2,1960
+Minneapolis,0.0,15.2,1958
+St. Louis,0.0,0.0,1958
+Milwaukee,3.0,0.8,1954
+Minneapolis,7.0,-0.3,1954
+Milwaukee,3.3,0.0,1953
+Minneapolis,0.0,2.2,1953
+Atlanta,7.1,23.6,2001
+Vancouver,31.7,71.3,2001
+Atlanta,0.0,0.0,2013
+Miami,0.0,0.0,2013
+Atlanta,54.2,59.0,1994
+Miami,44.9,5.7,1994
+Milwaukee,21.1,3.8,2004
+Atlanta,7.4,0.0,2004
+Atlanta,4.3,2.9,2002
+Milwaukee,34.8,12.9,2002
+Atlanta,0.0,3.7,1994
+Milwaukee,1.9,0.0,1994
+Atlanta,0.0,2.9,1991
+Milwaukee,0.0,0.6,1991
+Atlanta,0.0,0.0,1975
+Milwaukee,0.0,5.2,1975
+Minnesota,25.4,7.6,2003
+Atlanta,2.9,0.0,2003
+Atlanta,31.4,21.9,1996
+Minnesota,23.7,1.0,1996
+Atlanta,44.7,2.5,2012
+Brooklyn,10.6,10.0,2012
+Atlanta,0.0,-0.3,2010
+New Jersey,0.0,0.0,2010
+Atlanta,2.4,58.4,1992
+New Jersey,16.5,1.7,1992
+Atlanta,0.0,0.0,1987
+New Jersey,0.0,-0.3,1987
+Atlanta,0.0,22.1,1981
+New Jersey,-0.1,0.0,1981
+New York,5.4,11.3,2004
+Atlanta,7.4,0.0,2004
+New York,7.9,32.2,1991
+Atlanta,1.1,2.1,1991
+New York,13.1,0.1,1983
+Atlanta,3.1,0.4,1983
+New York,0.1,14.5,1983
+Atlanta,8.4,5.7,1983
+New York,2.0,0.6,1977
+Atlanta,0.0,17.6,1977
+New York,0.0,3.6,1976
+Atlanta,0.0,0.4,1976
+New York,-0.1,0.0,1972
+Atlanta,0.0,0.4,1972
+St. Louis,0.0,-0.1,1964
+New York,4.5,0.0,1964
+St. Louis,0.0,23.1,1963
+New York,46.0,3.8,1963
+St. Louis,0.4,7.7,1956
+New York,0.6,24.5,1956
+Atlanta,0.0,-0.2,1996
+Seattle,0.0,0.0,1996
+Atlanta,28.5,0.5,1983
+Seattle,1.6,2.7,1983
+Atlanta,10.0,0.0,1980
+Seattle,0.0,1.6,1980
+Atlanta,13.8,0.0,1975
+Seattle,0.0,2.7,1975
+Atlanta,0.0,1.1,1968
+Seattle,0.0,0.0,1968
+Atlanta,47.6,13.0,1968
+Seattle,5.3,29.2,1968
+Atlanta,1.2,0.0,2000
+Orlando,0.0,4.0,2000
+Atlanta,2.9,0.0,2003
+Philadelphia,6.5,7.4,2003
+Atlanta,0.0,1.2,2002
+Philadelphia,0.0,0.2,2002
+Atlanta,44.6,17.6,2001
+Philadelphia,27.0,13.2,2001
+Atlanta,0.0,0.0,1999
+Philadelphia,0.0,2.3,1999
+Atlanta,0.4,5.7,1974
+Philadelphia,3.6,5.0,1974
+Atlanta,3.4,1.1,1973
+Philadelphia,3.0,1.3,1973
+Atlanta,0.8,0.0,1973
+Philadelphia,0.0,0.6,1973
+Atlanta,43.9,13.0,1971
+Philadelphia,13.1,6.5,1971
+Milwaukee,0.4,0.0,1953
+Syracuse,8.8,3.0,1953
+Syracuse,5.4,8.8,1950
+Tri-Cities,1.4,1.2,1950
+Atlanta,23.3,3.4,2010
+Phoenix,0.0,2.4,2010
+Atlanta,1.0,44.7,2005
+Phoenix,14.7,25.2,2005
+Atlanta,3.8,39.9,1973
+Phoenix,0.0,1.9,1973
+Atlanta,0.0,0.0,1969
+Phoenix,0.0,0.0,1969
+Atlanta,13.7,0.5,1969
+Phoenix,-0.4,21.1,1969
+Atlanta,0.0,0.5,1968
+Phoenix,0.0,0.0,1968
+Atlanta,29.9,0.0,2004
+Portland,62.9,14.5,2004
+Atlanta,39.2,4.8,1999
+Portland,15.7,18.6,1999
+Atlanta,0.0,0.0,1977
+Portland,0.0,0.0,1977
+Atlanta,0.0,28.5,1976
+Portland,29.5,23.6,1976
+Atlanta,0.0,0.0,1975
+Portland,0.0,0.0,1975
+Atlanta,0.5,1.5,1970
+Portland,0.0,2.5,1970
+Atlanta,21.5,16.5,2008
+Sacramento,42.9,0.8,2008
+Atlanta,0.0,0.0,2002
+Sacramento,0.0,0.0,2002
+Atlanta,2.1,2.2,1995
+Sacramento,18.2,2.7,1995
+Atlanta,19.2,0.3,1991
+Sacramento,2.1,31.0,1991
+Atlanta,13.7,1.1,1990
+Sacramento,7.8,7.1,1990
+Atlanta,16.4,5.9,1988
+Sacramento,22.1,2.6,1988
+Atlanta,3.3,-0.5,1987
+Sacramento,0.0,1.0,1987
+Atlanta,0.0,0.0,1982
+Kansas City,0.0,0.0,1982
+Atlanta,0.0,0.4,1969
+Cincinnati,0.0,-0.2,1969
+Cincinnati,0.0,1.2,1961
+St. Louis,0.0,0.0,1961
+Cincinnati,6.3,7.1,1960
+St. Louis,1.7,1.1,1960
+Cincinnati,3.2,0.4,1959
+St. Louis,2.3,1.3,1959
+Cincinnati,1.1,3.4,1959
+St. Louis,9.0,3.7,1959
+Cincinnati,10.1,35.2,1958
+St. Louis,0.0,27.6,1958
+Atlanta,0.0,0.0,2004
+San Antonio,0.0,0.0,2004
+Atlanta,0.0,1.0,1982
+San Antonio,7.0,-0.1,1982
+Atlanta,0.0,0.0,2013
+Utah,0.0,0.0,2013
+Atlanta,31.5,3.3,2012
+Utah,4.9,5.2,2012
+Atlanta,4.8,14.8,1994
+Utah,16.6,19.6,1994
+Atlanta,60.6,107.4,1982
+Utah,0.0,8.0,1982
+Atlanta,2.3,0.0,1979
+Utah,0.0,2.0,1979
+Atlanta,0.0,-0.3,1979
+Utah,-0.2,0.0,1979
+Atlanta,4.8,4.3,1977
+New Orleans,0.0,3.4,1977
+Atlanta,25.6,16.4,1974
+New Orleans,0.0,20.1,1974
+Atlanta,24.0,2.6,2011
+Washington,2.7,5.6,2011
+Atlanta,17.6,16.4,1983
+Washington,0.0,6.3,1983
+Atlanta,1.8,3.9,1981
+Washington,1.0,7.8,1981
+Atlanta,6.6,62.9,1977
+Washington,10.1,58.8,1977
+Baltimore,14.9,0.0,1968
+St. Louis,0.4,4.7,1968
+Chicago,-1.8,0.2,1963
+St. Louis,2.5,-0.4,1963
+Chicago,0.0,-0.5,1962
+St. Louis,0.0,0.0,1962
+Chicago,0.0,3.0,1962
+St. Louis,0.0,0.7,1962
+Chicago,0.6,0.0,1962
+St. Louis,10.8,43.9,1962
+Chicago,0.0,3.2,1961
+St. Louis,0.9,2.5,1961
+Chicago,0.0,0.3,1961
+St. Louis,0.0,9.3,1961
+Boston,1.8,0.0,2011
+Cleveland,0.0,0.9,2011
+Boston,0.1,0.0,2006
+Cleveland,0.1,1.2,2006
+Boston,5.6,0.0,2005
+Cleveland,0.0,-0.3,2005
+Boston,42.5,20.0,2003
+Cleveland,10.5,4.5,2003
+Boston,2.6,0.1,2003
+Cleveland,6.2,-0.3,2003
+Boston,3.9,10.8,1999
+Cleveland,2.4,29.3,1999
+Boston,-0.1,6.7,1983
+Cleveland,3.1,0.6,1983
+Boston,0.0,2.9,2013
+Dallas,0.0,0.0,2013
+Boston,35.2,29.7,2003
+Dallas,7.7,4.7,2003
+Boston,21.5,-0.1,2000
+Dallas,0.9,4.3,2000
+Boston,5.4,35.9,1996
+Dallas,0.0,2.6,1996
+Boston,0.0,0.9,1985
+Dallas,0.0,0.0,1985
+Boston,0.0,10.9,2006
+Denver,0.0,0.0,2006
+Boston,2.1,10.9,2003
+Denver,0.4,1.0,2003
+Boston,0.8,4.8,2000
+Denver,24.5,2.2,2000
+Boston,5.6,19.4,1999
+Denver,6.8,1.8,1999
+Boston,4.5,0.0,1997
+Denver,0.0,0.4,1997
+Boston,33.5,6.1,1976
+Denver,28.3,2.5,1976
+Boston,3.8,13.8,2004
+Detroit,41.7,38.7,2004
+Boston,1.0,0.0,1979
+Detroit,0.0,1.9,1979
+Boston,0.0,15.0,1978
+Detroit,20.5,0.7,1978
+Detroit,28.0,1.4,1976
+Boston,33.5,6.1,1976
+Boston,10.8,-0.7,1954
+Fort Wayne,2.3,0.0,1954
+Boston,0.0,80.9,1951
+Fort Wayne,0.0,5.4,1951
+Boston,0.0,10.8,1950
+Fort Wayne,4.9,1.4,1950
+Boston,2.9,0.1,2014
+Golden State,0.2,0.4,2014
+Boston,21.5,-0.1,2000
+Golden State,14.3,6.4,2000
+Boston,0.0,235.4,1980
+Golden State,20.6,33.6,1980
+Boston,51.0,0.0,1979
+Golden State,0.0,2.9,1979
+Boston,9.3,1.6,1948
+Philadelphia,4.5,11.9,1948
+Boston,1.2,4.3,2012
+Houston,5.9,0.0,2012
+Boston,0.0,0.0,1977
+Houston,4.4,-0.1,1977
+Boston,0.0,11.1,1970
+San Diego,6.5,0.0,1970
+Boston,0.0,9.3,1969
+San Diego,4.3,0.0,1969
+Boston,0.0,0.0,2013
+Indiana,0.0,0.0,2013
+Boston,0.0,7.2,1985
+Indiana,12.8,7.4,1985
+Boston,3.4,0.0,1985
+Indiana,0.0,0.2,1985
+Boston,0.7,13.9,1979
+Indiana,1.3,27.3,1979
+Boston,0.0,0.0,1978
+Indiana,3.1,0.0,1978
+Boston,0.0,0.0,2013
+Los Angeles Clippers,0.0,0.0,2013
+Boston,65.7,4.9,1985
+Los Angeles Clippers,8.3,7.9,1985
+Boston,13.9,67.1,1978
+San Diego,7.8,21.4,1978
+Boston,3.5,50.4,2004
+Los Angeles Lakers,32.1,15.8,2004
+Boston,3.0,22.2,1999
+Los Angeles Lakers,0.0,1.8,1999
+Boston,9.7,4.9,1977
+Los Angeles Lakers,11.5,1.6,1977
+Boston,4.3,1.4,2014
+Memphis,5.0,3.7,2014
+Boston,0.0,0.0,2013
+Memphis,0.0,0.0,2013
+Boston,0.0,25.0,2003
+Memphis,0.0,1.6,2003
+Boston,0.0,0.0,1997
+Vancouver,1.4,5.8,1997
+Miami,13.3,0.7,2014
+Boston,2.9,0.1,2014
+Boston,30.6,0.0,2005
+Miami,44.9,24.0,2005
+Boston,0.0,0.0,1997
+Miami,0.0,0.0,1997
+Boston,8.8,10.1,1992
+Miami,9.9,5.3,1992
+Boston,0.0,0.0,1988
+Miami,0.0,0.7,1988
+Boston,0.0,0.6,2011
+Milwaukee,2.9,0.0,2011
+Boston,10.1,6.3,1995
+Milwaukee,30.7,8.1,1995
+Boston,21.9,2.9,1994
+Milwaukee,12.1,1.6,1994
+Boston,0.0,1.8,1992
+Milwaukee,0.1,3.0,1992
+Boston,83.7,3.4,1982
+Milwaukee,21.1,2.6,1982
+Boston,0.0,0.0,1974
+Milwaukee,0.0,2.7,1974
+Boston,0.2,0.0,1971
+Milwaukee,0.0,-0.4,1971
+Boston,21.7,48.8,2007
+Minnesota,138.4,28.9,2007
+Boston,27.3,4.9,2006
+Minnesota,43.7,42.9,2006
+Brooklyn,22.6,6.6,2013
+Boston,191.4,5.5,2013
+New Jersey,0.0,2.1,2011
+Boston,0.0,0.2,2011
+New Jersey,3.0,0.0,1989
+Boston,0.0,2.7,1989
+Boston,0.0,0.4,2005
+Oklahoma City,3.5,0.0,2005
+New York,15.2,3.6,2010
+Boston,10.9,1.9,2010
+New York,0.7,4.8,1997
+Boston,0.0,13.6,1997
+New York,23.7,71.5,1979
+Boston,0.0,1.0,1979
+Oklahoma City,0.0,0.0,2014
+Boston,4.3,1.4,2014
+Boston,24.0,11.5,2011
+Oklahoma City,22.2,5.8,2011
+Boston,15.4,56.1,2007
+Seattle,38.2,16.2,2007
+Boston,28.2,6.2,2002
+Seattle,22.5,3.6,2002
+Boston,0.0,0.0,2000
+Seattle,0.0,7.2,2000
+Boston,7.6,0.0,1987
+Seattle,0.0,1.0,1987
+Boston,14.2,0.0,1984
+Seattle,0.0,10.2,1984
+Boston,0.0,-0.2,1979
+Seattle,0.0,1.3,1979
+Boston,13.8,14.5,2011
+Orlando,8.3,4.4,2011
+Boston,-0.3,0.0,2001
+Philadelphia,0.0,0.0,2001
+Boston,0.0,45.0,2006
+Phoenix,0.2,0.0,2006
+Boston,13.5,0.0,2005
+Phoenix,0.0,0.3,2005
+Boston,5.5,7.0,2002
+Phoenix,22.2,19.9,2002
+Boston,13.9,35.9,1983
+Phoenix,23.1,2.8,1983
+Boston,0.0,0.0,1978
+Phoenix,10.1,4.7,1978
+Boston,9.7,9.7,1975
+Phoenix,15.2,53.0,1975
+Boston,0.0,33.5,1972
+Phoenix,21.1,15.2,1972
+Boston,0.0,3.6,1968
+Phoenix,0.0,0.0,1968
+Boston,1.2,4.3,2012
+Portland,0.0,0.1,2012
+Boston,13.2,0.6,2006
+Portland,7.4,1.1,2006
+Boston,7.2,3.7,1988
+Portland,50.0,1.0,1988
+Boston,3.3,0.0,2011
+Sacramento,0.0,0.0,2011
+Boston,0.4,0.0,2009
+Sacramento,0.0,0.0,2009
+Boston,0.0,0.3,2003
+Sacramento,0.0,6.9,2003
+Boston,41.2,30.4,1989
+Sacramento,12.6,8.2,1989
+Boston,91.0,0.2,1969
+Cincinnati,-2.0,0.1,1969
+Boston,0.0,2.4,1966
+Cincinnati,32.0,0.0,1966
+Boston,0.1,0.0,2009
+Toronto,0.0,0.2,2009
+Boston,31.2,18.2,1998
+Toronto,5.5,7.5,1998
+Utah,2.9,1.3,2005
+Boston,30.6,0.0,2005
+Utah,29.0,13.5,2000
+Boston,21.5,-0.1,2000
+Boston,0.5,-0.2,1995
+Utah,3.5,0.7,1995
+Boston,0.0,3.6,1986
+Utah,2.5,0.0,1986
+Boston,0.9,4.8,1978
+New Orleans,0.0,0.8,1978
+Boston,1.2,2.9,2013
+Washington,2.2,0.0,2013
+Baltimore,19.5,0.2,1966
+Boston,4.4,36.4,1966
+Baltimore,5.0,0.0,1965
+Boston,0.0,0.1,1965
+Charlotte,0.9,2.2,2010
+Chicago,10.7,1.2,2010
+Cleveland,0.0,6.3,2004
+Charlotte,0.0,3.7,2004
+Dallas,42.4,9.5,2010
+Charlotte,2.8,0.5,2010
+Dallas,11.1,0.1,2009
+Charlotte,12.8,0.8,2009
+Denver,0.0,0.0,2008
+Charlotte,0.0,-0.1,2008
+Charlotte,0.7,-0.9,2012
+Detroit,5.5,0.1,2012
+Charlotte,12.6,7.8,2007
+Detroit,2.9,1.7,2007
+Charlotte,0.0,0.0,2011
+Golden State,0.0,-0.2,2011
+Charlotte,3.5,6.9,2009
+Golden State,9.5,2.0,2009
+Charlotte,0.0,8.4,2007
+Golden State,27.7,3.4,2007
+Charlotte,1.2,0.0,2006
+Houston,0.7,1.2,2006
+Charlotte,0.0,2.4,2004
+Los Angeles Clippers,1.9,1.3,2004
+Charlotte,0.0,26.2,2004
+Los Angeles Clippers,0.0,3.7,2004
+Los Angeles Lakers,5.9,6.8,2009
+Charlotte,-1.1,0.4,2009
+Los Angeles Lakers,3.7,-0.1,2005
+Charlotte,0.0,3.0,2005
+Los Angeles Lakers,0.7,7.6,2004
+Charlotte,0.0,0.0,2004
+Miami,2.6,0.1,2005
+Charlotte,1.7,0.5,2005
+Milwaukee,9.3,4.1,2014
+Charlotte,6.8,1.3,2014
+Milwaukee,11.6,4.8,2011
+Charlotte,8.8,5.9,2011
+Milwaukee,0.0,4.6,2004
+Charlotte,0.0,1.8,2004
+New Jersey,0.3,0.1,2007
+Charlotte,1.8,0.0,2007
+New Orleans,0.1,0.0,2012
+Charlotte,11.1,-0.1,2012
+New Orleans,21.3,13.6,2009
+Charlotte,26.2,2.9,2009
+Oklahoma City,-0.3,0.0,2011
+Charlotte,0.0,0.4,2011
+Oklahoma City,1.3,2.5,2011
+Charlotte,7.8,2.3,2011
+Oklahoma City,0.0,1.5,2008
+Charlotte,0.0,4.3,2008
+Orlando,0.7,0.0,2013
+Charlotte,-0.1,8.0,2013
+Orlando,1.3,0.2,2004
+Charlotte,0.0,1.2,2004
+Phoenix,35.2,36.1,2008
+Charlotte,12.2,17.6,2008
+Phoenix,9.0,0.0,2005
+Charlotte,0.0,2.7,2005
+Phoenix,0.0,0.0,2004
+Charlotte,0.0,2.3,2004
+Portland,23.5,6.1,2011
+Charlotte,45.9,0.6,2011
+Sacramento,16.3,4.4,2011
+Charlotte,8.8,5.9,2011
+Sacramento,0.0,0.4,2005
+Charlotte,4.8,1.8,2005
+San Antonio,0.1,0.0,2010
+Charlotte,0.0,1.3,2010
+San Antonio,0.2,0.0,2007
+Charlotte,1.9,-0.1,2007
+Chicago,58.4,0.0,2014
+Cleveland,0.4,2.2,2014
+Chicago,15.7,4.9,2008
+Cleveland,41.6,24.5,2008
+Chicago,0.2,0.0,2006
+Cleveland,0.0,0.0,2006
+Chicago,0.0,6.4,2000
+Cleveland,0.0,3.8,2000
+Chicago,0.0,0.4,1987
+Cleveland,8.1,4.1,1987
+Chicago,2.8,13.0,1985
+Cleveland,0.0,3.0,1985
+Chicago,9.5,1.2,1975
+Cleveland,4.1,4.9,1975
+Chicago,0.0,0.0,1975
+Cleveland,0.7,0.0,1975
+Chicago,0.0,1.9,1999
+Dallas,0.9,0.0,1999
+Chicago,0.0,0.9,1992
+Dallas,7.9,1.4,1992
+Chicago,0.0,0.0,1984
+Dallas,0.0,1.3,1984
+Chicago,0.0,5.3,2008
+Denver,0.0,-0.3,2008
+Chicago,0.0,2.1,2006
+Denver,0.2,20.9,2006
+Chicago,0.0,0.0,1980
+Denver,0.0,2.2,1980
+Chicago,3.4,1.5,1986
+Detroit,5.6,3.4,1986
+Chicago,0.0,0.0,1967
+Detroit,5.7,0.0,1967
+Golden State,6.8,0.0,2010
+Chicago,0.0,4.8,2010
+Chicago,0.0,0.0,2010
+Golden State,0.0,0.9,2010
+Golden State,3.5,3.9,2000
+Chicago,41.2,0.1,2000
+Chicago,6.4,0.3,1998
+Golden State,0.0,2.8,1998
+Chicago,2.7,3.7,1997
+Golden State,0.2,-0.1,1997
+Chicago,0.0,0.2,1993
+Golden State,0.3,0.0,1993
+Chicago,0.0,0.9,1992
+Golden State,0.0,2.7,1992
+Chicago,0.0,0.0,1982
+Golden State,0.0,0.0,1982
+Chicago,0.0,-0.1,1978
+Golden State,13.9,0.0,1978
+Chicago,25.0,5.1,1974
+Golden State,68.6,31.7,1974
+Chicago,0.0,6.0,1966
+San Francisco,25.3,69.4,1966
+Chicago,0.0,4.8,2004
+Houston,1.5,15.4,2004
+Chicago,0.0,-0.4,2000
+Houston,1.3,0.0,2000
+Chicago,99.4,0.0,1999
+Houston,0.0,4.9,1999
+Chicago,0.0,0.5,1986
+Houston,-0.2,6.3,1986
+Chicago,3.3,0.9,1984
+Houston,6.6,12.0,1984
+Chicago,0.0,0.0,1980
+Houston,0.0,2.0,1980
+Chicago,0.0,0.0,1971
+San Diego,0.0,-0.1,1971
+Chicago,14.9,8.6,2002
+Indiana,49.9,35.6,2002
+Chicago,3.9,0.0,1986
+Indiana,0.0,2.4,1986
+Chicago,0.0,3.3,1983
+Indiana,0.0,1.7,1983
+Chicago,0.0,6.7,1981
+Indiana,0.0,0.0,1981
+Chicago,13.6,21.3,2001
+Los Angeles Clippers,1.3,68.3,2001
+Chicago,1.5,0.0,1987
+Los Angeles Clippers,0.0,1.8,1987
+Chicago,0.0,-0.4,1978
+San Diego,0.3,0.0,1978
+Buffalo,0.0,-0.1,1977
+Chicago,0.0,0.3,1977
+Buffalo,6.4,0.0,1975
+Chicago,0.0,4.0,1975
+Buffalo,0.6,2.5,1974
+Chicago,24.7,4.8,1974
+Buffalo,3.4,14.0,1973
+Chicago,2.4,2.0,1973
+Chicago,9.1,0.0,1983
+Los Angeles Lakers,0.0,0.5,1983
+Chicago,6.6,9.4,1980
+Los Angeles Lakers,0.1,5.4,1980
+Chicago,0.0,0.0,1976
+Los Angeles Lakers,0.0,-0.1,1976
+Chicago,0.0,0.0,1969
+Los Angeles Lakers,0.0,-0.3,1969
+Chicago,2.2,0.3,1968
+Los Angeles Lakers,2.1,11.5,1968
+Chicago,3.8,2.3,1968
+Los Angeles Lakers,2.9,2.1,1968
+Chicago,0.0,0.0,2001
+Miami,0.0,0.9,2001
+Chicago,-0.3,0.0,1990
+Miami,0.0,0.0,1990
+Chicago,5.8,1.5,2010
+Milwaukee,2.9,16.9,2010
+Chicago,0.0,-0.1,1999
+Milwaukee,2.6,0.0,1999
+Chicago,6.6,72.9,1968
+Milwaukee,-0.3,14.4,1968
+Chicago,0.0,0.0,2011
+Minnesota,0.0,0.5,2011
+Chicago,10.6,13.0,1994
+Minnesota,1.2,0.5,1994
+Chicago,0.0,0.1,1993
+Minnesota,0.0,0.0,1993
+Brooklyn,-0.2,-0.1,2014
+Chicago,-0.7,0.0,2014
+Chicago,0.0,0.5,1990
+New Jersey,4.5,15.6,1990
+Chicago,48.2,0.0,1976
+New York,0.0,0.5,1976
+Chicago,2.1,-0.3,2010
+New Orleans,4.3,2.0,2010
+Chicago,21.3,2.3,2006
+Oklahoma City,47.4,21.3,2006
+Charlotte,0.0,0.0,2001
+Chicago,0.0,0.0,2001
+Chicago,2.2,0.3,2009
+New York,5.1,1.1,2009
+Chicago,19.4,53.6,2005
+New York,9.4,19.5,2005
+Chicago,9.7,4.4,2004
+New York,13.2,20.1,2004
+Chicago,13.5,28.1,1988
+New York,56.8,73.0,1988
+Chicago,0.0,0.6,1987
+New York,14.5,-0.2,1987
+Chicago,3.1,0.0,1986
+New York,0.0,0.0,1986
+Chicago,4.8,0.0,1974
+New York,0.0,0.1,1974
+Chicago,-0.1,0.9,1971
+New York,0.0,-0.4,1971
+Chicago,3.4,23.4,2009
+Oklahoma City,0.0,21.0,2009
+Chicago,15.7,4.9,2008
+Seattle,1.9,0.1,2008
+Chicago,1.6,2.6,1999
+Seattle,32.4,38.3,1999
+Chicago,0.0,0.0,1989
+Seattle,0.0,0.0,1989
+Chicago,9.2,33.8,1989
+Seattle,0.0,0.5,1989
+Chicago,3.5,4.6,1988
+Seattle,1.0,13.9,1988
+Chicago,0.0,99.4,1987
+Seattle,0.0,9.8,1987
+Chicago,0.3,0.0,1974
+Seattle,0.0,1.1,1974
+Chicago,-0.3,2.4,1972
+Seattle,-0.2,-1.2,1972
+Chicago,35.4,26.4,1969
+Seattle,3.1,12.9,1969
+Chicago,4.1,0.0,1969
+Seattle,0.0,0.5,1969
+Chicago,0.0,0.0,1992
+Orlando,0.0,1.0,1992
+Chicago,24.9,43.5,1989
+Orlando,0.0,-0.2,1989
+Chicago,0.0,3.4,2006
+Philadelphia,0.0,4.4,2006
+Chicago,41.2,0.1,2000
+Philadelphia,4.9,4.6,2000
+Chicago,0.2,3.5,1986
+Philadelphia,3.8,1.5,1986
+Chicago,0.0,0.0,1974
+Philadelphia,0.0,-0.2,1974
+Chicago,0.0,7.0,1972
+Philadelphia,4.1,27.0,1972
+Chicago,0.0,9.4,1970
+Philadelphia,8.4,0.0,1970
+Chicago,13.0,66.9,1969
+Philadelphia,50.6,13.1,1969
+Chicago,1.5,0.0,2010
+Phoenix,0.0,3.9,2010
+Chicago,0.0,58.4,2004
+Phoenix,0.0,0.0,2004
+Chicago,0.0,0.0,2001
+Phoenix,0.0,9.0,2001
+Chicago,13.2,7.2,1999
+Phoenix,4.8,3.1,1999
+Chicago,0.0,1.4,1989
+Phoenix,0.1,0.0,1989
+Chicago,0.2,7.9,1988
+Phoenix,1.0,3.1,1988
+Chicago,0.0,0.0,1981
+Phoenix,3.6,0.0,1981
+Chicago,13.0,11.3,1970
+Phoenix,8.9,19.6,1970
+Chicago,0.0,5.3,2008
+Portland,0.0,0.7,2008
+Chicago,0.0,11.2,2006
+Portland,1.6,60.8,2006
+Chicago,0.0,1.2,2001
+Portland,8.5,0.0,2001
+Chicago,0.0,0.2,1986
+Portland,5.6,0.0,1986
+Chicago,0.0,-0.2,1985
+Portland,0.0,0.8,1985
+Chicago,0.0,6.4,1980
+Portland,0.0,21.4,1980
+Chicago,0.0,28.5,1974
+Portland,0.0,0.0,1974
+Chicago,0.0,1.2,1973
+Portland,5.0,0.5,1973
+Chicago,-0.1,0.0,1970
+Portland,0.0,-0.2,1970
+Chicago,23.1,12.3,2009
+Sacramento,49.8,2.1,2009
+Chicago,0.5,1.1,1991
+Sacramento,0.0,2.1,1991
+Chicago,31.7,4.1,1984
+Kansas City,10.2,22.1,1984
+Chicago,2.3,2.8,1983
+Kansas City,0.0,14.4,1983
+Chicago,9.4,0.8,1975
+Kansas City,0.0,-0.1,1975
+Chicago,6.5,39.2,1971
+Cincinnati,7.7,2.9,1971
+Chicago,4.7,-0.1,1971
+Cincinnati,0.3,7.6,1971
+Chicago,0.8,1.2,1969
+Cincinnati,2.1,7.7,1969
+Chicago,6.0,6.9,1967
+Cincinnati,2.1,0.0,1967
+Chicago,0.3,0.5,1966
+Cincinnati,-1.6,0.4,1966
+Chicago,0.0,0.0,2003
+San Antonio,0.0,0.0,2003
+Chicago,31.5,-0.9,1999
+San Antonio,11.2,5.8,1999
+Chicago,12.7,20.0,1995
+San Antonio,14.5,14.0,1995
+Chicago,0.0,0.1,1987
+San Antonio,40.2,0.0,1987
+Chicago,31.5,3.0,1985
+San Antonio,107.4,13.8,1985
+Chicago,4.1,7.9,1985
+San Antonio,23.3,4.8,1985
+Chicago,0.0,-0.1,1983
+San Antonio,2.7,0.0,1983
+Chicago,6.6,0.0,1983
+San Antonio,0.0,0.0,1983
+Chicago,66.4,27.2,1982
+San Antonio,41.6,40.2,1982
+Chicago,0.8,0.0,2011
+Toronto,0.0,3.2,2011
+Chicago,-0.1,0.6,2003
+Toronto,0.0,0.2,2003
+Chicago,13.8,10.1,2003
+Toronto,35.1,24.0,2003
+Chicago,0.0,16.4,2003
+Toronto,0.0,8.3,2003
+Chicago,0.0,-0.5,2001
+Toronto,8.1,0.0,2001
+Chicago,14.2,0.0,1979
+New Orleans,0.0,0.0,1979
+Chicago,0.0,-0.1,1977
+New Orleans,0.0,0.0,1977
+Chicago,1.2,3.1,1974
+New Orleans,0.0,0.6,1974
+Chicago,39.2,0.0,2010
+Washington,0.0,5.7,2010
+Chicago,0.0,0.7,1976
+Washington,-0.2,0.0,1976
+Capital,7.8,0.0,1973
+Chicago,0.0,0.0,1973
+Baltimore,3.1,1.5,1970
+Chicago,1.4,-0.6,1970
+Cleveland,0.0,4.6,2012
+Dallas,-0.1,5.2,2012
+Cleveland,0.0,65.4,1986
+Dallas,0.0,0.0,1986
+Cleveland,-0.3,9.9,1981
+Dallas,0.8,9.9,1981
+Cleveland,-0.1,1.6,1980
+Dallas,-0.1,88.0,1980
+Cleveland,0.0,2.1,1980
+Dallas,0.0,41.8,1980
+Cleveland,0.0,-0.1,1997
+Denver,0.0,0.0,1997
+Cleveland,9.1,-0.5,1980
+Denver,4.6,4.5,1980
+Cleveland,0.0,1.2,1982
+Detroit,0.8,53.9,1982
+Cleveland,19.1,33.2,1982
+Detroit,10.0,99.0,1982
+Cleveland,23.0,0.0,1979
+Detroit,0.7,0.3,1979
+Cleveland,12.9,3.8,2000
+Golden State,16.4,6.0,2000
+Cleveland,0.0,25.7,1993
+Golden State,11.4,2.4,1993
+Cleveland,0.6,1.5,1983
+Golden State,0.0,0.5,1983
+Cleveland,1.6,21.9,1982
+Golden State,15.4,1.5,1982
+Cleveland,9.3,6.4,1975
+Golden State,13.2,2.1,1975
+Cleveland,0.0,0.0,1991
+Houston,0.0,0.0,1991
+Cleveland,0.0,0.0,1990
+Houston,2.7,0.2,1990
+Cleveland,1.6,4.1,1986
+Houston,0.0,1.4,1986
+Cleveland,0.0,0.0,1972
+Houston,0.0,2.5,1972
+Cleveland,0.3,0.2,1970
+San Diego,0.0,0.7,1970
+Indiana,0.0,6.8,1985
+Cleveland,0.6,0.0,1985
+Indiana,0.0,1.0,1982
+Cleveland,-0.1,0.1,1982
+Cleveland,19.9,16.7,2011
+Los Angeles Clippers,7.2,4.3,2011
+Los Angeles Clippers,4.0,1.7,2010
+Cleveland,63.4,7.8,2010
+Cleveland,24.4,-0.7,2002
+Los Angeles Clippers,6.9,4.6,2002
+Cleveland,9.0,9.7,1999
+Los Angeles Clippers,8.2,3.3,1999
+Cleveland,18.7,27.8,1989
+Los Angeles Clippers,-0.6,52.8,1989
+Cleveland,0.0,0.0,1983
+San Diego,0.0,0.0,1983
+Cleveland,30.2,0.0,1979
+San Diego,0.0,2.0,1979
+Cleveland,0.0,7.5,1979
+San Diego,47.6,16.5,1979
+Buffalo,0.0,0.1,1977
+Cleveland,1.3,0.0,1977
+Cleveland,5.7,0.3,2012
+Los Angeles Lakers,13.3,1.9,2012
+Cleveland,1.2,0.7,1980
+Los Angeles Lakers,11.7,81.2,1980
+Cleveland,0.0,12.0,1979
+Los Angeles Lakers,1.0,0.0,1979
+Cleveland,27.8,9.1,1979
+Los Angeles Lakers,3.5,8.3,1979
+Cleveland,0.0,27.8,1974
+Los Angeles Lakers,0.0,0.0,1974
+Cleveland,0.0,20.5,1972
+Los Angeles Lakers,0.1,0.0,1972
+Cleveland,0.0,7.0,1971
+Los Angeles Lakers,4.0,17.6,1971
+Memphis,4.7,2.4,2013
+Cleveland,-0.2,3.3,2013
+Memphis,-0.8,0.0,2012
+Cleveland,0.0,-0.1,2012
+Memphis,-0.4,2.9,2002
+Cleveland,24.8,0.0,2002
+Miami,0.0,65.3,2010
+Cleveland,103.3,0.0,2010
+Miami,0.0,0.0,2008
+Cleveland,0.0,0.6,2008
+Miami,0.4,1.4,2001
+Cleveland,2.4,8.4,2001
+Miami,11.7,26.1,2000
+Cleveland,17.1,11.0,2000
+Miami,4.2,0.0,1995
+Cleveland,0.0,0.7,1995
+Miami,0.0,0.0,1988
+Cleveland,0.0,4.8,1988
+Cleveland,11.7,16.3,2008
+Milwaukee,25.8,9.5,2008
+Cleveland,-0.3,0.0,2005
+Milwaukee,0.0,0.8,2005
+Milwaukee,7.3,4.4,2000
+Cleveland,12.9,3.8,2000
+Cleveland,61.4,17.1,1997
+Milwaukee,32.8,11.7,1997
+Cleveland,4.4,58.2,1985
+Milwaukee,0.0,0.4,1985
+Cleveland,0.0,18.4,1978
+Milwaukee,0.0,0.0,1978
+Cleveland,0.6,10.5,1977
+Milwaukee,13.5,8.7,1977
+Cleveland,0.4,0.1,1971
+Milwaukee,1.1,0.4,1971
+Cleveland,11.5,8.1,2010
+Minnesota,2.3,0.1,2010
+Cleveland,0.9,0.0,1990
+New Jersey,0.0,8.1,1990
+Cleveland,13.8,0.0,1987
+New Jersey,21.7,3.8,1987
+Cleveland,21.6,4.4,1980
+New Jersey,1.0,9.4,1980
+Cleveland,0.3,-0.1,2007
+New Orleans,0.3,0.0,2007
+Charlotte,0.0,0.3,1990
+Cleveland,0.8,0.2,1990
+Cleveland,0.0,-0.1,1984
+New York,7.5,0.0,1984
+Cleveland,7.5,0.0,1981
+New York,0.0,2.4,1981
+Cleveland,28.5,-0.1,1980
+New York,3.6,7.5,1980
+Cleveland,1.9,0.0,1971
+New York,0.0,0.8,1971
+Cleveland,11.7,16.3,2008
+Oklahoma City,14.1,1.0,2008
+Cleveland,41.6,24.5,2008
+Seattle,1.9,0.1,2008
+Cleveland,-0.4,1.3,2006
+Seattle,0.6,0.9,2006
+Seattle,67.6,18.2,1997
+Cleveland,61.4,17.1,1997
+Cleveland,0.0,3.6,1983
+Seattle,23.4,0.3,1983
+Cleveland,0.0,45.2,1974
+Seattle,34.1,15.9,1974
+Cleveland,5.9,21.2,1972
+Seattle,36.2,1.5,1972
+Cleveland,0.0,0.0,2011
+Orlando,0.0,-0.3,2011
+Cleveland,0.0,0.0,2005
+Orlando,0.0,0.0,2005
+Cleveland,1.4,66.8,2004
+Orlando,5.7,11.3,2004
+Cleveland,0.0,0.3,2001
+Orlando,6.6,0.0,2001
+Cleveland,5.6,2.6,2000
+Orlando,2.8,7.9,2000
+Cleveland,7.1,0.3,1992
+Orlando,0.0,0.4,1992
+Cleveland,0.4,1.9,2014
+Philadelphia,12.3,1.9,2014
+Cleveland,0.0,16.0,2006
+Philadelphia,0.5,0.0,2006
+Cleveland,3.6,6.6,2004
+Philadelphia,34.6,2.3,2004
+Cleveland,7.8,7.4,2001
+Philadelphia,14.7,6.1,2001
+Cleveland,14.9,65.2,1986
+Philadelphia,0.0,5.5,1986
+Cleveland,0.0,2.9,1977
+Philadelphia,0.0,0.0,1977
+Cleveland,4.3,0.4,1972
+Philadelphia,2.8,1.1,1972
+Cleveland,11.2,3.1,2009
+Phoenix,9.5,0.0,2009
+Cleveland,0.0,0.2,2002
+Phoenix,0.1,0.0,2002
+Cleveland,0.0,24.8,1997
+Phoenix,12.9,10.0,1997
+Cleveland,58.3,20.8,1995
+Phoenix,49.7,11.8,1995
+Cleveland,0.0,-0.1,1990
+Phoenix,0.0,-0.1,1990
+Cleveland,0.0,7.1,1989
+Phoenix,0.4,0.0,1989
+Cleveland,10.8,64.3,1988
+Phoenix,62.1,179.8,1988
+Cleveland,0.0,0.0,1987
+Phoenix,0.0,0.4,1987
+Cleveland,4.8,20.6,1983
+Phoenix,9.4,13.7,1983
+Cleveland,5.1,0.0,1972
+Phoenix,0.0,-0.1,1972
+Cleveland,0.0,0.3,1971
+Phoenix,0.3,0.0,1971
+Cleveland,0.0,0.0,2013
+Portland,0.0,0.0,2013
+Cleveland,-0.7,6.4,2004
+Portland,3.9,3.3,2004
+Cleveland,17.1,11.0,2000
+Portland,16.9,2.8,2000
+Cleveland,0.0,0.0,1983
+Portland,0.7,0.0,1983
+Cleveland,0.0,1.0,1979
+Portland,0.3,0.0,1979
+Cleveland,18.0,23.0,1973
+Portland,0.0,13.8,1973
+Cleveland,1.0,21.6,1972
+Portland,0.0,0.4,1972
+Cleveland,7.3,1.9,2011
+Sacramento,5.0,-0.1,2011
+Cleveland,1.1,9.0,1982
+Kansas City,1.9,3.6,1982
+Kansas City,21.2,22.1,1980
+Cleveland,28.5,-0.1,1980
+San Antonio,5.6,2.4,1984
+Cleveland,5.7,3.0,1984
+San Antonio,7.5,33.4,1981
+Cleveland,22.8,2.8,1981
+San Antonio,0.0,2.7,1981
+Cleveland,2.1,0.0,1981
+San Antonio,57.9,0.1,1981
+Cleveland,0.0,2.4,1981
+Toronto,1.1,0.9,2002
+Cleveland,9.7,0.2,2002
+Toronto,0.0,0.0,2001
+Cleveland,2.4,8.4,2001
+Utah,2.2,1.9,1987
+Cleveland,9.8,2.0,1987
+Cleveland,63.4,7.8,2010
+Washington,41.4,2.0,2010
+Cleveland,65.4,2.4,1995
+Washington,0.0,0.0,1995
+Cleveland,9.0,9.8,1984
+Washington,0.0,8.5,1984
+Dallas,0.5,0.0,2011
+Denver,0.0,7.4,2011
+Dallas,0.0,0.0,2003
+Denver,0.0,0.0,2003
+Dallas,7.5,14.0,2002
+Denver,37.4,11.5,2002
+Dallas,0.0,0.0,2001
+Denver,0.0,-0.9,2001
+Dallas,0.0,4.2,1990
+Denver,47.9,0.0,1990
+Dallas,0.0,70.3,1980
+Denver,0.0,29.9,1980
+Dallas,0.0,0.7,2000
+Detroit,0.7,2.7,2000
+Dallas,5.2,2.6,2000
+Detroit,33.3,0.6,2000
+Dallas,49.0,5.1,1989
+Detroit,25.0,17.9,1989
+Dallas,12.8,31.5,2004
+Golden State,18.3,0.3,2004
+Dallas,17.3,11.3,2003
+Golden State,37.2,1.4,2003
+Golden State,14.3,6.4,2000
+Dallas,0.9,4.3,2000
+Golden State,0.0,2.7,1992
+Dallas,7.9,1.4,1992
+Houston,0.0,0.0,2012
+Dallas,0.3,0.0,2012
+Dallas,0.0,0.0,2004
+Houston,0.0,-0.1,2004
+Dallas,4.4,0.0,2001
+Houston,8.8,3.3,2001
+Dallas,0.0,11.1,2000
+Houston,0.0,-0.1,2000
+Dallas,1.4,3.0,1995
+Houston,8.5,0.0,1995
+Dallas,0.0,11.0,1993
+Houston,0.0,0.4,1993
+Indiana,13.1,5.6,2012
+Dallas,5.2,6.0,2012
+Indiana,2.1,2.2,2008
+Dallas,1.1,0.0,2008
+Indiana,12.1,3.1,2006
+Dallas,1.8,0.8,2006
+Indiana,25.2,2.8,2006
+Dallas,9.9,1.3,2006
+Indiana,26.8,69.6,1989
+Dallas,10.2,5.2,1989
+Indiana,0.0,5.4,1984
+Dallas,7.4,0.0,1984
+Dallas,0.3,0.0,2012
+Los Angeles Clippers,3.9,2.7,2012
+Dallas,4.7,0.0,2000
+Los Angeles Clippers,0.1,3.3,2000
+Dallas,13.0,36.5,1985
+Los Angeles Clippers,11.4,3.0,1985
+Dallas,0.0,0.0,2012
+Los Angeles Lakers,0.0,-0.1,2012
+Dallas,0.0,0.3,2011
+Los Angeles Lakers,53.0,0.0,2011
+Dallas,0.0,0.0,2006
+Los Angeles Lakers,0.0,0.0,2006
+Dallas,10.6,1.1,1999
+Los Angeles Lakers,3.3,5.0,1999
+Dallas,0.0,0.0,2013
+Memphis,0.0,1.5,2013
+Memphis,0.3,0.0,2009
+Dallas,16.9,24.5,2009
+Miami,44.1,0.0,2001
+Dallas,0.0,1.6,2001
+Miami,7.7,15.5,1997
+Dallas,7.8,2.6,1997
+Dallas,0.0,0.0,1988
+Miami,0.0,6.7,1988
+Dallas,4.7,4.4,2005
+Milwaukee,3.8,0.4,2005
+Dallas,0.0,184.8,1998
+Milwaukee,0.0,3.5,1998
+Dallas,0.0,0.3,1989
+Milwaukee,0.0,0.0,1989
+Dallas,0.0,8.3,1982
+Milwaukee,7.0,15.9,1982
+Minnesota,0.0,0.3,2009
+Dallas,0.0,0.0,2009
+Minnesota,0.0,0.0,2009
+Dallas,0.0,0.0,2009
+Minnesota,11.6,0.1,2007
+Dallas,8.3,0.3,2007
+Dallas,0.9,0.0,1996
+Minnesota,0.0,6.1,1996
+Minnesota,0.0,4.7,1994
+Dallas,3.6,0.0,1994
+Dallas,0.6,0.9,2010
+New Jersey,0.0,14.2,2010
+Dallas,31.4,32.3,2008
+New Jersey,58.2,18.4,2008
+Dallas,27.2,36.2,1997
+New Jersey,8.7,15.9,1997
+Dallas,2.2,4.5,1983
+New Jersey,9.4,9.2,1983
+Dallas,0.0,1.8,1983
+New Jersey,0.0,0.0,1983
+Dallas,-0.1,0.9,2004
+New Orleans,5.3,3.5,2004
+Dallas,9.4,0.0,2011
+New York,3.0,23.7,2011
+Dallas,4.4,0.0,2001
+New York,5.7,10.5,2001
+Dallas,5.6,0.3,2000
+New York,2.6,0.3,2000
+Dallas,63.1,0.5,1994
+New York,3.6,16.7,1994
+Dallas,70.3,0.7,1992
+New York,0.0,5.3,1992
+Dallas,36.5,-0.2,1992
+New York,1.0,-0.1,1992
+Dallas,0.0,4.8,2009
+Oklahoma City,0.0,-0.3,2009
+Dallas,2.3,0.6,2004
+Seattle,3.5,4.5,2004
+Dallas,5.5,1.0,1986
+Seattle,11.1,45.5,1986
+Dallas,16.9,24.5,2009
+Orlando,32.3,0.0,2009
+Orlando,0.0,0.0,2007
+Dallas,0.0,0.0,2007
+Orlando,0.0,0.0,2000
+Dallas,0.0,-0.1,2000
+Orlando,28.3,2.3,1997
+Dallas,65.5,1.3,1997
+Dallas,0.0,0.0,2013
+Philadelphia,0.0,0.0,2013
+Dallas,0.0,0.0,1985
+Philadelphia,0.0,0.0,1985
+Dallas,2.1,42.7,1998
+Phoenix,5.4,94.3,1998
+Dallas,1.3,5.2,1998
+Phoenix,18.7,1.0,1998
+Dallas,11.1,77.8,1996
+Phoenix,30.0,37.5,1996
+Dallas,0.0,1.8,1980
+Phoenix,0.0,0.0,1980
+Dallas,0.0,0.0,2011
+Portland,26.9,1.7,2011
+Dallas,0.0,0.0,2009
+Portland,0.0,0.0,2009
+Dallas,0.0,0.9,1997
+Portland,0.0,4.3,1997
+Dallas,2.9,2.2,1982
+Portland,6.5,91.1,1982
+Dallas,4.3,11.6,1990
+Sacramento,10.8,18.9,1990
+San Antonio,0.0,0.0,1999
+Dallas,0.0,0.0,1999
+Toronto,0.0,0.2,2011
+Dallas,0.1,0.0,2011
+Toronto,0.0,0.0,2010
+Dallas,0.0,0.0,2010
+Toronto,5.5,3.7,2009
+Dallas,16.9,24.5,2009
+Toronto,0.0,6.4,1996
+Dallas,10.9,0.0,1996
+Utah,0.0,1.8,2012
+Dallas,0.3,0.0,2012
+Utah,0.0,0.0,2004
+Dallas,0.0,-0.1,2004
+Utah,29.0,13.5,2000
+Dallas,0.9,4.3,2000
+Utah,8.6,-0.2,1981
+Dallas,2.4,5.6,1981
+Utah,0.0,1.1,1980
+Dallas,0.0,-0.1,1980
+Dallas,9.4,0.0,2011
+Washington,0.0,0.1,2011
+Dallas,43.6,12.2,2010
+Washington,67.4,2.9,2010
+Dallas,9.0,30.4,2004
+Washington,19.9,41.4,2004
+Dallas,12.2,7.2,2001
+Washington,28.4,33.4,2001
+Dallas,22.6,0.0,1986
+Washington,0.0,1.9,1986
+Denver,0.0,15.7,2009
+Detroit,3.5,0.5,2009
+Denver,16.5,25.2,2008
+Detroit,102.7,2.7,2008
+Denver,0.1,2.2,2002
+Detroit,-0.2,1.0,2002
+Denver,4.0,0.0,1993
+Detroit,1.7,0.2,1993
+Denver,3.9,1.5,1991
+Detroit,0.9,6.6,1991
+Denver,0.0,0.9,1990
+Detroit,0.0,0.0,1990
+Denver,3.5,-0.4,1978
+Detroit,1.4,9.1,1978
+Denver,28.3,2.5,1976
+Detroit,28.0,1.4,1976
+Denver,5.6,4.6,2013
+Golden State,35.9,5.8,2013
+Denver,0.8,12.8,2005
+Golden State,0.3,-0.3,2005
+Denver,0.0,-0.1,1993
+Golden State,0.0,0.5,1993
+Denver,2.1,1.0,2014
+Houston,12.0,0.6,2014
+Denver,11.8,1.1,2002
+Houston,9.5,4.4,2002
+Denver,3.8,-0.1,1997
+Indiana,3.5,20.2,1997
+Denver,0.1,-0.1,1997
+Indiana,0.5,0.0,1997
+Denver,32.3,4.9,1996
+Indiana,14.8,26.2,1996
+Denver,8.1,83.8,1980
+Indiana,10.6,3.0,1980
+Denver,0.0,0.0,1978
+Indiana,0.0,0.0,1978
+Denver,-0.1,0.0,2009
+Los Angeles Clippers,0.0,0.0,2009
+Denver,35.9,0.0,2008
+Los Angeles Clippers,0.0,9.9,2008
+Denver,7.1,-0.1,1995
+Los Angeles Clippers,0.1,4.0,1995
+Denver,5.9,24.4,1995
+Los Angeles Clippers,0.5,18.8,1995
+Denver,0.0,2.9,1991
+Los Angeles Clippers,2.8,0.0,1991
+Denver,8.0,1.3,1983
+San Diego,0.5,0.9,1983
+Buffalo,0.2,2.0,1976
+Denver,10.4,3.5,1976
+Denver,0.0,0.0,2011
+Los Angeles Lakers,0.0,0.0,2011
+Denver,0.5,16.4,1998
+Los Angeles Lakers,29.8,1.0,1998
+Denver,0.0,3.9,1990
+Los Angeles Lakers,8.0,0.0,1990
+Denver,0.0,0.5,1978
+Los Angeles Lakers,1.6,0.3,1978
+Memphis,7.4,3.5,2013
+Denver,9.5,0.7,2013
+Memphis,0.0,0.1,2009
+Denver,0.1,0.0,2009
+Miami,24.1,5.6,2000
+Denver,1.5,9.9,2000
+Miami,0.0,5.9,1990
+Denver,0.0,22.1,1990
+Denver,-0.3,0.1,2009
+Milwaukee,0.3,0.0,2009
+Denver,15.4,2.2,2007
+Milwaukee,-0.1,4.3,2007
+Denver,1.1,0.2,2006
+Milwaukee,14.0,5.4,2006
+Denver,1.4,0.4,2001
+Milwaukee,7.2,0.0,2001
+Denver,5.2,8.5,1997
+Milwaukee,10.8,23.7,1997
+Milwaukee,0.0,0.6,1991
+Denver,16.1,-0.1,1991
+Denver,32.4,0.3,1990
+Milwaukee,0.0,9.1,1990
+Denver,1.4,0.0,1986
+Milwaukee,0.0,0.0,1986
+Denver,91.5,36.2,2011
+Minnesota,1.9,1.7,2011
+Denver,0.0,31.0,2009
+Minnesota,0.0,0.0,2009
+Denver,1.6,27.8,1999
+Minnesota,13.4,9.1,1999
+Denver,0.0,23.9,2004
+New Jersey,20.7,0.1,2004
+Denver,8.8,26.7,1991
+New Jersey,0.1,23.3,1991
+Denver,0.0,0.1,1990
+New Jersey,2.9,0.0,1990
+Denver,0.0,1.3,1978
+New Jersey,2.0,0.0,1978
+Denver,0.0,0.0,1976
+New York,0.0,0.0,1976
+Denver,0.0,2.7,1976
+New York,0.9,0.0,1976
+Charlotte,1.6,1.9,1997
+Denver,0.9,4.3,1997
+Charlotte,1.0,0.4,1989
+Denver,0.0,1.3,1989
+Denver,91.5,36.2,2011
+New York,34.8,33.1,2011
+Denver,0.3,2.8,2008
+New York,4.1,-0.2,2008
+Denver,24.3,87.0,2002
+New York,59.5,0.8,2002
+Denver,0.0,3.8,1986
+New York,7.2,0.0,1986
+Denver,0.3,0.9,2009
+Oklahoma City,3.2,-0.2,2009
+Denver,13.5,4.0,2006
+Seattle,12.4,5.7,2006
+Denver,12.8,15.2,1997
+Seattle,2.3,8.4,1997
+Denver,0.0,-0.6,1997
+Seattle,0.0,58.9,1997
+Denver,0.0,2.9,1990
+Seattle,0.8,0.0,1990
+Denver,56.8,20.3,1982
+Seattle,6.5,6.4,1982
+Denver,0.4,0.0,1978
+Seattle,0.0,4.0,1978
+Denver,10.2,3.8,1977
+Seattle,16.8,17.9,1977
+Denver,21.0,5.6,2012
+Orlando,97.4,23.3,2012
+Denver,0.0,0.0,2004
+Orlando,0.0,43.0,2004
+Denver,0.0,0.0,2002
+Orlando,3.2,0.0,2002
+Denver,0.0,0.0,2001
+Orlando,0.0,0.0,2001
+Denver,3.9,1.3,2000
+Orlando,4.5,0.6,2000
+Denver,0.0,5.2,1999
+Orlando,-0.1,6.9,1999
+Denver,0.0,0.1,1997
+Orlando,0.0,0.5,1997
+Denver,6.2,7.1,1993
+Orlando,2.2,0.0,1993
+Denver,33.3,0.7,2014
+Philadelphia,0.0,-0.2,2014
+Philadelphia,63.0,1.4,2012
+Denver,21.0,5.6,2012
+Denver,2.9,0.4,2007
+Philadelphia,5.6,4.5,2007
+Denver,24.1,16.5,2006
+Philadelphia,79.2,23.5,2006
+Philadelphia,-0.2,12.5,2002
+Denver,11.8,1.1,2002
+Denver,68.3,15.8,1978
+Philadelphia,25.0,55.0,1978
+Denver,0.0,2.1,1976
+Philadelphia,0.0,0.0,1976
+Denver,5.4,11.8,1997
+Phoenix,12.9,10.0,1997
+Denver,0.0,0.6,1982
+Phoenix,7.9,0.3,1982
+Denver,1.3,11.5,2011
+Portland,26.9,1.7,2011
+Denver,0.0,-0.3,2008
+Portland,0.0,0.7,2008
+Denver,-0.4,0.0,2008
+Portland,-0.1,-0.1,2008
+Denver,13.5,4.0,2006
+Portland,16.2,0.2,2006
+Denver,0.0,12.3,2005
+Portland,0.0,9.1,2005
+Denver,0.0,8.1,1992
+Portland,1.1,0.0,1992
+Denver,8.8,26.7,1991
+Portland,3.1,1.0,1991
+Denver,30.2,98.8,1984
+Portland,50.2,33.9,1984
+Denver,0.0,31.0,1980
+Portland,8.5,114.3,1980
+Denver,22.1,-0.4,1996
+Sacramento,2.6,2.4,1996
+Denver,0.0,0.1,1983
+Kansas City,1.4,-0.1,1983
+Denver,0.0,-0.1,1978
+Kansas City,0.0,1.4,1978
+Denver,1.3,0.0,1978
+Kansas City,10.7,2.6,1978
+Denver,0.0,2.2,1977
+Kansas City,7.9,6.9,1977
+San Antonio,12.7,-0.2,1989
+Denver,20.5,1.1,1989
+San Antonio,0.0,2.9,1988
+Denver,0.0,0.0,1988
+San Antonio,0.8,0.0,1984
+Denver,0.0,0.0,1984
+Denver,5.0,1.3,2001
+Toronto,6.3,10.8,2001
+Denver,1.6,27.8,1999
+Toronto,0.4,30.4,1999
+Denver,5.6,4.6,2013
+Utah,3.4,2.3,2013
+Denver,0.0,0.0,2013
+Utah,0.0,0.4,2013
+Denver,0.0,0.0,2000
+Utah,0.0,0.0,2000
+Denver,0.6,32.4,1983
+Utah,2.8,6.0,1983
+Denver,-0.4,8.0,1980
+Utah,1.1,0.0,1980
+Denver,6.7,0.0,1979
+Utah,0.0,3.2,1979
+Denver,3.7,0.0,1979
+Utah,0.0,0.1,1979
+Denver,33.3,0.7,2014
+Washington,3.1,1.1,2014
+Denver,51.1,6.1,2012
+Washington,19.5,8.6,2012
+Denver,6.5,0.8,2002
+Washington,20.8,0.0,2002
+Denver,0.6,0.0,2000
+Washington,15.0,5.5,2000
+Denver,6.9,1.7,1995
+Washington,9.0,2.7,1995
+Denver,29.0,-0.6,1991
+Washington,0.0,13.9,1991
+Denver,5.3,31.7,1987
+Washington,4.6,20.7,1987
+Denver,0.0,2.5,1977
+Washington,0.0,2.0,1977
+Detroit,8.7,2.0,2003
+Golden State,6.0,3.0,2003
+Detroit,0.0,-0.1,1978
+Golden State,0.3,36.7,1978
+Detroit,0.5,0.0,1969
+San Francisco,0.0,1.4,1969
+Detroit,0.0,0.2,2009
+Houston,0.0,9.6,2009
+Detroit,0.0,2.1,1980
+Houston,-0.1,0.8,1980
+Detroit,20.7,3.8,1972
+Houston,25.9,6.1,1972
+Detroit,0.0,7.5,1971
+Houston,0.1,0.0,1971
+Detroit,0.0,0.0,1989
+Indiana,0.0,0.0,1989
+Detroit,0.0,0.6,1982
+Indiana,3.7,0.0,1982
+Detroit,-0.2,0.0,2009
+Los Angeles Clippers,0.0,0.0,2009
+Detroit,1.8,5.4,1992
+Los Angeles Clippers,7.4,0.0,1992
+Detroit,12.6,0.4,1991
+Los Angeles Clippers,2.1,2.8,1991
+Detroit,0.0,0.5,1987
+Los Angeles Clippers,3.0,21.2,1987
+Detroit,-0.1,0.0,1983
+San Diego,0.0,1.8,1983
+Buffalo,11.4,1.9,1977
+Detroit,1.5,7.7,1977
+Buffalo,0.0,-0.1,1972
+Detroit,1.3,0.0,1972
+Detroit,3.2,0.1,2006
+Los Angeles Lakers,0.0,2.9,2006
+Detroit,0.0,1.7,1980
+Los Angeles Lakers,0.0,0.0,1980
+Detroit,10.7,3.0,1969
+Los Angeles Lakers,1.6,44.6,1969
+Los Angeles Lakers,46.6,14.8,1967
+Detroit,16.8,0.0,1967
+Detroit,57.5,17.0,1957
+Minneapolis,4.2,10.6,1957
+Fort Wayne,3.0,0.0,1957
+Minneapolis,5.3,0.8,1957
+Detroit,60.3,3.0,2013
+Memphis,30.8,8.9,2013
+Detroit,15.5,-0.3,1997
+Vancouver,0.0,1.4,1997
+Miami,0.0,1.1,2000
+Detroit,0.3,0.0,2000
+Miami,0.0,11.0,1992
+Detroit,29.4,27.2,1992
+Detroit,3.7,3.9,2013
+Milwaukee,19.4,5.5,2013
+Detroit,6.4,0.0,2009
+Milwaukee,0.0,0.0,2009
+Detroit,22.9,0.8,2000
+Milwaukee,0.0,4.6,2000
+Detroit,6.6,1.7,1993
+Milwaukee,20.4,0.1,1993
+Detroit,91.6,20.9,1980
+Milwaukee,11.0,25.5,1980
+Detroit,0.0,1.4,1979
+Milwaukee,0.0,88.5,1979
+Detroit,0.0,0.1,1978
+Milwaukee,0.0,0.0,1978
+Detroit,0.1,0.5,1969
+Milwaukee,2.2,0.1,1969
+Detroit,1.0,-0.3,2005
+Minnesota,0.0,0.3,2005
+Detroit,0.9,1.6,1992
+Minnesota,1.0,0.2,1992
+Detroit,11.4,6.2,1978
+New Jersey,4.0,2.1,1978
+Detroit,12.3,34.8,1977
+New Jersey,10.7,7.9,1977
+Detroit,3.4,-0.2,1987
+New York,0.0,4.7,1987
+Detroit,0.0,8.8,1974
+New York,0.1,0.0,1974
+Detroit,25.8,10.6,1968
+New York,36.9,34.9,1968
+Detroit,2.8,4.5,1963
+New York,0.5,14.8,1963
+Detroit,36.5,0.1,1962
+New York,0.7,0.7,1962
+Fort Wayne,16.9,6.8,1957
+New York,87.3,5.1,1957
+Fort Wayne,0.0,14.8,1957
+New York,36.1,0.0,1957
+Fort Wayne,0.0,36.5,1956
+New York,2.9,7.2,1956
+Detroit,0.0,-0.1,2008
+Seattle,0.0,1.3,2008
+Detroit,0.0,0.0,1996
+Seattle,0.0,0.0,1996
+Detroit,25.0,0.0,1986
+Seattle,0.0,0.0,1986
+Seattle,1.6,2.7,1983
+Detroit,0.0,1.0,1983
+Detroit,1.4,43.2,1981
+Seattle,6.3,4.7,1981
+Detroit,0.0,1.7,1975
+Seattle,6.2,0.0,1975
+Detroit,0.0,2.9,1969
+Seattle,0.5,0.7,1969
+Detroit,1.6,22.7,2006
+Orlando,4.7,11.4,2006
+Detroit,0.0,0.0,2001
+Orlando,0.0,0.0,2001
+Detroit,60.0,76.8,2000
+Orlando,8.0,17.5,2000
+Detroit,16.5,-0.1,2004
+Philadelphia,19.4,2.1,2004
+Detroit,12.2,29.2,1997
+Philadelphia,4.3,51.2,1997
+Detroit,0.0,1.1,1994
+Philadelphia,0.9,0.0,1994
+Detroit,47.7,1.3,1959
+Syracuse,12.5,10.8,1959
+Detroit,0.0,4.4,1958
+Syracuse,22.4,0.0,1958
+Detroit,5.2,8.7,2001
+Phoenix,27.4,0.8,2001
+Detroit,0.0,2.7,1994
+Phoenix,30.5,0.0,1994
+Detroit,-0.2,0.0,1989
+Phoenix,0.0,2.2,1989
+Detroit,-0.1,12.6,1988
+Phoenix,13.7,4.2,1988
+Detroit,0.0,1.8,1987
+Phoenix,-0.8,0.0,1987
+Detroit,0.0,-0.1,1983
+Phoenix,0.3,43.8,1983
+Detroit,-0.8,0.0,1979
+Phoenix,0.0,0.0,1979
+Detroit,0.0,1.3,1975
+Phoenix,1.0,0.0,1975
+Detroit,6.8,-0.6,1971
+Phoenix,0.0,2.3,1971
+Detroit,1.0,2.5,1968
+Phoenix,0.0,15.9,1968
+Detroit,0.0,0.0,1999
+Portland,0.0,19.0,1999
+Detroit,0.0,3.0,1997
+Portland,8.5,9.8,1997
+Detroit,0.5,15.5,1995
+Portland,3.3,-0.1,1995
+Detroit,0.0,18.9,1995
+Portland,0.0,0.0,1995
+Detroit,0.0,0.0,1983
+Portland,0.6,0.0,1983
+Detroit,0.6,-0.1,1982
+Portland,0.0,20.0,1982
+Detroit,0.3,0.0,1979
+Portland,0.0,2.0,1979
+Detroit,34.4,-0.9,1972
+Portland,0.0,1.4,1972
+Detroit,-0.1,17.4,2001
+Sacramento,9.0,-0.6,2001
+Detroit,5.4,0.2,1994
+Sacramento,3.0,19.0,1994
+Detroit,0.0,0.0,1981
+Kansas City,0.0,21.2,1981
+Detroit,0.0,14.7,1972
+Kansas City-Omaha,3.5,0.9,1972
+Cincinnati,15.0,23.3,1968
+Detroit,13.9,11.7,1968
+Cincinnati,0.4,1.8,1967
+Detroit,0.0,3.5,1967
+Detroit,2.8,4.5,1963
+Cincinnati,9.9,0.7,1963
+Cincinnati,0.7,2.5,1959
+Detroit,6.5,4.1,1959
+Fort Wayne,10.6,2.0,1955
+Rochester,16.8,4.3,1955
+Detroit,0.0,0.0,2002
+San Antonio,0.0,-0.2,2002
+Detroit,1.4,1.1,1994
+San Antonio,0.0,26.4,1994
+Detroit,53.9,22.9,1993
+San Antonio,28.9,14.5,1993
+Detroit,4.1,0.0,1983
+San Antonio,0.0,5.6,1983
+Detroit,0.3,0.3,2008
+Toronto,1.1,0.2,2008
+Detroit,4.3,17.8,2007
+Toronto,0.0,4.0,2007
+Detroit,12.7,4.3,2003
+Toronto,-0.6,0.3,2003
+Detroit,0.0,5.2,2001
+Toronto,0.0,-0.2,2001
+Detroit,20.6,16.6,2001
+Toronto,0.8,13.0,2001
+Detroit,2.2,1.9,2005
+Utah,5.5,0.0,2005
+Detroit,0.0,0.0,1987
+Utah,-0.2,0.0,1987
+Detroit,52.8,25.0,1986
+Utah,76.3,6.7,1986
+Detroit,0.0,0.2,1981
+Utah,0.7,2.7,1981
+Detroit,28.2,54.4,2002
+Washington,10.9,6.7,2002
+Detroit,0.0,2.1,1991
+Washington,13.8,0.0,1991
+Detroit,2.7,15.8,1985
+Washington,22.4,5.7,1985
+Detroit,56.0,9.7,1975
+Washington,13.9,9.2,1975
+Baltimore,0.5,2.1,1970
+Detroit,22.2,3.5,1970
+Detroit,16.8,0.0,1967
+Baltimore,0.2,14.1,1967
+Baltimore,24.1,38.3,1964
+Detroit,79.2,41.3,1964
+Baltimore,1.3,26.4,1963
+Detroit,-0.3,0.8,1963
+Golden State,58.3,1.9,1987
+Houston,22.5,24.6,1987
+Golden State,42.1,0.3,1987
+Houston,0.5,5.8,1987
+Golden State,0.6,3.6,2011
+Indiana,5.9,1.0,2011
+Golden State,44.2,17.9,2007
+Indiana,29.3,46.2,2007
+Golden State,0.0,24.3,1999
+Indiana,0.0,47.5,1999
+Golden State,79.4,18.1,1997
+Indiana,4.9,13.4,1997
+Golden State,5.6,-0.2,1990
+Los Angeles Clippers,0.0,2.8,1990
+Golden State,0.0,6.7,1984
+San Diego,9.7,-0.6,1984
+Golden State,33.0,15.4,1980
+San Diego,18.1,2.7,1980
+Buffalo,0.0,1.9,1977
+Golden State,14.0,0.1,1977
+Golden State,-0.1,1.1,2014
+Los Angeles Lakers,6.0,0.7,2014
+Golden State,0.0,0.0,1994
+Los Angeles Lakers,0.0,1.3,1994
+Golden State,10.7,0.0,1990
+Los Angeles Lakers,0.0,3.3,1990
+Golden State,0.2,0.4,2014
+Miami,13.3,0.7,2014
+Golden State,54.5,4.9,1996
+Miami,25.7,48.0,1996
+Golden State,13.5,3.0,1994
+Miami,25.1,9.4,1994
+Golden State,0.7,0.0,1989
+Miami,0.0,2.0,1989
+Golden State,24.1,8.2,2012
+Milwaukee,30.0,9.4,2012
+Golden State,9.6,0.0,2010
+Milwaukee,28.5,3.4,2010
+Golden State,16.4,6.0,2000
+Milwaukee,7.3,4.4,2000
+Golden State,0.0,0.0,1987
+Milwaukee,0.0,2.6,1987
+Golden State,0.0,0.0,2013
+Minnesota,0.5,0.0,2013
+Golden State,2.9,0.0,2002
+Minnesota,12.0,2.3,2002
+Golden State,0.9,14.0,1995
+Minnesota,-0.1,19.0,1995
+Golden State,3.5,5.1,2011
+New Jersey,-0.1,0.5,2011
+Golden State,6.6,0.0,2010
+New Jersey,0.0,4.8,2010
+Golden State,0.0,-0.1,2008
+New Jersey,0.1,0.0,2008
+Golden State,3.0,0.5,2005
+New Jersey,0.0,3.8,2005
+Golden State,7.8,0.0,1985
+New Jersey,0.0,1.8,1985
+Golden State,0.1,35.4,1983
+New Jersey,3.2,16.3,1983
+Golden State,0.0,0.4,1982
+New Jersey,0.0,0.1,1982
+New Orleans,6.3,0.0,2012
+Golden State,9.2,5.6,2012
+Golden State,8.7,22.2,2005
+New Orleans,32.8,3.2,2005
+Charlotte,9.7,14.3,2001
+Golden State,2.9,0.0,2001
+Charlotte,46.4,2.7,1997
+Golden State,8.2,4.6,1997
+Charlotte,7.9,0.9,1997
+Golden State,0.6,0.2,1997
+Golden State,17.5,27.8,2010
+New York,36.3,3.0,2010
+Golden State,8.1,2.7,2008
+New York,17.5,7.5,2008
+Golden State,27.9,13.1,1999
+New York,50.5,20.8,1999
+Golden State,17.9,0.1,1982
+New York,18.7,27.1,1982
+New York,19.4,22.4,1971
+San Francisco,18.2,19.6,1971
+New York,75.6,9.8,1962
+San Francisco,43.4,5.9,1962
+New York,0.3,1.8,1959
+Philadelphia,15.9,-0.2,1959
+Golden State,0.0,0.0,2013
+Oklahoma City,0.0,0.8,2013
+Golden State,18.3,2.4,1994
+Seattle,22.1,2.8,1994
+Golden State,0.0,2.3,1989
+Seattle,11.9,123.8,1989
+Golden State,0.0,0.0,1989
+Seattle,0.0,11.4,1989
+Golden State,0.1,2.7,1980
+Seattle,0.0,-0.1,1980
+Golden State,1.2,13.2,1973
+Seattle,1.5,0.6,1973
+Golden State,4.0,-0.3,1997
+Orlando,3.1,1.7,1997
+Golden State,5.4,3.0,1996
+Orlando,16.8,9.6,1996
+Golden State,0.0,7.9,1993
+Orlando,0.0,68.6,1993
+Golden State,0.4,0.0,2013
+Philadelphia,0.0,0.1,2013
+Golden State,9.2,5.6,2012
+Philadelphia,0.0,4.9,2012
+Golden State,0.0,-0.4,2002
+Philadelphia,0.0,0.0,2002
+Golden State,2.9,0.0,2001
+Philadelphia,15.0,14.9,2001
+Philadelphia,4.9,4.6,2000
+Golden State,3.5,3.9,2000
+Golden State,12.7,2.4,1998
+Philadelphia,28.2,3.7,1998
+Golden State,1.7,15.6,1990
+Philadelphia,0.0,2.4,1990
+Golden State,6.5,-0.2,1983
+Philadelphia,0.0,2.5,1983
+Philadelphia,26.3,71.2,1965
+San Francisco,112.4,13.0,1965
+Philadelphia,0.0,-0.6,1963
+San Francisco,-0.2,0.1,1963
+Golden State,0.0,-0.4,2013
+Phoenix,0.0,0.2,2013
+Golden State,0.0,1.5,2005
+Phoenix,-0.4,0.0,2005
+Golden State,0.0,1.4,2001
+Phoenix,2.1,1.7,2001
+Golden State,0.0,0.0,1974
+Phoenix,0.0,0.5,1974
+Golden State,0.0,0.0,2010
+Portland,0.0,-0.3,2010
+Golden State,1.2,0.9,2004
+Portland,25.9,1.6,2004
+Golden State,0.0,0.2,1991
+Portland,0.0,-0.1,1991
+Golden State,0.0,0.1,1987
+Portland,16.7,0.0,1987
+Golden State,0.0,2.4,1981
+Portland,1.0,2.9,1981
+Golden State,0.0,1.1,1978
+Portland,0.0,0.0,1978
+Golden State,0.0,0.0,1975
+Portland,0.0,0.8,1975
+Portland,4.7,-0.4,1971
+San Francisco,0.0,13.9,1971
+Golden State,18.0,13.6,1991
+Sacramento,0.0,55.3,1991
+Golden State,1.0,1.7,1989
+Sacramento,0.6,-0.9,1989
+Cincinnati,30.9,53.7,1969
+San Francisco,0.0,0.9,1969
+Cincinnati,57.8,1.3,1969
+San Francisco,11.1,18.2,1969
+Cincinnati,2.4,9.8,1965
+San Francisco,0.9,0.9,1965
+Cincinnati,-0.6,1.3,1958
+Philadelphia,0.3,0.9,1958
+Golden State,9.2,3.1,2012
+San Antonio,14.5,1.2,2012
+Golden State,-0.4,0.2,1990
+San Antonio,-0.1,0.0,1990
+Golden State,6.7,0.1,1988
+San Antonio,0.0,0.4,1988
+Golden State,1.5,1.8,1984
+San Antonio,0.0,0.2,1984
+Golden State,0.5,1.3,2009
+Toronto,0.0,1.2,2009
+Golden State,0.0,25.2,1998
+Toronto,0.0,47.7,1998
+Golden State,9.9,8.2,1995
+Toronto,0.0,5.5,1995
+Golden State,35.9,5.8,2013
+Utah,3.4,2.3,2013
+Golden State,9.5,0.6,2006
+Utah,2.1,3.9,2006
+Golden State,14.3,6.4,2000
+Utah,29.0,13.5,2000
+Golden State,1.4,0.2,1999
+Utah,0.0,0.6,1999
+Golden State,4.0,17.9,1980
+Utah,0.0,1.5,1980
+Golden State,0.0,4.0,1978
+New Orleans,10.4,-0.3,1978
+Golden State,7.8,2.3,1994
+Washington,6.0,23.5,1994
+Golden State,0.3,1.8,1988
+Washington,8.3,0.8,1988
+Golden State,0.0,5.3,1985
+Washington,48.6,8.3,1985
+Golden State,15.1,-0.4,1981
+Washington,0.0,4.3,1981
+Golden State,0.0,6.5,1980
+Washington,0.0,34.0,1980
+Houston,0.0,-0.2,1985
+Indiana,1.6,0.0,1985
+Houston,0.0,0.0,1984
+Indiana,0.6,0.0,1984
+Houston,0.0,-0.2,1977
+Indiana,0.0,1.1,1977
+Los Angeles Clippers,3.9,2.7,2012
+Houston,0.0,0.0,2012
+Houston,1.4,0.0,2008
+Los Angeles Clippers,0.0,2.6,2008
+Houston,0.0,4.9,1987
+Los Angeles Clippers,7.9,-0.6,1987
+Houston,0.0,0.6,1984
+Los Angeles Clippers,0.1,0.0,1984
+Houston,0.0,-0.2,1982
+San Diego,6.7,0.5,1982
+Buffalo,0.0,0.0,1976
+Houston,0.0,70.0,1976
+Buffalo,2.0,7.0,1974
+Houston,8.4,19.4,1974
+Houston,4.0,0.0,2012
+Los Angeles Lakers,45.3,6.0,2012
+Houston,0.0,-0.2,2010
+Los Angeles Lakers,12.6,1.3,2010
+Houston,30.7,0.1,2011
+Memphis,3.0,0.9,2011
+Memphis,5.8,0.6,2009
+Houston,17.9,17.8,2009
+Houston,41.4,0.0,2008
+Memphis,0.0,4.3,2008
+Memphis,0.0,7.4,2008
+Houston,0.0,0.1,2008
+Houston,4.7,1.2,2008
+Memphis,0.0,0.0,2008
+Houston,4.9,0.5,2007
+Memphis,4.4,-0.1,2007
+Houston,2.5,30.7,2006
+Memphis,33.8,31.1,2006
+Houston,12.0,41.6,1999
+Vancouver,8.2,11.4,1999
+Houston,-1.0,1.9,1999
+Vancouver,2.0,-0.6,1999
+Houston,3.2,0.0,1997
+Vancouver,0.0,2.0,1997
+Houston,3.3,5.6,1996
+Vancouver,0.0,4.6,1996
+Houston,1.0,0.0,2006
+Miami,0.1,0.6,2006
+Houston,0.0,9.6,1990
+Miami,0.0,2.0,1990
+Houston,4.1,0.0,2012
+Milwaukee,4.7,7.3,2012
+Houston,0.0,2.7,2005
+Milwaukee,2.1,8.8,2005
+Houston,0.0,1.7,2001
+Milwaukee,0.0,15.7,2001
+Houston,0.0,0.7,2000
+Milwaukee,0.0,2.5,2000
+Houston,0.5,0.0,1978
+Milwaukee,0.0,0.0,1978
+Houston,0.0,4.4,1971
+Milwaukee,16.7,12.0,1971
+Houston,18.8,1.0,1971
+Milwaukee,2.2,4.2,1971
+Houston,9.6,8.0,2012
+Minnesota,0.0,1.6,2012
+Houston,3.0,2.0,2011
+Minnesota,-1.2,0.2,2011
+Houston,0.0,18.0,2011
+Minnesota,0.0,0.0,2011
+Houston,1.6,0.1,2008
+Minnesota,-0.4,0.9,2008
+Houston,11.7,0.4,2007
+Minnesota,3.3,0.0,2007
+Houston,0.0,8.5,1992
+Minnesota,4.7,-0.3,1992
+Houston,0.0,-0.2,2010
+New Jersey,-0.8,2.2,2010
+New Jersey,3.1,-0.1,2010
+Houston,3.2,5.9,2010
+Houston,0.0,6.3,2001
+New Jersey,0.0,69.1,2001
+Houston,2.7,2.4,1988
+New Jersey,4.4,13.9,1988
+Houston,0.0,4.3,1982
+New Jersey,2.8,0.0,1982
+Houston,36.3,-0.1,1979
+New Jersey,0.0,12.5,1979
+Houston,2.2,0.0,1977
+New York,0.0,0.0,1977
+Houston,3.2,5.9,2010
+New Orleans,9.5,5.6,2010
+Houston,4.7,1.2,2008
+New Orleans,4.5,0.7,2008
+Houston,0.0,1.6,2006
+Oklahoma City,2.2,0.0,2006
+Houston,9.7,-0.1,2006
+Oklahoma City,0.0,0.0,2006
+Houston,9.2,8.0,2004
+New Orleans,37.4,1.4,2004
+Charlotte,0.0,0.1,1988
+Houston,40.9,0.0,1988
+Houston,1.7,1.5,2012
+New York,7.6,0.0,2012
+Houston,48.4,19.4,2010
+New York,5.6,0.6,2010
+Houston,0.0,0.0,2008
+New York,0.0,0.0,2008
+Houston,8.1,1.4,2005
+New York,0.6,-0.3,2005
+Houston,9.6,3.0,2003
+New York,9.6,0.6,2003
+Houston,0.0,0.0,2003
+New York,0.0,0.0,2003
+Houston,8.8,3.3,2001
+New York,5.7,10.5,2001
+Houston,15.1,25.9,2012
+Oklahoma City,24.9,13.3,2012
+Houston,0.0,15.1,2007
+Seattle,0.0,0.0,2007
+Houston,0.0,0.6,1982
+Seattle,11.3,-0.9,1982
+Houston,4.3,-0.1,1977
+Seattle,0.0,11.2,1977
+Houston,17.9,17.8,2009
+Orlando,2.2,2.4,2009
+Houston,0.0,0.0,2007
+Orlando,0.0,0.0,2007
+Houston,96.7,45.4,2004
+Orlando,53.4,15.3,2004
+Orlando,0.0,0.0,2001
+Houston,0.0,0.0,2001
+Orlando,0.0,0.0,1999
+Houston,12.0,41.6,1999
+Houston,0.0,0.0,2013
+Philadelphia,0.0,0.0,2013
+Houston,9.5,4.4,2002
+Philadelphia,-0.2,12.5,2002
+Houston,0.0,3.5,1999
+Philadelphia,0.0,0.0,1999
+Philadelphia,0.0,3.2,1968
+San Diego,1.5,0.0,1968
+Houston,1.8,0.0,2013
+Phoenix,0.0,4.0,2013
+Houston,10.9,6.3,2011
+Phoenix,2.7,0.7,2011
+Houston,0.0,0.0,2008
+Phoenix,-0.2,0.1,2008
+Houston,39.2,26.7,1996
+Phoenix,44.4,6.8,1996
+Houston,0.0,5.1,1972
+Phoenix,2.3,4.5,1972
+Houston,0.1,0.0,2013
+Portland,0.0,1.6,2013
+Portland,0.0,0.1,2012
+Houston,5.9,0.0,2012
+Houston,0.1,1.7,2012
+Portland,7.9,0.4,2012
+Houston,0.0,0.1,2008
+Portland,0.0,32.2,2008
+Houston,4.9,32.9,1999
+Portland,16.8,20.5,1999
+Houston,54.5,26.9,1995
+Portland,111.9,3.2,1995
+Houston,0.0,25.6,1993
+Portland,5.1,0.0,1993
+Houston,0.9,0.0,1977
+Portland,2.2,28.2,1977
+Houston,2.5,4.3,1975
+Portland,10.6,3.4,1975
+Houston,2.6,0.1,1972
+Portland,11.4,2.9,1972
+Portland,0.0,4.7,1970
+San Diego,10.4,3.7,1970
+Houston,8.8,2.5,2013
+Sacramento,15.7,2.7,2013
+Houston,0.1,0.0,2010
+Sacramento,0.0,0.1,2010
+Houston,48.4,19.4,2010
+Sacramento,31.6,5.3,2010
+Houston,1.2,5.5,2008
+Sacramento,13.6,7.7,2008
+Houston,47.8,54.5,1988
+Sacramento,24.8,11.4,1988
+Houston,5.1,2.5,1973
+Kansas City-Omaha,0.0,1.4,1973
+Houston,6.1,0.7,1973
+Kansas City-Omaha,7.8,16.1,1973
+Houston,-0.1,30.4,2007
+San Antonio,0.1,2.0,2007
+Houston,2.8,0.0,1992
+San Antonio,0.0,1.0,1992
+Houston,4.3,10.0,1984
+San Antonio,4.3,0.7,1984
+Houston,0.6,4.4,1980
+San Antonio,30.2,3.0,1980
+Houston,18.0,0.0,2012
+Toronto,0.8,17.3,2012
+Houston,1.3,0.0,2010
+Toronto,0.0,0.2,2010
+Houston,2.2,17.9,2005
+Toronto,6.7,7.6,2005
+Houston,160.6,1.0,2001
+Toronto,0.0,2.1,2001
+Houston,9.8,1.3,1998
+Toronto,-0.1,6.4,1998
+Houston,3.3,0.0,2003
+Utah,-1.4,0.2,2003
+Houston,0.0,1.2,1978
+New Orleans,0.7,2.8,1978
+Houston,4.9,0.0,1988
+Washington,0.0,0.0,1988
+Houston,0.0,7.7,1981
+Washington,80.0,2.6,1981
+Baltimore,41.3,80.0,1972
+Houston,33.1,7.7,1972
+Indiana,6.1,31.8,1994
+Los Angeles Clippers,12.0,41.1,1994
+Indiana,0.0,0.0,1983
+San Diego,0.0,0.1,1983
+Buffalo,0.1,0.0,1977
+Indiana,0.0,-0.1,1977
+Buffalo,9.8,6.0,1977
+Indiana,26.1,24.9,1977
+Los Angeles Lakers,0.9,0.0,1981
+Indiana,0.0,6.9,1981
+Los Angeles Lakers,5.2,16.9,1977
+Indiana,16.8,27.1,1977
+Los Angeles Lakers,0.0,0.5,1976
+Indiana,0.8,0.0,1976
+Miami,0.0,0.0,2007
+Indiana,0.0,0.0,2007
+Indiana,0.0,1.6,1987
+Milwaukee,-0.2,0.0,1987
+Indiana,7.3,6.9,1980
+Milwaukee,2.5,10.9,1980
+Minnesota,26.9,14.6,1992
+Indiana,40.4,14.0,1992
+Indiana,25.3,9.1,2010
+New Jersey,3.1,-0.1,2010
+New Jersey,0.0,0.2,1996
+Indiana,-0.1,1.6,1996
+New Jersey,0.4,9.4,1978
+Indiana,2.7,9.6,1978
+New York,12.0,15.6,1977
+Indiana,25.1,2.7,1977
+New Orleans,9.5,5.6,2010
+Indiana,25.3,9.1,2010
+Oklahoma City,0.0,15.8,2006
+Indiana,5.6,0.0,2006
+Indiana,2.7,0.0,1989
+Charlotte,0.0,0.7,1989
+New York,0.0,0.7,1984
+Indiana,6.9,-0.3,1984
+New York,0.1,0.0,1983
+Indiana,53.4,50.4,1983
+New York,0.0,17.1,1982
+Indiana,8.6,0.0,1982
+Oklahoma City,0.0,0.1,2010
+Indiana,0.0,0.0,2010
+Seattle,35.3,53.7,1993
+Indiana,40.0,25.5,1993
+Seattle,0.0,3.1,1986
+Indiana,2.4,6.0,1986
+Indiana,47.6,1.1,2014
+Philadelphia,12.7,0.0,2014
+Indiana,-0.4,0.0,1993
+Philadelphia,0.0,-0.9,1993
+Indiana,6.8,-0.4,1988
+Philadelphia,0.0,16.3,1988
+Indiana,0.0,5.2,1985
+Philadelphia,11.4,0.0,1985
+Indiana,0.0,0.0,1984
+Philadelphia,-0.1,0.0,1984
+Indiana,13.8,3.1,1983
+Philadelphia,1.3,7.7,1983
+Indiana,0.0,0.0,1976
+Philadelphia,0.0,26.9,1976
+Indiana,1.3,2.5,2013
+Phoenix,4.4,10.1,2013
+Indiana,2.5,0.0,2005
+Phoenix,0.0,6.2,2005
+Indiana,7.0,-0.1,1981
+Phoenix,0.0,1.4,1981
+Indiana,0.0,9.2,1980
+Phoenix,16.0,0.0,1980
+Indiana,26.9,9.1,1977
+Phoenix,8.1,16.0,1977
+Portland,9.2,3.0,2008
+Indiana,1.6,16.8,2008
+Portland,0.0,0.0,2006
+Indiana,0.0,0.0,2006
+Portland,5.0,25.9,2000
+Indiana,55.8,46.5,2000
+Portland,0.5,0.0,1983
+Indiana,0.0,0.0,1983
+Portland,0.0,0.0,1983
+Indiana,0.0,1.6,1983
+Portland,0.0,1.7,1983
+Indiana,36.1,0.0,1983
+Portland,28.2,8.7,1981
+Indiana,0.0,3.2,1981
+Portland,1.2,0.0,1979
+Indiana,0.0,13.8,1979
+Portland,4.4,0.0,1978
+Indiana,0.0,2.3,1978
+Portland,6.8,39.9,1978
+Indiana,0.0,21.6,1978
+Indiana,0.0,1.7,2012
+Sacramento,0.0,0.0,2012
+Indiana,19.3,5.6,2006
+Sacramento,59.8,13.6,2006
+Indiana,14.7,5.4,2003
+Sacramento,29.9,39.5,2003
+Indiana,17.7,9.6,1989
+Sacramento,26.4,24.9,1989
+Indiana,0.0,1.3,1983
+Kansas City,1.1,0.0,1983
+Indiana,9.8,-0.1,1979
+Kansas City,0.0,1.5,1979
+San Antonio,14.9,19.4,2011
+Indiana,0.0,21.5,2011
+San Antonio,6.8,7.1,2003
+Indiana,14.7,5.4,2003
+Toronto,2.5,0.0,2012
+Indiana,0.0,0.7,2012
+Toronto,16.3,1.3,2008
+Indiana,46.5,36.3,2008
+Toronto,0.0,22.8,1999
+Indiana,29.6,3.8,1999
+Indiana,0.0,0.0,1979
+Washington,39.3,0.0,1979
+Los Angeles Lakers,36.9,67.0,1983
+San Diego,28.9,10.8,1983
+Buffalo,0.0,0.0,1978
+Los Angeles Lakers,7.3,0.0,1978
+Buffalo,3.1,0.0,1977
+Los Angeles Lakers,0.0,-0.4,1977
+Buffalo,0.0,0.1,1977
+Los Angeles Lakers,-0.1,1.8,1977
+Buffalo,5.4,22.8,1973
+Los Angeles Lakers,16.7,10.6,1973
+Los Angeles Clippers,2.2,0.0,2009
+Memphis,0.0,36.5,2009
+Los Angeles Clippers,9.0,1.5,1998
+Miami,7.0,0.7,1998
+Los Angeles Clippers,10.1,5.4,2013
+Milwaukee,1.3,0.0,2013
+Los Angeles Clippers,19.2,13.7,1984
+Milwaukee,124.1,100.8,1984
+Milwaukee,0.6,0.0,1982
+San Diego,0.0,0.0,1982
+Buffalo,1.2,0.0,1977
+Milwaukee,0.0,6.2,1977
+Buffalo,0.0,28.9,1977
+Milwaukee,6.9,71.1,1977
+Buffalo,0.0,0.2,1976
+Milwaukee,5.8,0.0,1976
+Buffalo,0.0,-1.3,1976
+Milwaukee,0.0,0.0,1976
+Los Angeles Clippers,12.1,4.7,2009
+Minnesota,16.1,0.0,2009
+Los Angeles Clippers,6.0,11.7,2005
+Minnesota,15.9,6.3,2005
+Los Angeles Clippers,4.2,0.4,1997
+Minnesota,0.9,1.8,1997
+Los Angeles Clippers,1.3,0.0,2012
+Brooklyn,0.0,4.7,2012
+Los Angeles Clippers,0.0,0.2,2004
+New Jersey,44.6,0.0,2004
+Los Angeles Clippers,0.0,0.1,1999
+New Jersey,0.4,6.9,1999
+Buffalo,1.9,0.0,1977
+New Jersey,2.8,31.0,1977
+Los Angeles Clippers,32.2,38.8,2011
+New Orleans,76.4,12.1,2011
+Los Angeles Clippers,0.0,-0.4,2010
+New Orleans,-0.2,0.0,2010
+Los Angeles Clippers,0.0,2.5,2009
+New Orleans,10.1,0.0,2009
+Los Angeles Clippers,17.2,1.8,2008
+New York,2.7,1.5,2008
+Los Angeles Clippers,29.2,16.2,1992
+New York,30.4,22.2,1992
+Los Angeles Clippers,0.0,0.0,1991
+New York,0.0,0.0,1991
+Buffalo,52.2,1.2,1976
+New York,16.0,25.7,1976
+Buffalo,0.0,0.3,1970
+New York,1.2,0.0,1970
+Los Angeles Clippers,0.0,4.2,2010
+Oklahoma City,0.0,0.0,2010
+Los Angeles Clippers,6.2,2.3,2006
+Seattle,14.2,12.7,2006
+Los Angeles Clippers,0.0,0.7,2003
+Seattle,3.9,0.0,2003
+Los Angeles Clippers,19.7,7.1,1991
+Seattle,7.8,4.1,1991
+Los Angeles Clippers,18.8,9.1,1988
+Seattle,0.0,36.4,1988
+San Diego,10.8,32.7,1983
+Seattle,18.3,41.8,1983
+San Diego,5.4,-0.8,1982
+Seattle,1.6,2.7,1982
+San Diego,0.0,0.0,1980
+Seattle,0.0,0.0,1980
+Los Angeles Clippers,0.0,0.0,2002
+Orlando,0.0,0.8,2002
+Los Angeles Clippers,0.0,48.1,2000
+Orlando,12.9,0.0,2000
+Los Angeles Clippers,29.2,16.2,1992
+Orlando,2.1,0.7,1992
+Los Angeles Clippers,0.0,0.0,2014
+Philadelphia,0.0,0.4,2014
+Los Angeles Clippers,0.0,0.0,2001
+Philadelphia,0.0,-0.1,2001
+Los Angeles Clippers,0.0,0.0,1997
+Philadelphia,0.0,0.0,1997
+Los Angeles Clippers,0.0,25.2,1988
+Philadelphia,0.0,38.0,1988
+Philadelphia,7.2,0.0,1982
+San Diego,0.0,0.6,1982
+Philadelphia,6.2,0.0,1979
+San Diego,0.0,6.7,1979
+Philadelphia,12.1,106.1,1978
+San Diego,0.0,18.1,1978
+Buffalo,0.5,0.0,1978
+Philadelphia,0.0,0.3,1978
+Buffalo,-0.4,0.0,1970
+Philadelphia,0.0,0.2,1970
+Buffalo,0.0,25.8,1970
+Philadelphia,0.0,5.0,1970
+Los Angeles Clippers,10.1,5.4,2013
+Phoenix,22.8,4.1,2013
+Phoenix,1.8,75.7,2001
+Los Angeles Clippers,0.0,0.0,2001
+Buffalo,0.0,0.0,1976
+Phoenix,0.0,1.1,1976
+Buffalo,9.3,11.1,1976
+Phoenix,3.1,13.5,1976
+Buffalo,0.0,9.8,1975
+Phoenix,0.0,8.1,1975
+Los Angeles Clippers,9.7,1.5,2010
+Portland,28.3,7.9,2010
+Los Angeles Clippers,0.0,-0.4,2008
+Portland,0.0,3.2,2008
+Los Angeles Clippers,0.0,0.0,2001
+Portland,0.3,0.0,2001
+Los Angeles Clippers,0.0,8.0,1986
+Portland,14.9,47.1,1986
+Buffalo,0.0,0.0,1976
+Portland,0.0,0.0,1976
+Los Angeles Clippers,16.6,5.4,1986
+Sacramento,46.6,2.5,1986
+Los Angeles Clippers,0.0,0.0,2009
+Toronto,-0.2,0.0,2009
+Los Angeles Clippers,3.9,2.7,2012
+Utah,0.0,1.8,2012
+Los Angeles Clippers,2.1,-0.4,2008
+Utah,0.4,0.7,2008
+Los Angeles Clippers,0.3,0.4,2012
+Washington,19.5,8.6,2012
+Los Angeles Clippers,4.0,1.7,2010
+Washington,41.4,2.0,2010
+Los Angeles Clippers,4.5,3.0,2000
+Washington,0.8,3.2,2000
+Los Angeles Clippers,0.0,2.6,1992
+Washington,17.7,7.2,1992
+Los Angeles Clippers,0.0,0.5,1984
+Washington,0.1,0.0,1984
+San Diego,0.0,0.3,1979
+Washington,0.0,0.1,1979
+Buffalo,0.0,0.7,1975
+Washington,0.4,22.2,1975
+Baltimore,2.2,0.2,1970
+Buffalo,0.0,5.6,1970
+Memphis,0.0,0.0,2009
+Los Angeles Lakers,7.6,0.0,2009
+Memphis,53.8,48.6,2008
+Los Angeles Lakers,6.2,59.7,2008
+Vancouver,0.0,4.7,1996
+Los Angeles Lakers,16.0,0.1,1996
+Miami,0.0,0.0,2009
+Los Angeles Lakers,0.0,0.0,2009
+Miami,41.8,21.1,2004
+Los Angeles Lakers,97.0,69.1,2004
+Los Angeles Lakers,0.0,0.0,1988
+Miami,0.0,8.4,1988
+Los Angeles Lakers,0.4,2.0,2001
+Milwaukee,4.6,0.0,2001
+Los Angeles Lakers,0.0,-0.4,1992
+Milwaukee,0.0,0.0,1992
+Los Angeles Lakers,0.0,0.1,1975
+Milwaukee,2.6,0.0,1975
+Los Angeles Lakers,11.7,158.7,1975
+Milwaukee,114.9,101.6,1975
+Los Angeles Lakers,7.3,12.0,1974
+Milwaukee,25.6,5.8,1974
+Los Angeles Lakers,0.0,5.1,1968
+Milwaukee,0.0,0.0,1968
+Los Angeles Lakers,12.6,1.3,2010
+New Jersey,-0.8,2.2,2010
+Los Angeles Lakers,0.0,0.4,1997
+New Jersey,0.0,0.4,1997
+Los Angeles Lakers,0.0,2.0,1993
+New Jersey,16.2,6.2,1993
+Los Angeles Lakers,0.0,10.6,1981
+New Jersey,0.3,-0.1,1981
+Los Angeles Lakers,0.0,0.1,1980
+New Jersey,8.7,0.1,1980
+Charlotte,40.2,39.0,1999
+Los Angeles Lakers,69.0,11.8,1999
+Charlotte,0.0,13.2,1996
+Los Angeles Lakers,43.7,173.0,1996
+Los Angeles Lakers,0.0,0.1,2009
+New York,0.0,5.7,2009
+Los Angeles Lakers,16.2,8.9,2000
+New York,126.6,5.5,2000
+Los Angeles Lakers,1.5,0.0,1994
+New York,0.0,0.2,1994
+Los Angeles Lakers,17.9,5.8,1965
+New York,7.3,42.8,1965
+Minneapolis,19.2,5.1,1960
+New York,25.8,18.1,1960
+Minneapolis,1.4,-0.1,1958
+New York,0.0,0.1,1958
+Minneapolis,39.1,4.2,1956
+New York,2.8,0.8,1956
+Seattle,8.1,2.0,2000
+Los Angeles Lakers,16.2,8.9,2000
+Los Angeles Lakers,19.6,1.5,1993
+Seattle,4.1,36.8,1993
+Los Angeles Lakers,0.0,26.4,1991
+Seattle,13.9,0.0,1991
+Orlando,97.4,23.3,2012
+Los Angeles Lakers,38.4,10.9,2012
+Orlando,4.2,5.2,2007
+Los Angeles Lakers,12.2,7.6,2007
+Los Angeles Lakers,38.4,10.9,2012
+Philadelphia,63.0,1.4,2012
+Los Angeles Lakers,13.8,11.3,1972
+Philadelphia,6.4,13.6,1972
+Los Angeles Lakers,26.5,63.6,1968
+Philadelphia,71.2,40.1,1968
+Los Angeles Lakers,0.0,4.4,2012
+Phoenix,82.7,0.0,2012
+Los Angeles Lakers,15.2,30.4,1997
+Phoenix,3.8,4.3,1997
+Los Angeles Lakers,0.0,15.3,1994
+Phoenix,14.3,7.6,1994
+Los Angeles Lakers,0.0,4.0,1985
+Phoenix,16.0,0.3,1985
+Los Angeles Lakers,0.0,-0.2,1976
+Phoenix,0.0,0.0,1976
+Los Angeles Lakers,3.7,3.8,1975
+Phoenix,0.0,-0.3,1975
+Los Angeles Lakers,0.0,3.2,1974
+Phoenix,4.5,3.7,1974
+Los Angeles Lakers,11.5,7.8,1973
+Phoenix,36.2,13.0,1973
+Los Angeles Lakers,0.0,0.0,1972
+Phoenix,0.0,-0.1,1972
+Los Angeles Lakers,12.8,45.1,1970
+Phoenix,10.3,6.1,1970
+Los Angeles Lakers,0.0,4.0,1980
+Portland,2.0,59.0,1980
+Los Angeles Lakers,0.0,2.1,1971
+Portland,4.7,6.2,1971
+Kansas City,8.8,2.1,1977
+Los Angeles Lakers,12.0,0.0,1977
+Cincinnati,5.4,0.0,1971
+Los Angeles Lakers,0.0,3.8,1971
+Cincinnati,0.0,8.7,1962
+Los Angeles Lakers,6.5,4.9,1962
+Minneapolis,30.0,9.2,1957
+Rochester,19.1,12.9,1957
+San Antonio,0.0,0.0,1990
+Los Angeles Lakers,0.8,0.0,1990
+San Antonio,0.0,0.4,1988
+Los Angeles Lakers,0.6,5.1,1988
+San Antonio,1.6,21.0,1987
+Los Angeles Lakers,1.4,17.6,1987
+San Antonio,0.0,-0.6,1979
+Los Angeles Lakers,0.0,0.9,1979
+San Antonio,0.0,0.7,1976
+Los Angeles Lakers,0.2,0.4,1976
+Toronto,6.3,-1.1,2002
+Los Angeles Lakers,2.0,13.7,2002
+Utah,0.0,0.6,1979
+Los Angeles Lakers,0.2,0.0,1979
+Utah,2.7,76.3,1979
+Los Angeles Lakers,13.4,3.1,1979
+New Orleans,0.0,0.0,1976
+Los Angeles Lakers,0.0,156.8,1976
+New Orleans,0.1,13.9,1974
+Los Angeles Lakers,0.0,2.7,1974
+New Orleans,0.0,2.5,1974
+Los Angeles Lakers,14.8,0.0,1974
+Los Angeles Lakers,9.8,6.3,2005
+Washington,9.2,26.0,2005
+Capital,4.3,10.1,1973
+Los Angeles Lakers,0.0,1.2,1973
+Baltimore,0.0,1.1,1972
+Los Angeles Lakers,3.8,8.3,1972
+Baltimore,0.0,7.8,1970
+Los Angeles Lakers,1.1,0.0,1970
+Baltimore,0.2,14.1,1967
+Los Angeles Lakers,46.6,14.8,1967
+Baltimore,2.5,15.8,1966
+Los Angeles Lakers,10.5,2.9,1966
+Miami,0.6,0.0,2013
+Memphis,0.0,-0.1,2013
+Miami,0.0,0.0,2009
+Memphis,0.0,0.0,2009
+Miami,44.9,24.0,2005
+Memphis,27.5,7.3,2005
+Milwaukee,0.0,0.0,2002
+Memphis,0.0,0.0,2002
+Vancouver,0.1,2.3,1995
+Milwaukee,19.0,2.2,1995
+Minnesota,1.5,6.4,2012
+Memphis,3.4,1.3,2012
+Minnesota,6.5,52.2,2008
+Memphis,34.4,14.8,2008
+Vancouver,0.9,0.8,1998
+Minnesota,16.9,17.5,1998
+Vancouver,0.5,0.0,1996
+Minnesota,0.0,0.0,1996
+New Jersey,19.0,0.4,2008
+Memphis,18.5,0.1,2008
+Memphis,0.2,4.1,2012
+New Orleans,0.0,0.3,2012
+New Orleans,0.9,6.1,2011
+Memphis,0.5,5.3,2011
+Memphis,0.0,0.2,2008
+New Orleans,-0.1,1.1,2008
+New Orleans,4.5,0.7,2008
+Memphis,0.0,0.0,2008
+New York,6.7,0.1,2009
+Memphis,2.1,0.0,2009
+Vancouver,3.9,0.3,2001
+New York,0.3,9.2,2001
+Oklahoma City,0.0,0.0,2014
+Memphis,5.0,3.7,2014
+Seattle,0.0,0.0,2005
+Memphis,0.0,2.5,2005
+Seattle,0.0,1.5,2004
+Memphis,0.0,0.0,2004
+Orlando,2.2,2.4,2009
+Memphis,5.8,0.6,2009
+Orlando,12.3,6.1,2003
+Memphis,0.4,33.1,2003
+Vancouver,8.2,11.4,1999
+Orlando,0.0,0.0,1999
+Vancouver,0.1,0.0,1996
+Orlando,6.3,0.0,1996
+Vancouver,0.0,-1.2,1995
+Orlando,1.6,0.0,1995
+Memphis,0.1,0.0,2013
+Philadelphia,0.0,-0.9,2013
+Memphis,4.3,0.0,2012
+Philadelphia,0.0,0.0,2012
+Memphis,0.2,4.1,2012
+Philadelphia,7.6,0.0,2012
+Memphis,1.0,8.0,2003
+Phoenix,12.6,-0.1,2003
+Portland,0.0,32.2,2008
+Memphis,0.0,7.4,2008
+Portland,0.0,0.0,2006
+Memphis,0.0,1.3,2006
+Portland,19.0,1.4,2003
+Memphis,2.9,4.1,2003
+Memphis,4.1,3.5,2005
+Sacramento,19.2,3.4,2005
+Sacramento,10.0,42.9,2001
+Vancouver,12.4,14.9,2001
+Sacramento,12.2,1.2,1998
+Vancouver,1.2,3.2,1998
+San Antonio,0.0,0.0,2002
+Memphis,0.0,0.0,2002
+Vancouver,-1.3,0.7,1998
+San Antonio,0.0,17.9,1998
+Toronto,52.6,1.9,2013
+Memphis,30.8,8.9,2013
+Toronto,5.5,3.7,2009
+Memphis,0.3,0.0,2009
+Utah,20.1,0.0,2010
+Memphis,0.0,0.0,2010
+Utah,2.9,1.3,2005
+Memphis,27.5,7.3,2005
+Memphis,0.0,0.2,2008
+Washington,14.3,-0.2,2008
+Memphis,0.0,1.4,2007
+Washington,0.0,0.0,2007
+Vancouver,4.6,-0.4,2000
+Washington,0.0,1.9,2000
+Milwaukee,0.0,15.9,1988
+Miami,0.0,-0.1,1988
+Minnesota,0.0,0.0,2011
+Miami,0.0,1.8,2011
+Minnesota,0.0,2.2,2010
+Miami,8.0,0.0,2010
+Minnesota,0.0,0.0,2009
+Miami,0.6,5.8,2009
+Minnesota,0.0,0.0,2008
+Miami,0.0,25.1,2008
+Minnesota,12.1,0.1,2007
+Miami,8.0,2.5,2007
+New Jersey,0.0,0.1,2010
+Miami,5.3,0.0,2010
+New Orleans,0.0,4.9,2009
+Miami,0.0,-0.1,2009
+Oklahoma City,0.0,12.3,2005
+Miami,44.9,24.0,2005
+Miami,44.1,58.2,2000
+Charlotte,44.9,67.4,2000
+Miami,52.1,65.3,1995
+Charlotte,25.6,43.1,1995
+New York,0.0,0.0,1995
+Miami,0.0,0.0,1995
+Oklahoma City,0.0,0.0,2010
+Miami,0.0,0.0,2010
+Oklahoma City,0.0,3.2,2010
+Miami,1.9,0.6,2010
+Seattle,0.0,0.0,1988
+Miami,0.0,0.0,1988
+Orlando,0.0,0.0,2007
+Miami,0.0,0.0,2007
+Philadelphia,0.0,1.7,2012
+Miami,0.0,0.1,2012
+Philadelphia,0.0,2.2,2007
+Miami,0.0,1.9,2007
+Phoenix,93.9,9.5,2008
+Miami,21.1,5.1,2008
+Phoenix,0.5,0.0,1996
+Miami,-0.1,0.8,1996
+Portland,16.9,2.8,2000
+Miami,11.7,26.1,2000
+Sacramento,0.0,0.0,2014
+Miami,0.3,0.0,2014
+Sacramento,14.6,0.0,1997
+Miami,0.4,1.2,1997
+Sacramento,10.7,8.7,1996
+Miami,11.1,2.9,1996
+Sacramento,0.0,2.8,1990
+Miami,2.3,19.9,1990
+Toronto,61.8,10.6,2010
+Miami,0.0,34.2,2010
+Toronto,10.5,2.0,2009
+Miami,5.1,8.2,2009
+Toronto,0.0,0.9,2004
+Miami,0.0,0.0,2004
+Miami,0.4,1.4,2001
+Toronto,0.0,0.0,2001
+Utah,0.0,0.6,1996
+Miami,0.0,0.0,1996
+Washington,8.2,0.0,1995
+Miami,0.0,4.1,1995
+Minnesota,11.6,5.3,2013
+Milwaukee,0.0,-0.1,2013
+Milwaukee,59.9,14.0,2003
+Minnesota,35.1,19.0,2003
+Milwaukee,10.7,36.7,1999
+Minnesota,14.0,64.0,1999
+Milwaukee,0.0,2.6,1996
+Minnesota,0.2,13.8,1996
+Milwaukee,0.0,54.1,1996
+Minnesota,0.0,10.4,1996
+Milwaukee,16.8,10.2,1990
+Minnesota,0.4,7.3,1990
+Milwaukee,0.0,0.0,1989
+Minnesota,0.0,0.0,1989
+Milwaukee,0.0,1.6,2010
+New Jersey,1.3,0.0,2010
+Milwaukee,6.7,6.6,2008
+New Jersey,50.6,5.5,2008
+Milwaukee,10.7,36.7,1999
+New Jersey,13.9,20.0,1999
+Milwaukee,1.8,3.8,1991
+New Jersey,11.0,0.1,1991
+Milwaukee,10.9,2.2,1982
+New Jersey,0.2,4.1,1982
+Milwaukee,6.2,12.5,1979
+New Jersey,1.0,4.8,1979
+Milwaukee,12.0,2.0,2005
+Oklahoma City,22.9,0.7,2005
+Charlotte,0.0,0.0,2000
+Milwaukee,7.0,0.0,2000
+Charlotte,3.4,0.7,1994
+Milwaukee,13.8,-0.2,1994
+Milwaukee,21.1,3.8,2004
+New York,5.4,11.3,2004
+Milwaukee,0.0,-0.1,2013
+Oklahoma City,7.0,0.0,2013
+Milwaukee,25.8,9.5,2008
+Oklahoma City,14.1,1.0,2008
+Milwaukee,56.1,16.3,2003
+Seattle,133.4,54.9,2003
+Milwaukee,32.8,11.7,1997
+Seattle,67.6,18.2,1997
+Milwaukee,0.0,0.0,1995
+Seattle,0.0,2.2,1995
+Milwaukee,40.7,7.0,1991
+Seattle,37.1,22.1,1991
+Milwaukee,3.3,1.4,1988
+Seattle,0.0,1.6,1988
+Milwaukee,20.2,33.5,1986
+Seattle,79.0,11.9,1986
+Milwaukee,0.0,2.2,1975
+Seattle,17.6,0.0,1975
+Milwaukee,1.8,29.3,1970
+Seattle,8.1,4.3,1970
+Milwaukee,3.4,1.8,2013
+Orlando,24.2,7.7,2013
+Milwaukee,0.6,1.0,2009
+Orlando,9.3,0.3,2009
+Milwaukee,0.0,0.0,2003
+Orlando,0.0,9.3,2003
+Milwaukee,0.0,0.0,2002
+Orlando,0.0,0.0,2002
+Milwaukee,11.4,1.6,1999
+Orlando,0.0,2.5,1999
+Milwaukee,0.6,1.4,1994
+Orlando,0.0,1.6,1994
+Milwaukee,3.8,0.0,1992
+Orlando,4.4,0.0,1992
+Milwaukee,2.2,-0.1,2010
+Philadelphia,1.4,9.9,2010
+Milwaukee,6.1,25.7,1999
+Philadelphia,11.3,13.1,1999
+Milwaukee,0.0,0.3,1976
+Philadelphia,13.8,87.6,1976
+Milwaukee,0.0,0.0,1972
+Philadelphia,0.0,0.0,1972
+Milwaukee,4.2,1.4,1971
+Philadelphia,13.0,3.4,1971
+Milwaukee,0.1,0.2,2013
+Phoenix,0.0,1.0,2013
+Phoenix,22.8,4.1,2013
+Milwaukee,1.3,0.0,2013
+Milwaukee,-0.1,1.5,1996
+Phoenix,0.1,0.0,1996
+Milwaukee,3.7,4.8,1996
+Phoenix,8.5,0.0,1996
+Milwaukee,17.1,26.9,1988
+Phoenix,14.6,14.8,1988
+Milwaukee,0.0,3.2,1968
+Phoenix,0.0,0.0,1968
+Milwaukee,2.0,1.0,2006
+Portland,2.9,1.1,2006
+Milwaukee,0.0,0.4,1995
+Portland,0.0,10.0,1995
+Milwaukee,0.0,0.1,1992
+Portland,2.6,3.1,1992
+Milwaukee,0.0,0.0,1986
+Portland,0.0,0.1,1986
+Milwaukee,0.0,0.0,1981
+Portland,0.0,0.0,1981
+Milwaukee,16.4,0.0,2013
+Sacramento,0.0,0.4,2013
+Milwaukee,11.6,4.8,2011
+Sacramento,16.3,4.4,2011
+Milwaukee,0.0,2.0,2010
+Sacramento,1.7,17.8,2010
+Milwaukee,0.0,0.0,1985
+Sacramento,0.2,0.0,1985
+Kansas City,7.1,10.4,1979
+Milwaukee,5.8,2.0,1979
+Kansas City-Omaha,0.0,0.2,1972
+Milwaukee,2.0,0.0,1972
+Cincinnati,154.2,3.6,1970
+Milwaukee,13.6,35.0,1970
+Cincinnati,-0.1,1.9,1969
+Milwaukee,2.6,1.8,1969
+San Antonio,53.7,14.3,2009
+Milwaukee,6.6,2.1,2009
+San Antonio,0.0,0.0,2006
+Milwaukee,0.0,-0.2,2006
+San Antonio,0.0,14.0,1992
+Milwaukee,6.4,0.0,1992
+San Antonio,11.4,3.5,1990
+Milwaukee,45.5,13.8,1990
+San Antonio,33.0,26.1,1989
+Milwaukee,39.8,22.2,1989
+San Antonio,1.4,-0.1,1987
+Milwaukee,2.9,10.2,1987
+Toronto,3.6,28.6,2009
+Milwaukee,0.0,10.9,2009
+Toronto,3.9,7.5,2006
+Milwaukee,3.2,8.3,2006
+Toronto,0.2,1.7,1997
+Milwaukee,0.4,0.1,1997
+Milwaukee,37.1,32.2,1992
+Utah,10.7,6.1,1992
+Milwaukee,0.5,1.6,1974
+New Orleans,0.0,30.1,1974
+Milwaukee,0.0,-0.1,1995
+Washington,-0.6,0.6,1995
+Milwaukee,0.0,4.1,1983
+Washington,22.3,0.0,1983
+New Jersey,0.0,0.0,2011
+Minnesota,0.0,0.0,2011
+New Jersey,13.9,20.0,1999
+Minnesota,14.0,64.0,1999
+New Orleans,6.1,5.7,2012
+Minnesota,1.9,0.0,2012
+New Orleans,0.0,0.0,2012
+Minnesota,0.2,0.0,2012
+New Orleans,1.1,1.1,2009
+Minnesota,0.1,0.0,2009
+Minnesota,1.9,1.7,2011
+New York,34.8,33.1,2011
+Minnesota,1.2,0.9,2010
+New York,0.1,0.0,2010
+New York,20.8,3.9,2003
+Minnesota,25.4,7.6,2003
+Minnesota,11.5,0.0,1992
+New York,0.0,3.6,1992
+Oklahoma City,7.0,0.0,2013
+Minnesota,11.6,5.3,2013
+Minnesota,0.3,0.0,2011
+Oklahoma City,0.0,-0.1,2011
+Minnesota,0.0,1.9,2009
+Oklahoma City,6.4,0.2,2009
+Minnesota,0.0,0.0,1994
+Seattle,0.0,0.0,1994
+Minnesota,-0.2,-0.3,1990
+Seattle,0.5,0.2,1990
+Minnesota,0.0,1.5,2008
+Philadelphia,3.2,0.0,2008
+Minnesota,0.0,0.4,2006
+Philadelphia,0.0,0.3,2006
+Minnesota,25.4,7.6,2003
+Philadelphia,6.5,7.4,2003
+Minnesota,0.0,-0.2,1990
+Philadelphia,0.9,0.0,1990
+Minnesota,0.0,4.7,1990
+Philadelphia,5.6,-0.5,1990
+Minnesota,0.0,0.6,1989
+Philadelphia,0.0,9.7,1989
+Minnesota,1.9,0.0,2012
+Phoenix,11.9,0.0,2012
+Minnesota,0.0,0.0,2009
+Phoenix,0.4,0.0,2009
+Minnesota,-0.1,0.0,2006
+Phoenix,0.0,0.0,2006
+Portland,0.0,0.0,2011
+Minnesota,0.0,0.0,2011
+Portland,10.1,1.0,2010
+Minnesota,9.8,3.3,2010
+Portland,0.0,37.5,2006
+Minnesota,0.0,6.4,2006
+Portland,3.7,13.2,1996
+Minnesota,7.0,2.5,1996
+Minnesota,4.8,0.6,2013
+Sacramento,0.4,2.5,2013
+Minnesota,2.7,0.5,2009
+Sacramento,0.0,1.0,2009
+San Antonio,5.4,0.0,2007
+Minnesota,0.0,0.0,2007
+Minnesota,13.4,9.1,1999
+Toronto,0.4,30.4,1999
+Utah,0.0,0.9,2013
+Minnesota,0.0,2.5,2013
+Utah,1.4,22.9,2010
+Minnesota,17.2,0.0,2010
+Utah,12.7,9.0,1993
+Minnesota,8.6,1.1,1993
+Utah,38.2,16.6,1991
+Minnesota,12.4,5.9,1991
+Minnesota,0.0,0.4,2010
+Washington,0.0,12.3,2010
+Minnesota,10.6,11.0,2009
+Washington,20.2,6.1,2009
+New Jersey,-0.1,0.0,2007
+New Orleans,37.4,0.0,2007
+New Jersey,0.6,6.3,2006
+Oklahoma City,1.4,3.7,2006
+Charlotte,12.3,4.1,1996
+New Jersey,23.0,23.3,1996
+Charlotte,11.2,-0.4,1993
+New Jersey,1.7,9.7,1993
+New York,0.0,0.9,1983
+New Jersey,5.0,0.0,1983
+New York,0.0,2.5,1982
+New Jersey,0.0,0.0,1982
+New York,0.9,1.5,1981
+New Jersey,12.5,0.4,1981
+New York,26.9,18.7,1978
+New Jersey,0.0,4.7,1978
+New Jersey,0.0,5.7,2006
+Seattle,0.1,0.0,2006
+New Jersey,2.3,1.8,1999
+Seattle,4.9,0.2,1999
+New Jersey,0.6,0.0,1996
+Seattle,17.5,0.3,1996
+Seattle,0.0,0.0,1990
+New Jersey,0.0,1.2,1990
+New Jersey,0.0,3.2,1981
+Seattle,6.0,11.6,1981
+Orlando,18.1,27.9,2009
+New Jersey,46.1,2.3,2009
+Orlando,10.5,3.4,1998
+New Jersey,6.3,0.5,1998
+Orlando,2.5,0.0,1990
+New Jersey,0.0,4.7,1990
+New Jersey,0.0,-0.2,2012
+Philadelphia,0.0,0.0,2012
+New Jersey,0.0,0.6,2005
+Philadelphia,5.8,0.0,2005
+New Jersey,28.8,0.8,2002
+Philadelphia,13.2,8.7,2002
+New Jersey,2.9,46.3,1997
+Philadelphia,2.9,6.5,1997
+New Jersey,38.7,5.7,1995
+Philadelphia,7.5,21.6,1995
+New Jersey,0.0,20.2,1992
+Philadelphia,-0.2,0.2,1992
+New Jersey,36.9,13.1,1988
+Philadelphia,12.4,20.2,1988
+New Jersey,0.1,1.6,1983
+Philadelphia,0.6,0.0,1983
+New Jersey,0.0,18.5,1982
+Philadelphia,28.1,-0.1,1982
+New Jersey,13.8,0.5,1979
+Philadelphia,6.9,0.6,1979
+New Jersey,0.0,2.3,1978
+Philadelphia,-0.1,11.3,1978
+New Jersey,29.0,56.6,2001
+Phoenix,38.5,20.2,2001
+New Jersey,3.2,-0.2,1980
+Phoenix,0.0,7.9,1980
+New Jersey,0.0,-0.9,2012
+Portland,0.0,0.0,2012
+New Jersey,-0.4,4.5,2012
+Portland,6.1,15.4,2012
+New Jersey,0.0,0.3,2004
+Portland,0.3,1.6,2004
+Portland,3.1,1.0,1991
+New Jersey,0.1,23.3,1991
+New Jersey,62.8,22.9,1989
+Portland,8.7,50.4,1989
+New Jersey,4.8,56.0,1980
+Portland,21.3,34.0,1980
+Brooklyn,4.9,1.1,2014
+Sacramento,10.5,1.1,2014
+New Jersey,0.0,2.3,1988
+Sacramento,1.0,4.2,1988
+Kansas City,17.9,0.9,1982
+New Jersey,7.9,0.2,1982
+Kansas City,50.4,27.2,1981
+New Jersey,0.4,0.5,1981
+Kansas City,29.8,1.9,1981
+New Jersey,6.1,18.5,1981
+Kansas City,53.7,59.2,1976
+New York,23.5,2.8,1976
+Kansas City,10.3,0.0,1976
+New York,0.0,0.1,1976
+San Antonio,5.6,1.4,1988
+New Jersey,-0.3,0.3,1988
+Toronto,47.7,7.3,2004
+New Jersey,20.0,43.6,2004
+Utah,45.0,0.0,2011
+New Jersey,0.0,0.0,2011
+Utah,46.7,24.6,2011
+New Jersey,17.2,21.0,2011
+Utah,24.1,-0.4,1979
+New Jersey,12.4,3.2,1979
+New Jersey,2.0,0.0,2010
+Washington,-0.4,0.4,2010
+New Jersey,14.6,2.2,1986
+Washington,0.6,-0.1,1986
+New Jersey,20.8,0.0,1986
+Washington,0.0,1.2,1986
+New Jersey,21.4,1.0,1980
+Washington,1.6,-0.5,1980
+New Orleans,0.0,0.0,2011
+New York,0.0,1.4,2011
+Charlotte,41.1,29.5,1996
+New York,38.5,28.6,1996
+Charlotte,0.7,0.0,1990
+New York,0.0,-0.1,1990
+New Orleans,5.2,0.9,2010
+Oklahoma City,0.0,0.8,2010
+New Orleans,24.9,0.1,2003
+Seattle,1.5,0.2,2003
+Charlotte,18.9,2.0,1995
+Seattle,11.2,35.0,1995
+Charlotte,9.3,2.4,1993
+Seattle,27.0,11.2,1993
+Orlando,18.4,0.7,2012
+New Orleans,3.2,8.8,2012
+Orlando,0.9,0.2,2004
+New Orleans,-0.1,0.1,2004
+New Orleans,0.0,1.5,2013
+Philadelphia,14.4,0.0,2013
+New Orleans,6.3,0.0,2012
+Philadelphia,0.0,4.9,2012
+New Orleans,0.0,0.3,2012
+Philadelphia,7.6,0.0,2012
+New Orleans,1.3,8.3,2010
+Philadelphia,8.0,-0.2,2010
+New Orleans,19.8,0.0,2005
+Philadelphia,1.6,0.9,2005
+Charlotte,9.7,14.3,2001
+Philadelphia,15.0,14.9,2001
+Charlotte,0.1,17.5,1993
+Philadelphia,38.1,20.5,1993
+Charlotte,8.8,3.4,1991
+Philadelphia,18.2,13.0,1991
+New Orleans,6.1,5.7,2012
+Phoenix,11.9,0.0,2012
+New Orleans,0.0,1.7,2005
+Phoenix,4.9,17.1,2005
+Charlotte,5.6,6.1,1989
+Phoenix,6.8,7.3,1989
+New Orleans,11.1,3.1,2013
+Portland,0.0,9.5,2013
+New Orleans,0.0,-0.2,2010
+Portland,2.9,0.0,2010
+Charlotte,-0.5,1.0,1989
+Portland,4.1,0.1,1989
+New Orleans,11.1,3.1,2013
+Sacramento,14.1,0.9,2013
+New Orleans,4.9,4.5,2011
+Sacramento,4.8,10.5,2011
+New Orleans,3.3,0.0,2010
+Sacramento,0.0,0.0,2010
+Charlotte,0.0,1.2,1991
+Sacramento,-0.1,0.0,1991
+San Antonio,4.2,10.1,1992
+Charlotte,5.5,8.1,1992
+Toronto,5.4,3.9,2010
+New Orleans,15.6,6.3,2010
+Toronto,1.2,0.6,2010
+New Orleans,3.3,6.3,2010
+Toronto,0.1,0.0,2006
+Oklahoma City,0.0,1.5,2006
+Utah,2.9,1.3,2005
+Oklahoma City,0.0,12.3,2005
+Utah,5.0,12.7,1988
+Charlotte,0.0,7.5,1988
+New Orleans,19.2,1.3,2012
+Washington,1.8,15.6,2012
+New Orleans,-0.1,1.1,2008
+Washington,14.3,-0.2,2008
+Charlotte,0.0,1.1,2002
+Washington,3.1,2.9,2002
+Charlotte,0.0,2.4,1994
+Washington,15.6,0.0,1994
+Charlotte,2.3,0.1,1992
+Washington,1.9,8.2,1992
+Oklahoma City,0.0,0.2,2013
+New York,0.8,0.0,2013
+Oklahoma City,12.7,0.2,2009
+New York,-0.2,0.5,2009
+Seattle,8.1,2.0,2000
+New York,126.6,5.5,2000
+Seattle,10.2,0.0,1986
+New York,0.0,40.3,1986
+Seattle,0.0,29.7,1978
+New York,10.5,0.0,1978
+Seattle,38.0,6.1,1975
+New York,-0.2,13.6,1975
+Orlando,9.1,4.2,2006
+New York,3.1,3.6,2006
+New York,30.4,22.2,1992
+Orlando,2.1,0.7,1992
+Philadelphia,6.5,7.4,2003
+New York,20.8,3.9,2003
+New York,0.0,-0.1,1999
+Philadelphia,0.0,0.0,1999
+New York,4.3,1.1,1998
+Philadelphia,1.4,0.0,1998
+New York,0.0,18.6,2010
+Phoenix,67.9,0.0,2010
+New York,37.9,21.7,2005
+Phoenix,5.8,6.3,2005
+New York,38.4,28.8,2004
+Phoenix,34.7,0.8,2004
+New York,126.6,5.5,2000
+Phoenix,3.1,1.0,2000
+New York,30.7,4.6,1991
+Phoenix,4.2,1.3,1991
+New York,7.4,6.4,1982
+Phoenix,21.5,16.0,1982
+New York,0.0,0.0,1970
+Phoenix,0.0,0.0,1970
+New York,6.3,7.5,2012
+Portland,2.8,-0.3,2012
+New York,8.1,6.0,2007
+Portland,23.2,4.0,2007
+New York,0.0,0.0,2007
+Portland,0.0,0.0,2007
+New York,1.6,10.1,1997
+Portland,12.3,-0.1,1997
+New York,0.0,10.4,1989
+Portland,33.9,1.2,1989
+New York,0.2,0.0,1981
+Portland,0.0,0.0,1981
+New York,5.6,0.6,2010
+Sacramento,31.6,5.3,2010
+New York,0.0,0.0,1987
+Sacramento,0.0,1.2,1987
+Kansas City,0.9,3.5,1983
+New York,0.0,6.2,1983
+New York,3.6,7.5,1980
+Kansas City,21.2,22.1,1980
+Cincinnati,9.9,0.7,1963
+New York,0.5,14.8,1963
+New York,0.8,0.0,1950
+Rochester,0.0,-0.5,1950
+San Antonio,25.5,5.3,2005
+New York,5.5,35.0,2005
+San Antonio,10.6,5.2,1996
+New York,14.3,5.1,1996
+San Antonio,4.4,13.5,1990
+New York,5.5,7.9,1990
+San Antonio,0.0,-0.2,1984
+New York,0.0,2.5,1984
+Toronto,16.3,1.4,2013
+New York,36.1,1.5,2013
+Toronto,7.2,0.0,2006
+New York,0.4,5.7,2006
+Toronto,8.3,1.3,2001
+New York,14.6,7.3,2001
+Toronto,4.7,8.1,1998
+New York,67.5,21.8,1998
+Toronto,0.0,2.6,1997
+New York,1.6,10.1,1997
+Toronto,0.0,0.1,1996
+New York,15.8,0.0,1996
+Toronto,0.9,21.1,1996
+New York,3.9,0.5,1996
+New York,13.6,3.6,1979
+New Orleans,3.4,2.7,1979
+New York,4.4,4.1,1975
+New Orleans,3.1,3.1,1975
+New York,3.0,23.7,2011
+Washington,0.0,0.1,2011
+New York,6.4,0.0,1979
+Washington,0.0,2.1,1979
+Baltimore,33.5,33.2,1971
+New York,20.3,43.9,1971
+Baltimore,57.0,17.5,1965
+New York,31.3,33.1,1965
+Baltimore,2.3,-1.2,1963
+New York,2.6,4.5,1963
+Chicago,0.0,0.0,1962
+New York,0.2,-0.1,1962
+Chicago,0.0,0.2,1961
+New York,6.0,11.7,1961
+Orlando,0.0,27.4,2007
+Seattle,58.9,0.0,2007
+Orlando,36.4,2.6,1999
+Seattle,45.9,6.1,1999
+Orlando,0.0,0.0,1990
+Seattle,0.0,0.0,1990
+Philadelphia,0.0,5.8,2003
+Seattle,0.0,0.0,2003
+Philadelphia,0.0,34.6,1998
+Seattle,2.2,4.0,1998
+Philadelphia,7.7,8.3,1986
+Seattle,22.2,70.5,1986
+Philadelphia,0.0,2.8,1971
+Seattle,19.5,0.6,1971
+Phoenix,6.2,0.0,2007
+Seattle,0.0,39.5,2007
+Phoenix,13.7,4.2,1990
+Seattle,30.3,15.6,1990
+Phoenix,49.9,23.1,1980
+Seattle,24.3,2.4,1980
+Phoenix,0.0,2.7,1977
+Seattle,0.0,0.0,1977
+Phoenix,3.9,-1.1,1969
+Seattle,-0.6,35.0,1969
+Oklahoma City,0.0,0.0,2013
+Portland,0.0,0.0,2013
+Oklahoma City,3.1,0.0,2013
+Portland,0.0,0.2,2013
+Portland,0.9,9.8,1977
+Seattle,0.0,11.3,1977
+Portland,1.9,0.0,1976
+Seattle,0.0,0.0,1976
+Seattle,12.4,5.7,2006
+Sacramento,2.8,-0.1,2006
+Sacramento,0.0,3.3,1995
+Seattle,2.8,1.6,1995
+Sacramento,0.0,0.9,1992
+Seattle,0.0,17.5,1992
+Kansas City,20.9,0.0,1983
+Seattle,0.0,3.9,1983
+Kansas City-Omaha,2.8,7.3,1972
+Seattle,11.4,19.7,1972
+Cincinnati,2.0,0.9,1969
+Seattle,3.4,3.7,1969
+Seattle,3.0,-0.5,2008
+San Antonio,23.1,5.5,2008
+Seattle,1.4,0.0,1985
+San Antonio,0.0,5.5,1985
+Seattle,-0.1,0.4,1980
+San Antonio,0.0,0.5,1980
+Seattle,0.0,-0.1,1980
+San Antonio,3.0,0.0,1980
+Seattle,4.4,0.0,1977
+San Antonio,0.0,6.1,1977
+Utah,30.8,0.0,2009
+Oklahoma City,0.0,3.1,2009
+Seattle,11.9,13.9,1978
+New Orleans,0.0,0.7,1978
+Seattle,0.0,3.9,2001
+Washington,0.0,1.5,2001
+Seattle,52.1,10.5,1984
+Washington,5.3,8.0,1984
+Seattle,9.0,2.8,1976
+Washington,8.0,0.9,1976
+Seattle,2.1,6.2,1974
+Washington,20.2,0.2,1974
+Orlando,97.4,23.3,2012
+Philadelphia,63.0,1.4,2012
+Orlando,0.0,0.0,2003
+Philadelphia,0.5,0.0,2003
+Orlando,0.0,0.2,1999
+Philadelphia,1.2,1.1,1999
+Orlando,25.1,15.7,2010
+Phoenix,14.2,18.4,2010
+Orlando,0.0,8.2,2005
+Phoenix,0.0,0.0,2005
+Orlando,0.0,0.0,2003
+Phoenix,0.0,0.0,2003
+Orlando,0.0,0.0,2003
+Phoenix,0.0,0.7,2003
+Orlando,24.4,0.8,2001
+Phoenix,1.8,75.7,2001
+Orlando,46.3,17.6,1999
+Phoenix,19.2,14.6,1999
+Orlando,1.6,0.0,2005
+Sacramento,32.8,3.0,2005
+Orlando,52.9,2.0,1999
+Sacramento,1.3,2.7,1999
+San Antonio,1.3,4.2,1990
+Orlando,1.7,2.1,1990
+Toronto,5.5,3.7,2009
+Orlando,32.3,0.0,2009
+Toronto,0.1,-0.2,2004
+Orlando,0.0,1.3,2004
+Toronto,11.9,0.0,2000
+Orlando,0.0,48.2,2000
+Utah,0.6,4.6,2004
+Orlando,2.9,2.3,2004
+Utah,0.0,1.0,2002
+Orlando,0.0,-0.5,2002
+Utah,9.0,68.2,1996
+Orlando,0.7,0.1,1996
+Orlando,27.4,0.2,2010
+Washington,41.5,1.8,2010
+Orlando,0.0,0.0,2001
+Washington,-0.1,35.8,2001
+Orlando,0.0,0.0,1999
+Washington,0.0,0.4,1999
+Orlando,1.2,5.6,1999
+Washington,18.4,0.0,1999
+Orlando,24.6,0.0,1994
+Washington,0.0,4.5,1994
+Philadelphia,0.0,0.1,1997
+Phoenix,34.6,0.2,1997
+Philadelphia,106.1,16.4,1992
+Phoenix,67.3,44.4,1992
+Philadelphia,0.0,-0.2,1990
+Phoenix,0.0,0.0,1990
+Philadelphia,0.0,-0.1,1972
+Phoenix,6.1,3.9,1972
+Philadelphia,0.0,0.0,1969
+Phoenix,0.0,0.0,1969
+Philadelphia,0.0,2.7,1969
+Phoenix,0.0,0.0,1969
+Philadelphia,0.0,0.0,2007
+Portland,0.0,0.0,2007
+Philadelphia,0.0,7.2,1980
+Portland,12.5,0.0,1980
+Philadelphia,2.1,3.0,1972
+Portland,10.7,0.2,1972
+Philadelphia,1.6,2.4,1972
+Portland,0.0,0.0,1972
+Philadelphia,36.9,13.4,2010
+Sacramento,5.7,2.9,2010
+Philadelphia,18.7,5.8,2005
+Sacramento,46.0,14.9,2005
+Kansas City-Omaha,0.5,0.0,1975
+Philadelphia,0.0,0.1,1975
+Kansas City-Omaha,21.3,3.1,1973
+Philadelphia,3.4,10.3,1973
+Cincinnati,11.7,0.7,1970
+Philadelphia,14.1,2.2,1970
+Cincinnati,1.9,0.0,1969
+Philadelphia,0.0,2.0,1969
+Philadelphia,2.8,5.7,2002
+San Antonio,0.6,1.2,2002
+Philadelphia,89.8,13.8,1989
+San Antonio,7.1,6.3,1989
+Philadelphia,-0.1,0.0,1988
+San Antonio,-0.1,0.0,1988
+Philadelphia,2.8,0.0,1984
+San Antonio,0.0,1.3,1984
+Philadelphia,-0.2,0.0,1983
+San Antonio,0.0,1.3,1983
+Philadelphia,4.5,0.3,2009
+Toronto,2.7,1.5,2009
+Philadelphia,2.6,2.5,1996
+Toronto,3.0,-1.2,1996
+Philadelphia,17.8,-0.1,2007
+Utah,4.6,9.4,2007
+Philadelphia,0.0,0.0,2007
+Utah,0.0,0.7,2007
+Philadelphia,0.0,0.0,2005
+Utah,0.0,0.0,2005
+Philadelphia,0.0,0.4,1998
+Utah,0.0,0.8,1998
+Philadelphia,9.2,1.6,1994
+Utah,18.2,55.0,1994
+Philadelphia,0.0,-0.2,2014
+Washington,3.1,1.1,2014
+Philadelphia,0.0,0.0,2013
+Washington,0.0,0.0,2013
+Philadelphia,47.1,5.3,1986
+Washington,42.5,52.7,1986
+Philadelphia,1.1,-0.4,1986
+Washington,0.1,0.6,1986
+Philadelphia,0.0,0.8,1984
+Washington,0.0,-0.4,1984
+Baltimore,27.1,21.3,1971
+Philadelphia,26.0,17.5,1971
+Baltimore,0.3,3.1,1965
+Philadelphia,58.7,13.2,1965
+Phoenix,6.2,0.0,2007
+Portland,0.0,16.6,2007
+Phoenix,0.0,3.1,1985
+Portland,0.2,-0.1,1985
+Phoenix,0.1,0.0,1977
+Portland,0.0,0.0,1977
+Phoenix,0.0,0.2,1975
+Portland,0.5,0.2,1975
+Phoenix,8.9,13.7,1987
+Sacramento,28.4,5.9,1987
+Cincinnati,0.0,-0.5,1971
+Phoenix,-0.1,0.0,1971
+Phoenix,0.0,18.8,2008
+San Antonio,0.0,16.4,2008
+Phoenix,0.0,27.8,2003
+San Antonio,0.0,0.0,2003
+Phoenix,1.2,-0.1,1993
+San Antonio,0.0,3.3,1993
+Phoenix,1.8,0.0,2013
+Toronto,0.0,0.1,2013
+Phoenix,27.3,1.2,2010
+Toronto,3.4,2.5,2010
+Phoenix,13.1,0.0,2004
+Utah,0.6,15.7,2004
+New Orleans,10.7,-1.0,1979
+Phoenix,7.6,21.5,1979
+New Orleans,0.0,1.0,1974
+Phoenix,27.2,29.7,1974
+Phoenix,18.7,0.0,2013
+Washington,4.5,8.1,2013
+Phoenix,0.0,1.2,2003
+Washington,9.4,0.6,2003
+Phoenix,-0.3,0.0,1990
+Washington,0.0,0.0,1990
+Phoenix,0.0,29.8,1979
+Washington,0.0,0.0,1979
+Phoenix,-0.1,0.0,1975
+Washington,0.0,0.0,1975
+Phoenix,19.6,0.0,1974
+Washington,5.3,3.2,1974
+Capital,0.0,1.0,1973
+Phoenix,-0.1,1.0,1973
+Baltimore,36.0,0.2,1972
+Phoenix,0.0,-0.2,1972
+Portland,0.0,9.5,2013
+Sacramento,14.1,0.9,2013
+Portland,2.4,1.3,2009
+Sacramento,0.0,2.5,2009
+Portland,0.1,0.1,2009
+Sacramento,0.0,0.6,2009
+Portland,16.2,0.2,2006
+Sacramento,2.8,-0.1,2006
+Portland,1.2,11.4,1990
+Sacramento,7.7,3.0,1990
+San Antonio,19.9,2.2,2002
+Portland,2.0,2.6,2002
+San Antonio,13.6,8.9,2001
+Portland,18.6,20.2,2001
+San Antonio,0.2,5.6,1986
+Portland,0.2,25.5,1986
+San Antonio,4.9,3.0,1986
+Portland,39.9,7.4,1986
+San Antonio,16.6,3.6,1980
+Portland,9.8,1.0,1980
+Toronto,0.8,1.1,2007
+Portland,1.8,0.4,2007
+Toronto,26.6,20.7,1998
+Portland,26.1,42.9,1998
+Toronto,0.0,2.6,1997
+Portland,12.3,-0.1,1997
+Utah,0.0,46.7,2005
+Portland,0.0,11.7,2005
+Portland,0.0,-0.4,1976
+New Orleans,0.0,0.0,1976
+Portland,3.2,2.6,1974
+New Orleans,0.0,0.4,1974
+Portland,44.2,62.0,1996
+Washington,3.6,29.9,1996
+Portland,25.5,11.9,1993
+Washington,20.3,-0.6,1993
+Baltimore,0.0,1.7,1970
+Portland,0.0,0.0,1970
+Sacramento,29.9,39.5,2003
+San Antonio,6.8,7.1,2003
+Sacramento,7.4,0.4,1991
+San Antonio,0.2,10.7,1991
+Kansas City,3.5,0.2,1984
+San Antonio,1.3,0.3,1984
+Kansas City,0.5,0.0,1982
+San Antonio,0.0,0.4,1982
+Kansas City,0.0,0.4,1979
+San Antonio,6.1,0.8,1979
+Sacramento,17.3,5.9,2013
+Toronto,5.2,8.5,2013
+Sacramento,0.0,-0.5,2012
+Toronto,3.2,0.0,2012
+Sacramento,12.4,32.8,2000
+Toronto,21.1,0.8,2000
+Sacramento,4.7,0.0,2003
+Utah,0.0,0.0,2003
+Utah,17.7,18.2,1990
+Sacramento,0.4,4.7,1990
+Kansas City-Omaha,4.2,21.2,1975
+New Orleans,0.0,6.1,1975
+Kansas City-Omaha,9.0,9.0,1975
+New Orleans,2.2,10.4,1975
+Sacramento,0.0,-0.2,2010
+Washington,1.6,0.0,2010
+Sacramento,76.4,45.5,1998
+Washington,23.5,13.8,1998
+Sacramento,0.0,0.3,1990
+Washington,8.4,0.9,1990
+Sacramento,0.4,4.7,1990
+Washington,33.6,15.5,1990
+Chicago,-0.1,1.3,1962
+Cincinnati,4.1,-0.3,1962
+Toronto,0.0,0.4,2014
+San Antonio,2.0,0.2,2014
+Toronto,0.0,0.0,2007
+San Antonio,0.0,0.0,2007
+Toronto,8.8,8.8,2006
+San Antonio,15.2,27.5,2006
+Utah,8.6,3.9,1986
+San Antonio,3.7,0.2,1986
+Utah,0.0,2.5,1984
+San Antonio,3.2,0.0,1984
+Washington,2.0,0.0,1980
+San Antonio,0.0,10.3,1980
+Utah,-0.1,0.1,2006
+Toronto,-0.6,4.0,2006
+Washington,33.6,15.5,1990
+Utah,17.7,18.2,1990
