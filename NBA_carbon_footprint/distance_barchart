@@ -1,0 +1,241 @@
+<!-- ComboChart generated in R 3.0.2 by googleVis 0.5.1 package -->
+<!-- Sun May  4 20:33:04 2014 -->
+
+
+<!-- jsHeader -->
+<script type="text/javascript">
+ 
+// jsData 
+function gvisDataComboChartID18323c37666d () {
+var data = new google.visualization.DataTable();
+var datajson =
+[
+ [
+ "Portland",
+117229,
+70293.53333 
+],
+[
+ "Golden State",
+99352,
+70293.53333 
+],
+[
+ "Sacramento",
+95933,
+70293.53333 
+],
+[
+ "LA Clippers",
+92785,
+70293.53333 
+],
+[
+ "LA Lakers",
+89966,
+70293.53333 
+],
+[
+ "Miami",
+83927,
+70293.53333 
+],
+[
+ "Phoenix",
+78435,
+70293.53333 
+],
+[
+ "Houston",
+76365,
+70293.53333 
+],
+[
+ "Boston",
+74560,
+70293.53333 
+],
+[
+ "Utah",
+73583,
+70293.53333 
+],
+[
+ "Orlando",
+71566,
+70293.53333 
+],
+[
+ "New Orleans",
+69853,
+70293.53333 
+],
+[
+ "San Antonio",
+69043,
+70293.53333 
+],
+[
+ "Minnesota",
+68333,
+70293.53333 
+],
+[
+ "Denver",
+65441,
+70293.53333 
+],
+[
+ "New York",
+65066,
+70293.53333 
+],
+[
+ "Brooklyn",
+64997,
+70293.53333 
+],
+[
+ "Memphis",
+63367,
+70293.53333 
+],
+[
+ "Okla City",
+61427,
+70293.53333 
+],
+[
+ "Washington",
+61407,
+70293.53333 
+],
+[
+ "Dallas",
+61238,
+70293.53333 
+],
+[
+ "Philadelphia",
+60566,
+70293.53333 
+],
+[
+ "Toronto",
+60389,
+70293.53333 
+],
+[
+ "Atlanta",
+59048,
+70293.53333 
+],
+[
+ "Charlotte",
+58589,
+70293.53333 
+],
+[
+ "Milwaukee",
+54435,
+70293.53333 
+],
+[
+ "Chicago",
+53573,
+70293.53333 
+],
+[
+ "Detroit",
+53206,
+70293.53333 
+],
+[
+ "Indiana",
+52706,
+70293.53333 
+],
+[
+ "Cleveland",
+52421,
+70293.53333 
+] 
+];
+data.addColumn('string','team');
+data.addColumn('number','distance');
+data.addColumn('number','Mean');
+data.addRows(datajson);
+return(data);
+}
+ 
+// jsDrawChart
+function drawChartComboChartID18323c37666d() {
+var data = gvisDataComboChartID18323c37666d();
+var options = {};
+options["allowHtml"] = true;
+options["seriesType"] = "line";
+options["width"] =   1000;
+options["height"] =    500;
+options["title"] = "Total distance (in km) travelled by NBA teams during the 2013-2014 season";
+options["series"] = {0: {type:"bars"}};
+options["hAxis"] = {slantedTextAngle:90};
+
+
+    var chart = new google.visualization.ComboChart(
+    document.getElementById('ComboChartID18323c37666d')
+    );
+    chart.draw(data,options);
+    
+
+}
+  
+ 
+// jsDisplayChart
+(function() {
+var pkgs = window.__gvisPackages = window.__gvisPackages || [];
+var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
+var chartid = "corechart";
+  
+// Manually see if chartid is in pkgs (not all browsers support Array.indexOf)
+var i, newPackage = true;
+for (i = 0; newPackage && i < pkgs.length; i++) {
+if (pkgs[i] === chartid)
+newPackage = false;
+}
+if (newPackage)
+  pkgs.push(chartid);
+  
+// Add the drawChart function to the global list of callbacks
+callbacks.push(drawChartComboChartID18323c37666d);
+})();
+function displayChartComboChartID18323c37666d() {
+  var pkgs = window.__gvisPackages = window.__gvisPackages || [];
+  var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
+  window.clearTimeout(window.__gvisLoad);
+  // The timeout is set to 100 because otherwise the container div we are
+  // targeting might not be part of the document yet
+  window.__gvisLoad = setTimeout(function() {
+  var pkgCount = pkgs.length;
+  google.load("visualization", "1", { packages:pkgs, callback: function() {
+  if (pkgCount != pkgs.length) {
+  // Race condition where another setTimeout call snuck in after us; if
+  // that call added a package, we must not shift its callback
+  return;
+}
+while (callbacks.length > 0)
+callbacks.shift()();
+} });
+}, 100);
+}
+ 
+// jsFooter
+</script>
+ 
+<!-- jsChart -->  
+<script type="text/javascript" src="https://www.google.com/jsapi?callback=displayChartComboChartID18323c37666d"></script>
+ 
+<!-- divChart -->
+  
+<div id="ComboChartID18323c37666d"
+  style="width: 1000px; height: 500px;">
+</div>

@@ -1,0 +1,241 @@
+<!-- ComboChart generated in R 3.0.2 by googleVis 0.5.1 package -->
+<!-- Sun May  4 20:46:06 2014 -->
+
+
+<!-- jsHeader -->
+<script type="text/javascript">
+ 
+// jsData 
+function gvisDataComboChartID183237e157da9 () {
+var data = new google.visualization.DataTable();
+var datajson =
+[
+ [
+ "Cleveland",
+520015.7632,
+697311.6956 
+],
+[
+ "Indiana",
+522843.4815,
+697311.6956 
+],
+[
+ "Detroit",
+527804.5202,
+697311.6956 
+],
+[
+ "Chicago",
+531446.1619,
+697311.6956 
+],
+[
+ "Milwaukee",
+539998.4137,
+697311.6956 
+],
+[
+ "Charlotte",
+581203.9337,
+697311.6956 
+],
+[
+ "Atlanta",
+585751.8463,
+697311.6956 
+],
+[
+ "Toronto",
+599058.7676,
+697311.6956 
+],
+[
+ "Philadelphia",
+600818.4991,
+697311.6956 
+],
+[
+ "Dallas",
+607478.0238,
+697311.6956 
+],
+[
+ "Washington",
+609156.2212,
+697311.6956 
+],
+[
+ "Okla City",
+609355.0204,
+697311.6956 
+],
+[
+ "Memphis",
+628597.1576,
+697311.6956 
+],
+[
+ "Brooklyn",
+644769.9602,
+697311.6956 
+],
+[
+ "New York",
+645454.4746,
+697311.6956 
+],
+[
+ "Denver",
+649171.7896,
+697311.6956 
+],
+[
+ "Minnesota",
+677865.6745,
+697311.6956 
+],
+[
+ "San Antonio",
+684907.8723,
+697311.6956 
+],
+[
+ "New Orleans",
+692941.5023,
+697311.6956 
+],
+[
+ "Orlando",
+709934.3062,
+697311.6956 
+],
+[
+ "Utah",
+729940.2936,
+697311.6956 
+],
+[
+ "Boston",
+739637.3051,
+697311.6956 
+],
+[
+ "Houston",
+757541.0808,
+697311.6956 
+],
+[
+ "Phoenix",
+778071.3595,
+697311.6956 
+],
+[
+ "Miami",
+832553.1405,
+697311.6956 
+],
+[
+ "LA Lakers",
+892465.3497,
+697311.6956 
+],
+[
+ "LA Clippers",
+920428.7512,
+697311.6956 
+],
+[
+ "Sacramento",
+951658.6815,
+697311.6956 
+],
+[
+ "Golden State",
+985573.9304,
+697311.6956 
+],
+[
+ "Portland",
+1162907.584,
+697311.6956 
+] 
+];
+data.addColumn('string','team');
+data.addColumn('number','co2_emission');
+data.addColumn('number','Mean');
+data.addRows(datajson);
+return(data);
+}
+ 
+// jsDrawChart
+function drawChartComboChartID183237e157da9() {
+var data = gvisDataComboChartID183237e157da9();
+var options = {};
+options["allowHtml"] = true;
+options["seriesType"] = "line";
+options["width"] =   1000;
+options["height"] =    500;
+options["title"] = "Total CO2(in kg) emitted by NBA teams during the 2013-2014 season";
+options["series"] = {0: {type:"bars"}};
+options["hAxis"] = {slantedTextAngle:90};
+
+
+    var chart = new google.visualization.ComboChart(
+    document.getElementById('ComboChartID183237e157da9')
+    );
+    chart.draw(data,options);
+    
+
+}
+  
+ 
+// jsDisplayChart
+(function() {
+var pkgs = window.__gvisPackages = window.__gvisPackages || [];
+var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
+var chartid = "corechart";
+  
+// Manually see if chartid is in pkgs (not all browsers support Array.indexOf)
+var i, newPackage = true;
+for (i = 0; newPackage && i < pkgs.length; i++) {
+if (pkgs[i] === chartid)
+newPackage = false;
+}
+if (newPackage)
+  pkgs.push(chartid);
+  
+// Add the drawChart function to the global list of callbacks
+callbacks.push(drawChartComboChartID183237e157da9);
+})();
+function displayChartComboChartID183237e157da9() {
+  var pkgs = window.__gvisPackages = window.__gvisPackages || [];
+  var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
+  window.clearTimeout(window.__gvisLoad);
+  // The timeout is set to 100 because otherwise the container div we are
+  // targeting might not be part of the document yet
+  window.__gvisLoad = setTimeout(function() {
+  var pkgCount = pkgs.length;
+  google.load("visualization", "1", { packages:pkgs, callback: function() {
+  if (pkgCount != pkgs.length) {
+  // Race condition where another setTimeout call snuck in after us; if
+  // that call added a package, we must not shift its callback
+  return;
+}
+while (callbacks.length > 0)
+callbacks.shift()();
+} });
+}, 100);
+}
+ 
+// jsFooter
+</script>
+ 
+<!-- jsChart -->  
+<script type="text/javascript" src="https://www.google.com/jsapi?callback=displayChartComboChartID183237e157da9"></script>
+ 
+<!-- divChart -->
+  
+<div id="ComboChartID183237e157da9"
+  style="width: 1000px; height: 500px;">
+</div>

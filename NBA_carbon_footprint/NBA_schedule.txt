@@ -1,0 +1,1460 @@
+Tue Oct 29	Time	Location
+Orlando @ Indiana	 7:00 PM	Bankers Life Fieldhouse
+Chicago @ Miami	 8:00 PM	American Airlines Arena
+LA Clippers @ LA Lakers	10:30 PM	Staples Center
+Wed Oct 30	Time	Location
+Brooklyn @ Cleveland	 7:00 PM	Quicken Loans Arena
+Boston @ Toronto	 7:00 PM	Air Canada Centre
+Miami @ Philadelphia	 7:00 PM	Wells Fargo Center
+Washington @ Detroit	 7:30 PM	The Palace of Auburn Hills
+Milwaukee @ New York	 7:30 PM	Madison Square Garden
+Orlando @ Minnesota	 8:00 PM	Target Center
+Indiana @ New Orleans	 8:00 PM	Smoothie King Center
+Charlotte @ Houston	 8:00 PM	Toyota Center
+Atlanta @ Dallas	 8:30 PM	American Airlines Center
+Memphis @ San Antonio	 8:30 PM	AT&T Center
+Okla City @ Utah	 9:00 PM	EnergySolutions Arena
+Portland @ Phoenix	10:00 PM	US Airways Center
+Denver @ Sacramento	10:00 PM	Sleep Train Arena
+LA Lakers @ Golden State	10:30 PM	Oracle Arena
+Thu Oct 31	Time	Location
+New York @ Chicago	 8:00 PM	United Center
+Golden State @ LA Clippers	10:30 PM	Staples Center
+Fri Nov 1	Time	Location
+Philadelphia @ Washington	 7:00 PM	Verizon Center
+New Orleans @ Orlando	 7:00 PM	Amway Center
+Cleveland @ Charlotte	 7:00 PM	Time Warner Cable Arena
+Toronto @ Atlanta	 7:30 PM	Philips Arena
+Milwaukee @ Boston	 7:30 PM	TD Garden
+Miami @ Brooklyn	 8:00 PM	Barclays Center
+Detroit @ Memphis	 8:00 PM	FedExForum
+Okla City @ Minnesota	 8:00 PM	Target Center
+Dallas @ Houston	 8:00 PM	Toyota Center
+Portland @ Denver	 9:00 PM	Pepsi Center
+LA Clippers @ Sacramento	10:00 PM	Sleep Train Arena
+Utah @ Phoenix	10:00 PM	US Airways Center
+San Antonio @ LA Lakers	10:30 PM	Staples Center
+Sat Nov 2	Time	Location
+Cleveland @ Indiana	 7:00 PM	Bankers Life Fieldhouse
+Chicago @ Philadelphia	 7:30 PM	Wells Fargo Center
+Charlotte @ New Orleans	 8:00 PM	Smoothie King Center
+Toronto @ Milwaukee	 8:30 PM	BMO Harris Bradley Center
+Memphis @ Dallas	 8:30 PM	American Airlines Center
+Houston @ Utah	 9:00 PM	EnergySolutions Arena
+San Antonio @ Portland	10:00 PM	Moda Center at the Rose Quarter
+Sacramento @ Golden State	10:30 PM	Oracle Arena
+Sun Nov 3	Time	Location
+Brooklyn @ Orlando	 6:00 PM	Amway Center
+Boston @ Detroit	 6:00 PM	The Palace of Auburn Hills
+Washington @ Miami	 6:00 PM	American Airlines Arena
+Phoenix @ Okla City	 7:00 PM	Chesapeake Energy Arena
+Minnesota @ New York	 7:30 PM	Madison Square Garden
+Atlanta @ LA Lakers	 9:30 PM	Staples Center
+Mon Nov 4	Time	Location
+Golden State @ Philadelphia	 7:00 PM	Wells Fargo Center
+Minnesota @ Cleveland	 7:00 PM	Quicken Loans Arena
+Boston @ Memphis	 8:00 PM	FedExForum
+Houston @ LA Clippers	10:30 PM	Staples Center
+Tue Nov 5	Time	Location
+Miami @ Toronto	 7:00 PM	Air Canada Centre
+Indiana @ Detroit	 7:30 PM	The Palace of Auburn Hills
+Utah @ Brooklyn	 7:30 PM	Barclays Center
+Charlotte @ New York	 7:30 PM	Madison Square Garden
+Phoenix @ New Orleans	 8:00 PM	Smoothie King Center
+LA Lakers @ Dallas	 8:30 PM	American Airlines Center
+San Antonio @ Denver	 9:00 PM	Pepsi Center
+Atlanta @ Sacramento	10:00 PM	Sleep Train Arena
+Houston @ Portland	10:00 PM	Moda Center at the Rose Quarter
+Wed Nov 6	Time	Location
+Washington @ Philadelphia	 7:00 PM	Wells Fargo Center
+Chicago @ Indiana	 7:00 PM	Bankers Life Fieldhouse
+Toronto @ Charlotte	 7:00 PM	Time Warner Cable Arena
+LA Clippers @ Orlando	 7:00 PM	Amway Center
+Utah @ Boston	 7:30 PM	TD Garden
+New Orleans @ Memphis	 8:00 PM	FedExForum
+Cleveland @ Milwaukee	 8:00 PM	BMO Harris Bradley Center
+Golden State @ Minnesota	 8:00 PM	Target Center
+Phoenix @ San Antonio	 8:30 PM	AT&T Center
+Dallas @ Okla City	 9:30 PM	Chesapeake Energy Arena
+Thu Nov 7	Time	Location
+LA Clippers @ Miami	 7:00 PM	American Airlines Arena
+Atlanta @ Denver	 9:00 PM	Pepsi Center
+LA Lakers @ Houston	 9:30 PM	Toyota Center
+Fri Nov 8	Time	Location
+Brooklyn @ Washington	 7:00 PM	Verizon Center
+Boston @ Orlando	 7:00 PM	Amway Center
+New York @ Charlotte	 7:00 PM	Time Warner Cable Arena
+Cleveland @ Philadelphia	 7:00 PM	Wells Fargo Center
+Toronto @ Indiana	 7:00 PM	Bankers Life Fieldhouse
+Okla City @ Detroit	 7:30 PM	The Palace of Auburn Hills
+LA Lakers @ New Orleans	 8:00 PM	Smoothie King Center
+Utah @ Chicago	 8:00 PM	United Center
+Dallas @ Minnesota	 8:00 PM	Target Center
+Golden State @ San Antonio	 8:30 PM	AT&T Center
+Denver @ Phoenix	 9:00 PM	US Airways Center
+Sacramento @ Portland	10:00 PM	Moda Center at the Rose Quarter
+Sat Nov 9	Time	Location
+Utah @ Toronto	 7:00 PM	Air Canada Centre
+Boston @ Miami	 7:30 PM	American Airlines Arena
+Philadelphia @ Cleveland	 7:30 PM	Quicken Loans Arena
+Orlando @ Atlanta	 7:30 PM	Philips Arena
+Indiana @ Brooklyn	 7:30 PM	Barclays Center
+Golden State @ Memphis	 8:00 PM	FedExForum
+LA Clippers @ Houston	 8:00 PM	Toyota Center
+Dallas @ Milwaukee	 8:30 PM	BMO Harris Bradley Center
+Portland @ Sacramento	10:00 PM	Sleep Train Arena
+Sun Nov 10	Time	Location
+San Antonio @ New York	12:00 PM	Madison Square Garden
+Washington @ Okla City	 7:00 PM	Chesapeake Energy Arena
+New Orleans @ Phoenix	 8:00 PM	US Airways Center
+Minnesota @ LA Lakers	 9:30 PM	Staples Center
+Mon Nov 11	Time	Location
+Atlanta @ Charlotte	 7:00 PM	Time Warner Cable Arena
+San Antonio @ Philadelphia	 7:00 PM	Wells Fargo Center
+Memphis @ Indiana	 7:00 PM	Bankers Life Fieldhouse
+Orlando @ Boston	 7:30 PM	TD Garden
+Cleveland @ Chicago	 8:00 PM	United Center
+Toronto @ Houston	 8:00 PM	Toyota Center
+Denver @ Utah	 9:00 PM	EnergySolutions Arena
+Detroit @ Portland	10:00 PM	Moda Center at the Rose Quarter
+Minnesota @ LA Clippers	10:30 PM	Staples Center
+Tue Nov 12	Time	Location
+Milwaukee @ Miami	 7:30 PM	American Airlines Arena
+Washington @ Dallas	 8:30 PM	American Airlines Center
+New Orleans @ LA Lakers	10:30 PM	Staples Center
+Detroit @ Golden State	10:30 PM	Oracle Arena
+Wed Nov 13	Time	Location
+Milwaukee @ Orlando	 7:00 PM	Amway Center
+Houston @ Philadelphia	 7:00 PM	Wells Fargo Center
+Charlotte @ Boston	 7:30 PM	TD Garden
+New York @ Atlanta	 8:00 PM	Philips Arena
+Cleveland @ Minnesota	 8:00 PM	Target Center
+Toronto @ Memphis	 8:00 PM	FedExForum
+Washington @ San Antonio	 8:30 PM	AT&T Center
+New Orleans @ Utah	 9:00 PM	EnergySolutions Arena
+LA Lakers @ Denver	 9:00 PM	Pepsi Center
+Brooklyn @ Sacramento	10:00 PM	Sleep Train Arena
+Phoenix @ Portland	10:00 PM	Moda Center at the Rose Quarter
+Okla City @ LA Clippers	10:30 PM	Staples Center
+Thu Nov 14	Time	Location
+Houston @ New York	 8:00 PM	Madison Square Garden
+Okla City @ Golden State	10:30 PM	Oracle Arena
+Fri Nov 15	Time	Location
+Chicago @ Toronto	 7:00 PM	Air Canada Centre
+Milwaukee @ Indiana	 7:00 PM	Bankers Life Fieldhouse
+Philadelphia @ Atlanta	 7:30 PM	Philips Arena
+Portland @ Boston	 7:30 PM	TD Garden
+Dallas @ Miami	 7:30 PM	American Airlines Arena
+Charlotte @ Cleveland	 7:30 PM	Quicken Loans Arena
+Minnesota @ Denver	 8:00 PM	Pepsi Center
+Brooklyn @ Phoenix	 9:00 PM	US Airways Center
+San Antonio @ Utah	 9:00 PM	EnergySolutions Arena
+Detroit @ Sacramento	10:30 PM	Sleep Train Arena
+Memphis @ LA Lakers	10:30 PM	Staples Center
+Sat Nov 16	Time	Location
+Miami @ Charlotte	 7:00 PM	Time Warner Cable Arena
+Cleveland @ Washington	 7:00 PM	Verizon Center
+Dallas @ Orlando	 7:00 PM	Amway Center
+Atlanta @ New York	 7:30 PM	Madison Square Garden
+Boston @ Minnesota	 8:00 PM	Target Center
+Philadelphia @ New Orleans	 8:00 PM	Smoothie King Center
+Indiana @ Chicago	 8:00 PM	United Center
+Denver @ Houston	 8:00 PM	Toyota Center
+Okla City @ Milwaukee	 8:30 PM	BMO Harris Bradley Center
+Brooklyn @ LA Clippers	10:30 PM	Staples Center
+Utah @ Golden State	10:30 PM	Oracle Arena
+Sun Nov 17	Time	Location
+Portland @ Toronto	 1:00 PM	Air Canada Centre
+Memphis @ Sacramento	 6:00 PM	Sleep Train Arena
+Detroit @ LA Lakers	 9:30 PM	Staples Center
+Mon Nov 18	Time	Location
+Portland @ Brooklyn	 7:30 PM	Barclays Center
+Denver @ Okla City	 8:00 PM	Chesapeake Energy Arena
+Charlotte @ Chicago	 8:00 PM	United Center
+Philadelphia @ Dallas	 8:30 PM	American Airlines Center
+Golden State @ Utah	 9:00 PM	EnergySolutions Arena
+Memphis @ LA Clippers	10:30 PM	Staples Center
+Tue Nov 19	Time	Location
+Minnesota @ Washington	 7:00 PM	Verizon Center
+New York @ Detroit	 7:30 PM	The Palace of Auburn Hills
+Atlanta @ Miami	 7:30 PM	American Airlines Arena
+Boston @ Houston	 8:00 PM	Toyota Center
+Phoenix @ Sacramento	10:00 PM	Sleep Train Arena
+Wed Nov 20	Time	Location
+Brooklyn @ Charlotte	 7:00 PM	Time Warner Cable Arena
+Washington @ Cleveland	 7:00 PM	Quicken Loans Arena
+Miami @ Orlando	 7:00 PM	Amway Center
+Toronto @ Philadelphia	 7:00 PM	Wells Fargo Center
+Indiana @ New York	 7:00 PM	Madison Square Garden
+Detroit @ Atlanta	 7:30 PM	Philips Arena
+Portland @ Milwaukee	 8:00 PM	BMO Harris Bradley Center
+LA Clippers @ Minnesota	 8:00 PM	Target Center
+Utah @ New Orleans	 8:00 PM	Smoothie King Center
+Boston @ San Antonio	 8:30 PM	AT&T Center
+Sacramento @ Phoenix	 9:00 PM	US Airways Center
+Houston @ Dallas	 9:30 PM	American Airlines Center
+Memphis @ Golden State	10:30 PM	Oracle Arena
+Thu Nov 21	Time	Location
+LA Clippers @ Okla City	 8:00 PM	Chesapeake Energy Arena
+Chicago @ Denver	10:30 PM	Pepsi Center
+Fri Nov 22	Time	Location
+Washington @ Toronto	 7:00 PM	Air Canada Centre
+Milwaukee @ Philadelphia	 7:00 PM	Wells Fargo Center
+Phoenix @ Charlotte	 7:00 PM	Time Warner Cable Arena
+Atlanta @ Detroit	 7:30 PM	The Palace of Auburn Hills
+Indiana @ Boston	 7:30 PM	TD Garden
+Brooklyn @ Minnesota	 8:00 PM	Target Center
+Cleveland @ New Orleans	 8:00 PM	Smoothie King Center
+San Antonio @ Memphis	 8:00 PM	FedExForum
+Utah @ Dallas	 8:30 PM	American Airlines Center
+Chicago @ Portland	10:00 PM	Moda Center at the Rose Quarter
+Golden State @ LA Lakers	10:30 PM	Staples Center
+Sat Nov 23	Time	Location
+Sacramento @ LA Clippers	 3:30 PM	Staples Center
+Philadelphia @ Indiana	 7:00 PM	Bankers Life Fieldhouse
+New York @ Washington	 7:00 PM	Verizon Center
+Boston @ Atlanta	 7:30 PM	Philips Arena
+Orlando @ Miami	 7:30 PM	American Airlines Arena
+Minnesota @ Houston	 8:00 PM	Toyota Center
+Cleveland @ San Antonio	 8:30 PM	AT&T Center
+Charlotte @ Milwaukee	 8:30 PM	BMO Harris Bradley Center
+Dallas @ Denver	 9:00 PM	Pepsi Center
+Portland @ Golden State	10:30 PM	Oracle Arena
+Sun Nov 24	Time	Location
+Detroit @ Brooklyn	 2:00 PM	Barclays Center
+Chicago @ LA Clippers	 3:30 PM	Staples Center
+Phoenix @ Orlando	 6:00 PM	Amway Center
+Utah @ Okla City	 7:00 PM	Chesapeake Energy Arena
+Sacramento @ LA Lakers	 9:30 PM	Staples Center
+Mon Nov 25	Time	Location
+Boston @ Charlotte	 7:00 PM	Time Warner Cable Arena
+Minnesota @ Indiana	 7:00 PM	Bankers Life Fieldhouse
+Milwaukee @ Detroit	 7:30 PM	The Palace of Auburn Hills
+Phoenix @ Miami	 7:30 PM	American Airlines Arena
+Houston @ Memphis	 8:00 PM	FedExForum
+New Orleans @ San Antonio	 8:30 PM	AT&T Center
+Denver @ Dallas	 8:30 PM	American Airlines Center
+Chicago @ Utah	 9:00 PM	EnergySolutions Arena
+New York @ Portland	10:00 PM	Moda Center at the Rose Quarter
+Tue Nov 26	Time	Location
+Brooklyn @ Toronto	 7:00 PM	Air Canada Centre
+LA Lakers @ Washington	 7:00 PM	Verizon Center
+Orlando @ Atlanta	 7:30 PM	Philips Arena
+Golden State @ New Orleans	 8:00 PM	Smoothie King Center
+Wed Nov 27	Time	Location
+Philadelphia @ Orlando	 7:00 PM	Amway Center
+Indiana @ Charlotte	 7:00 PM	Time Warner Cable Arena
+Miami @ Cleveland	 7:30 PM	Quicken Loans Arena
+Chicago @ Detroit	 7:30 PM	The Palace of Auburn Hills
+LA Lakers @ Brooklyn	 7:30 PM	Barclays Center
+Memphis @ Boston	 7:30 PM	TD Garden
+Washington @ Milwaukee	 8:00 PM	BMO Harris Bradley Center
+Atlanta @ Houston	 8:00 PM	Toyota Center
+San Antonio @ Okla City	 8:00 PM	Chesapeake Energy Arena
+Denver @ Minnesota	 8:00 PM	Target Center
+Golden State @ Dallas	 8:30 PM	American Airlines Center
+Portland @ Phoenix	 9:00 PM	US Airways Center
+New York @ LA Clippers	10:30 PM	Staples Center
+Fri Nov 29	Time	Location
+Miami @ Toronto	 7:00 PM	Air Canada Centre
+Milwaukee @ Charlotte	 7:00 PM	Time Warner Cable Arena
+San Antonio @ Orlando	 7:00 PM	Amway Center
+Cleveland @ Boston	 7:30 PM	TD Garden
+LA Lakers @ Detroit	 7:30 PM	The Palace of Auburn Hills
+Dallas @ Atlanta	 7:30 PM	Philips Arena
+Brooklyn @ Houston	 8:00 PM	Toyota Center
+Washington @ Indiana	 8:00 PM	Bankers Life Fieldhouse
+New Orleans @ Philadelphia	 8:00 PM	Wells Fargo Center
+Golden State @ Okla City	 8:00 PM	Chesapeake Energy Arena
+New York @ Denver	 9:00 PM	Pepsi Center
+Phoenix @ Utah	 9:00 PM	EnergySolutions Arena
+LA Clippers @ Sacramento	10:00 PM	Sleep Train Arena
+Sat Nov 30	Time	Location
+Atlanta @ Washington	 7:00 PM	Verizon Center
+Chicago @ Cleveland	 7:30 PM	Quicken Loans Arena
+Brooklyn @ Memphis	 8:00 PM	FedExForum
+Minnesota @ Dallas	 8:30 PM	American Airlines Center
+Houston @ San Antonio	 8:30 PM	AT&T Center
+Boston @ Milwaukee	 9:00 PM	BMO Harris Bradley Center
+Utah @ Phoenix	 9:00 PM	US Airways Center
+Sun Dec 1	Time	Location
+Denver @ Toronto	 1:00 PM	Air Canada Centre
+Philadelphia @ Detroit	 3:30 PM	The Palace of Auburn Hills
+Indiana @ LA Clippers	 3:30 PM	Staples Center
+Golden State @ Sacramento	 6:00 PM	Sleep Train Arena
+Charlotte @ Miami	 6:00 PM	American Airlines Arena
+Minnesota @ Okla City	 7:00 PM	Chesapeake Energy Arena
+New Orleans @ New York	 7:30 PM	Madison Square Garden
+Portland @ LA Lakers	 9:30 PM	Staples Center
+Mon Dec 2	Time	Location
+Orlando @ Washington	 7:00 PM	Verizon Center
+New Orleans @ Chicago	 8:00 PM	United Center
+Atlanta @ San Antonio	 8:30 PM	AT&T Center
+Houston @ Utah	 9:00 PM	EnergySolutions Arena
+Indiana @ Portland	10:00 PM	Moda Center at the Rose Quarter
+Tue Dec 3	Time	Location
+Orlando @ Philadelphia	 7:00 PM	Wells Fargo Center
+Detroit @ Miami	 7:30 PM	American Airlines Arena
+Milwaukee @ Boston	 7:30 PM	TD Garden
+Denver @ Brooklyn	 7:30 PM	Barclays Center
+Phoenix @ Memphis	 8:00 PM	FedExForum
+Charlotte @ Dallas	 8:30 PM	American Airlines Center
+Okla City @ Sacramento	10:00 PM	Sleep Train Arena
+Toronto @ Golden State	10:30 PM	Oracle Arena
+Wed Dec 4	Time	Location
+Denver @ Cleveland	 7:00 PM	Quicken Loans Arena
+LA Clippers @ Atlanta	 7:30 PM	Philips Arena
+Detroit @ Milwaukee	 8:00 PM	BMO Harris Bradley Center
+Phoenix @ Houston	 8:00 PM	Toyota Center
+Dallas @ New Orleans	 8:00 PM	Smoothie King Center
+Indiana @ Utah	 9:00 PM	EnergySolutions Arena
+Okla City @ Portland	10:00 PM	Moda Center at the Rose Quarter
+Thu Dec 5	Time	Location
+New York @ Brooklyn	 7:00 PM	Barclays Center
+LA Clippers @ Memphis	 8:00 PM	FedExForum
+Miami @ Chicago	 9:30 PM	United Center
+Fri Dec 6	Time	Location
+Philadelphia @ Charlotte	 7:00 PM	Time Warner Cable Arena
+Milwaukee @ Washington	 7:00 PM	Verizon Center
+Orlando @ New York	 7:30 PM	Madison Square Garden
+Cleveland @ Atlanta	 7:30 PM	Philips Arena
+Denver @ Boston	 7:30 PM	TD Garden
+Golden State @ Houston	 8:00 PM	Toyota Center
+Okla City @ New Orleans	 8:00 PM	Smoothie King Center
+Toronto @ Phoenix	 9:00 PM	US Airways Center
+LA Lakers @ Sacramento	10:00 PM	Sleep Train Arena
+Utah @ Portland	10:00 PM	Moda Center at the Rose Quarter
+Sat Dec 7	Time	Location
+Denver @ Philadelphia	 7:00 PM	Wells Fargo Center
+LA Clippers @ Cleveland	 7:30 PM	Quicken Loans Arena
+Miami @ Minnesota	 8:00 PM	Target Center
+Detroit @ Chicago	 8:00 PM	United Center
+Golden State @ Memphis	 8:00 PM	FedExForum
+Brooklyn @ Milwaukee	 8:30 PM	BMO Harris Bradley Center
+Indiana @ San Antonio	 8:30 PM	AT&T Center
+Sacramento @ Utah	 9:00 PM	EnergySolutions Arena
+Dallas @ Portland	10:00 PM	Moda Center at the Rose Quarter
+Sun Dec 8	Time	Location
+Boston @ New York	12:00 PM	Madison Square Garden
+Miami @ Detroit	 6:00 PM	The Palace of Auburn Hills
+Orlando @ Houston	 7:00 PM	Toyota Center
+Indiana @ Okla City	 7:00 PM	Chesapeake Energy Arena
+Toronto @ LA Lakers	 9:30 PM	Staples Center
+Mon Dec 9	Time	Location
+Golden State @ Charlotte	 7:00 PM	Time Warner Cable Arena
+LA Clippers @ Philadelphia	 7:00 PM	Wells Fargo Center
+Denver @ Washington	 7:00 PM	Verizon Center
+Orlando @ Memphis	 8:00 PM	FedExForum
+Portland @ Utah	 9:00 PM	EnergySolutions Arena
+Dallas @ Sacramento	10:00 PM	Sleep Train Arena
+Tue Dec 10	Time	Location
+New York @ Cleveland	 7:00 PM	Quicken Loans Arena
+Miami @ Indiana	 7:00 PM	Bankers Life Fieldhouse
+San Antonio @ Toronto	 7:00 PM	Air Canada Centre
+Boston @ Brooklyn	 7:30 PM	Barclays Center
+Okla City @ Atlanta	 7:30 PM	Philips Arena
+Minnesota @ Detroit	 7:30 PM	The Palace of Auburn Hills
+Milwaukee @ Chicago	 8:00 PM	United Center
+Phoenix @ LA Lakers	10:30 PM	Staples Center
+Wed Dec 11	Time	Location
+Orlando @ Charlotte	 7:00 PM	Time Warner Cable Arena
+LA Clippers @ Boston	 7:30 PM	TD Garden
+Philadelphia @ Minnesota	 8:00 PM	Target Center
+Detroit @ New Orleans	 8:00 PM	Smoothie King Center
+Chicago @ New York	 8:00 PM	Madison Square Garden
+Okla City @ Memphis	 8:00 PM	FedExForum
+San Antonio @ Milwaukee	 8:00 PM	BMO Harris Bradley Center
+Utah @ Sacramento	10:00 PM	Sleep Train Arena
+Dallas @ Golden State	10:30 PM	Oracle Arena
+Thu Dec 12	Time	Location
+LA Clippers @ Brooklyn	 8:00 PM	Barclays Center
+Houston @ Portland	10:30 PM	Moda Center at the Rose Quarter
+Fri Dec 13	Time	Location
+Philadelphia @ Toronto	 7:00 PM	Air Canada Centre
+Cleveland @ Orlando	 7:00 PM	Amway Center
+Charlotte @ Indiana	 7:00 PM	Bankers Life Fieldhouse
+Brooklyn @ Detroit	 7:30 PM	The Palace of Auburn Hills
+Washington @ Atlanta	 7:30 PM	Philips Arena
+New York @ Boston	 7:30 PM	TD Garden
+LA Lakers @ Okla City	 8:00 PM	Chesapeake Energy Arena
+Memphis @ New Orleans	 8:00 PM	Smoothie King Center
+Chicago @ Milwaukee	 8:30 PM	BMO Harris Bradley Center
+Minnesota @ San Antonio	 8:30 PM	AT&T Center
+Sacramento @ Phoenix	 9:00 PM	US Airways Center
+Utah @ Denver	 9:00 PM	Pepsi Center
+Houston @ Golden State	10:30 PM	Oracle Arena
+Sat Dec 14	Time	Location
+LA Lakers @ Charlotte	 7:00 PM	Time Warner Cable Arena
+LA Clippers @ Washington	 7:00 PM	Verizon Center
+Cleveland @ Miami	 7:30 PM	American Airlines Arena
+Atlanta @ New York	 7:30 PM	Madison Square Garden
+Toronto @ Chicago	 8:00 PM	United Center
+Portland @ Philadelphia	 8:00 PM	Wells Fargo Center
+Milwaukee @ Dallas	 8:30 PM	American Airlines Center
+San Antonio @ Utah	 9:00 PM	EnergySolutions Arena
+Sun Dec 15	Time	Location
+Portland @ Detroit	 6:00 PM	The Palace of Auburn Hills
+Minnesota @ Memphis	 6:00 PM	FedExForum
+Houston @ Sacramento	 6:00 PM	Sleep Train Arena
+Orlando @ Okla City	 7:00 PM	Chesapeake Energy Arena
+New Orleans @ Denver	 8:00 PM	Pepsi Center
+Golden State @ Phoenix	 8:00 PM	US Airways Center
+Mon Dec 16	Time	Location
+Detroit @ Indiana	 7:00 PM	Bankers Life Fieldhouse
+Philadelphia @ Brooklyn	 7:30 PM	Barclays Center
+Washington @ New York	 7:30 PM	Madison Square Garden
+LA Lakers @ Atlanta	 7:30 PM	Philips Arena
+Minnesota @ Boston	 7:30 PM	TD Garden
+Utah @ Miami	 7:30 PM	American Airlines Arena
+Orlando @ Chicago	 8:00 PM	United Center
+San Antonio @ LA Clippers	10:30 PM	Staples Center
+Tue Dec 17	Time	Location
+Portland @ Cleveland	 7:00 PM	Quicken Loans Arena
+Sacramento @ Charlotte	 7:00 PM	Time Warner Cable Arena
+LA Lakers @ Memphis	 8:00 PM	FedExForum
+Okla City @ Denver	 9:00 PM	Pepsi Center
+New Orleans @ Golden State	10:30 PM	Oracle Arena
+Wed Dec 18	Time	Location
+Indiana @ Miami	 7:00 PM	American Airlines Arena
+Utah @ Orlando	 7:00 PM	Amway Center
+Charlotte @ Toronto	 7:00 PM	Air Canada Centre
+Washington @ Brooklyn	 7:30 PM	Barclays Center
+Detroit @ Boston	 7:30 PM	TD Garden
+Sacramento @ Atlanta	 7:30 PM	Philips Arena
+New York @ Milwaukee	 8:00 PM	BMO Harris Bradley Center
+Portland @ Minnesota	 8:00 PM	Target Center
+Memphis @ Dallas	 8:30 PM	American Airlines Center
+San Antonio @ Phoenix	 9:00 PM	US Airways Center
+Chicago @ Houston	 9:30 PM	Toyota Center
+New Orleans @ LA Clippers	10:30 PM	Staples Center
+Thu Dec 19	Time	Location
+Chicago @ Okla City	 8:00 PM	Chesapeake Energy Arena
+San Antonio @ Golden State	10:30 PM	Oracle Arena
+Fri Dec 20	Time	Location
+Brooklyn @ Philadelphia	 7:00 PM	Wells Fargo Center
+Milwaukee @ Cleveland	 7:30 PM	Quicken Loans Arena
+Sacramento @ Miami	 7:30 PM	American Airlines Arena
+Utah @ Atlanta	 7:30 PM	Philips Arena
+Charlotte @ Detroit	 7:30 PM	The Palace of Auburn Hills
+Houston @ Indiana	 8:00 PM	Bankers Life Fieldhouse
+Toronto @ Dallas	 8:30 PM	American Airlines Center
+Phoenix @ Denver	 9:00 PM	Pepsi Center
+Minnesota @ LA Lakers	10:30 PM	Staples Center
+Sat Dec 21	Time	Location
+Memphis @ New York	12:00 PM	Madison Square Garden
+Washington @ Boston	 1:00 PM	TD Garden
+Sacramento @ Orlando	 7:00 PM	Amway Center
+Utah @ Charlotte	 7:30 PM	Time Warner Cable Arena
+Houston @ Detroit	 7:30 PM	The Palace of Auburn Hills
+Cleveland @ Chicago	 8:00 PM	United Center
+Philadelphia @ Milwaukee	 8:30 PM	BMO Harris Bradley Center
+Okla City @ San Antonio	 8:30 PM	AT&T Center
+Dallas @ Phoenix	 9:00 PM	US Airways Center
+New Orleans @ Portland	10:00 PM	Moda Center at the Rose Quarter
+LA Lakers @ Golden State	10:30 PM	Oracle Arena
+Denver @ LA Clippers	10:30 PM	Staples Center
+Sun Dec 22	Time	Location
+Boston @ Indiana	 6:00 PM	Bankers Life Fieldhouse
+Toronto @ Okla City	 7:00 PM	Chesapeake Energy Arena
+Minnesota @ LA Clippers	 9:30 PM	Staples Center
+Mon Dec 23	Time	Location
+New York @ Orlando	 7:00 PM	Amway Center
+Detroit @ Cleveland	 7:00 PM	Quicken Loans Arena
+Milwaukee @ Charlotte	 7:00 PM	Time Warner Cable Arena
+Atlanta @ Miami	 7:30 PM	American Airlines Arena
+Indiana @ Brooklyn	 7:30 PM	Barclays Center
+Utah @ Memphis	 8:00 PM	FedExForum
+Dallas @ Houston	 8:00 PM	Toyota Center
+Toronto @ San Antonio	 8:30 PM	AT&T Center
+Golden State @ Denver	 9:00 PM	Pepsi Center
+LA Lakers @ Phoenix	 9:00 PM	US Airways Center
+New Orleans @ Sacramento	10:00 PM	Sleep Train Arena
+Wed Dec 25	Time	Location
+Chicago @ Brooklyn	12:00 PM	Barclays Center
+Okla City @ New York	 2:30 PM	Madison Square Garden
+Miami @ LA Lakers	 5:00 PM	Staples Center
+Houston @ San Antonio	 8:00 PM	AT&T Center
+LA Clippers @ Golden State	10:30 PM	Oracle Arena
+Thu Dec 26	Time	Location
+Atlanta @ Cleveland	 7:00 PM	Quicken Loans Arena
+Memphis @ Houston	 8:00 PM	Toyota Center
+San Antonio @ Dallas	 8:30 PM	American Airlines Center
+LA Clippers @ Portland	10:30 PM	Moda Center at the Rose Quarter
+Fri Dec 27	Time	Location
+Detroit @ Orlando	 7:00 PM	Amway Center
+Okla City @ Charlotte	 7:00 PM	Time Warner Cable Arena
+Toronto @ New York	 7:30 PM	Madison Square Garden
+Milwaukee @ Brooklyn	 7:30 PM	Barclays Center
+Washington @ Minnesota	 8:00 PM	Target Center
+Denver @ New Orleans	 8:00 PM	Smoothie King Center
+LA Lakers @ Utah	 9:00 PM	EnergySolutions Arena
+Miami @ Sacramento	10:00 PM	Sleep Train Arena
+Phoenix @ Golden State	10:30 PM	Oracle Arena
+Sat Dec 28	Time	Location
+Cleveland @ Boston	 1:00 PM	TD Garden
+Brooklyn @ Indiana	 7:00 PM	Bankers Life Fieldhouse
+New York @ Toronto	 7:00 PM	Air Canada Centre
+Detroit @ Washington	 7:00 PM	Verizon Center
+Charlotte @ Atlanta	 7:30 PM	Philips Arena
+New Orleans @ Houston	 8:00 PM	Toyota Center
+Denver @ Memphis	 8:00 PM	FedExForum
+Dallas @ Chicago	 8:00 PM	United Center
+Minnesota @ Milwaukee	 8:30 PM	BMO Harris Bradley Center
+Philadelphia @ Phoenix	 9:00 PM	US Airways Center
+Miami @ Portland	10:00 PM	Moda Center at the Rose Quarter
+Utah @ LA Clippers	10:30 PM	Staples Center
+Sun Dec 29	Time	Location
+Atlanta @ Orlando	 6:00 PM	Amway Center
+Golden State @ Cleveland	 6:00 PM	Quicken Loans Arena
+Sacramento @ San Antonio	 7:00 PM	AT&T Center
+Houston @ Okla City	 7:00 PM	Chesapeake Energy Arena
+Philadelphia @ LA Lakers	 9:30 PM	Staples Center
+Mon Dec 30	Time	Location
+Washington @ Detroit	 7:30 PM	The Palace of Auburn Hills
+Chicago @ Memphis	 8:00 PM	FedExForum
+Portland @ New Orleans	 8:00 PM	Smoothie King Center
+Dallas @ Minnesota	 8:00 PM	Target Center
+Miami @ Denver	 9:00 PM	Pepsi Center
+Charlotte @ Utah	 9:00 PM	EnergySolutions Arena
+Phoenix @ LA Clippers	10:30 PM	Staples Center
+Tue Dec 31	Time	Location
+Atlanta @ Boston	 1:00 PM	TD Garden
+Cleveland @ Indiana	 3:00 PM	Bankers Life Fieldhouse
+Golden State @ Orlando	 5:00 PM	Amway Center
+Brooklyn @ San Antonio	 7:00 PM	AT&T Center
+Sacramento @ Houston	 7:00 PM	Toyota Center
+Toronto @ Chicago	 8:00 PM	United Center
+Portland @ Okla City	 8:00 PM	Chesapeake Energy Arena
+Milwaukee @ LA Lakers	10:30 PM	Staples Center
+Wed Jan 1	Time	Location
+Dallas @ Washington	 6:00 PM	Verizon Center
+Indiana @ Toronto	 7:00 PM	Air Canada Centre
+New Orleans @ Minnesota	 8:00 PM	Target Center
+Philadelphia @ Denver	 9:00 PM	Pepsi Center
+Charlotte @ LA Clippers	 9:30 PM	Staples Center
+Thu Jan 2	Time	Location
+Orlando @ Cleveland	 7:00 PM	Quicken Loans Arena
+Golden State @ Miami	 7:30 PM	American Airlines Arena
+Brooklyn @ Okla City	 8:00 PM	Chesapeake Energy Arena
+Boston @ Chicago	 8:00 PM	United Center
+New York @ San Antonio	 8:30 PM	AT&T Center
+Milwaukee @ Utah	 9:00 PM	EnergySolutions Arena
+Memphis @ Phoenix	 9:00 PM	US Airways Center
+Philadelphia @ Sacramento	10:00 PM	Sleep Train Arena
+Charlotte @ Portland	10:00 PM	Moda Center at the Rose Quarter
+Fri Jan 3	Time	Location
+Toronto @ Washington	 7:00 PM	Verizon Center
+New Orleans @ Boston	 7:30 PM	TD Garden
+Golden State @ Atlanta	 7:30 PM	Philips Arena
+New York @ Houston	 8:00 PM	Toyota Center
+LA Clippers @ Dallas	 8:30 PM	American Airlines Center
+Memphis @ Denver	 9:00 PM	Pepsi Center
+Utah @ LA Lakers	10:30 PM	Staples Center
+Sat Jan 4	Time	Location
+Miami @ Orlando	 7:00 PM	Amway Center
+New Orleans @ Indiana	 7:00 PM	Bankers Life Fieldhouse
+Cleveland @ Brooklyn	 7:30 PM	Barclays Center
+Atlanta @ Chicago	 8:00 PM	United Center
+Okla City @ Minnesota	 8:00 PM	Target Center
+LA Clippers @ San Antonio	 8:30 PM	AT&T Center
+Milwaukee @ Phoenix	 9:00 PM	US Airways Center
+Philadelphia @ Portland	10:00 PM	Moda Center at the Rose Quarter
+Charlotte @ Sacramento	10:00 PM	Sleep Train Arena
+Sun Jan 5	Time	Location
+Memphis @ Detroit	 1:00 PM	The Palace of Auburn Hills
+Toronto @ Miami	 6:00 PM	American Airlines Arena
+Indiana @ Cleveland	 6:00 PM	Quicken Loans Arena
+Golden State @ Washington	 6:00 PM	Verizon Center
+Boston @ Okla City	 7:00 PM	Chesapeake Energy Arena
+New York @ Dallas	 7:30 PM	American Airlines Center
+Denver @ LA Lakers	 9:30 PM	Staples Center
+Mon Jan 6	Time	Location
+Minnesota @ Philadelphia	 7:00 PM	Wells Fargo Center
+Atlanta @ Brooklyn	 7:30 PM	Barclays Center
+Orlando @ LA Clippers	10:30 PM	Staples Center
+Tue Jan 7	Time	Location
+Philadelphia @ Cleveland	 7:00 PM	Quicken Loans Arena
+Washington @ Charlotte	 7:00 PM	Time Warner Cable Arena
+Toronto @ Indiana	 7:00 PM	Bankers Life Fieldhouse
+New Orleans @ Miami	 7:30 PM	American Airlines Arena
+Detroit @ New York	 7:30 PM	Madison Square Garden
+Golden State @ Milwaukee	 8:00 PM	BMO Harris Bradley Center
+Phoenix @ Chicago	 8:00 PM	United Center
+San Antonio @ Memphis	 8:00 PM	FedExForum
+LA Lakers @ Dallas	 8:30 PM	American Airlines Center
+Boston @ Denver	 9:00 PM	Pepsi Center
+Okla City @ Utah	 9:00 PM	EnergySolutions Arena
+Portland @ Sacramento	10:00 PM	Sleep Train Arena
+Wed Jan 8	Time	Location
+Detroit @ Toronto	 7:00 PM	Air Canada Centre
+Dallas @ San Antonio	 7:00 PM	AT&T Center
+Indiana @ Atlanta	 7:30 PM	Philips Arena
+Golden State @ Brooklyn	 7:30 PM	Barclays Center
+Washington @ New Orleans	 8:00 PM	Smoothie King Center
+LA Lakers @ Houston	 8:00 PM	Toyota Center
+Phoenix @ Minnesota	 9:30 PM	Target Center
+Orlando @ Portland	10:00 PM	Moda Center at the Rose Quarter
+Boston @ LA Clippers	10:30 PM	Staples Center
+Thu Jan 9	Time	Location
+Miami @ New York	 8:00 PM	Madison Square Garden
+Okla City @ Denver	10:30 PM	Pepsi Center
+Fri Jan 10	Time	Location
+Washington @ Indiana	 7:00 PM	Bankers Life Fieldhouse
+Detroit @ Philadelphia	 7:00 PM	Wells Fargo Center
+Houston @ Atlanta	 7:30 PM	Philips Arena
+Miami @ Brooklyn	 8:00 PM	Barclays Center
+Phoenix @ Memphis	 8:00 PM	FedExForum
+Dallas @ New Orleans	 8:00 PM	Smoothie King Center
+Charlotte @ Minnesota	 8:00 PM	Target Center
+Chicago @ Milwaukee	 8:30 PM	BMO Harris Bradley Center
+Cleveland @ Utah	 9:00 PM	EnergySolutions Arena
+Orlando @ Sacramento	10:00 PM	Sleep Train Arena
+Boston @ Golden State	10:30 PM	Oracle Arena
+LA Lakers @ LA Clippers	10:30 PM	Staples Center
+Sat Jan 11	Time	Location
+Brooklyn @ Toronto	 7:00 PM	Air Canada Centre
+Houston @ Washington	 7:00 PM	Verizon Center
+New York @ Philadelphia	 7:30 PM	Wells Fargo Center
+Phoenix @ Detroit	 7:30 PM	The Palace of Auburn Hills
+Milwaukee @ Okla City	 8:00 PM	Chesapeake Energy Arena
+Charlotte @ Chicago	 8:00 PM	United Center
+New Orleans @ Dallas	 8:30 PM	American Airlines Center
+Orlando @ Denver	 9:00 PM	Pepsi Center
+Boston @ Portland	10:00 PM	Moda Center at the Rose Quarter
+Sun Jan 12	Time	Location
+Cleveland @ Sacramento	 6:00 PM	Sleep Train Arena
+Atlanta @ Memphis	 6:00 PM	FedExForum
+Minnesota @ San Antonio	 7:00 PM	AT&T Center
+Mon Jan 13	Time	Location
+Milwaukee @ Toronto	 7:00 PM	Air Canada Centre
+Phoenix @ New York	 7:30 PM	Madison Square Garden
+Houston @ Boston	 7:30 PM	TD Garden
+Washington @ Chicago	 8:00 PM	United Center
+San Antonio @ New Orleans	 8:00 PM	Smoothie King Center
+Orlando @ Dallas	 8:30 PM	American Airlines Center
+Denver @ Utah	 9:00 PM	EnergySolutions Arena
+Tue Jan 14	Time	Location
+New York @ Charlotte	 7:00 PM	Time Warner Cable Arena
+Sacramento @ Indiana	 7:00 PM	Bankers Life Fieldhouse
+Okla City @ Memphis	 8:00 PM	FedExForum
+Cleveland @ LA Lakers	10:30 PM	Staples Center
+Wed Jan 15	Time	Location
+Miami @ Washington	 7:00 PM	Verizon Center
+Chicago @ Orlando	 7:00 PM	Amway Center
+Charlotte @ Philadelphia	 7:00 PM	Wells Fargo Center
+Toronto @ Boston	 7:30 PM	TD Garden
+Sacramento @ Minnesota	 8:00 PM	Target Center
+Memphis @ Milwaukee	 8:00 PM	BMO Harris Bradley Center
+Utah @ San Antonio	 8:00 PM	AT&T Center
+Houston @ New Orleans	 8:00 PM	Smoothie King Center
+LA Lakers @ Phoenix	 9:00 PM	US Airways Center
+Cleveland @ Portland	10:00 PM	Moda Center at the Rose Quarter
+Denver @ Golden State	10:30 PM	Oracle Arena
+Dallas @ LA Clippers	10:30 PM	Staples Center
+Thu Jan 16	Time	Location
+Brooklyn vs. Atlanta	 3:00 PM	The O2 Arena
+New York @ Indiana	 7:00 PM	Bankers Life Fieldhouse
+Okla City @ Houston	 9:30 PM	Toyota Center
+Fri Jan 17	Time	Location
+Miami @ Philadelphia	 7:00 PM	Wells Fargo Center
+Chicago @ Washington	 7:00 PM	Verizon Center
+LA Clippers @ New York	 7:00 PM	Madison Square Garden
+Minnesota @ Toronto	 7:00 PM	Air Canada Centre
+Charlotte @ Orlando	 7:00 PM	Amway Center
+LA Lakers @ Boston	 7:30 PM	TD Garden
+Utah @ Detroit	 7:30 PM	The Palace of Auburn Hills
+Sacramento @ Memphis	 8:00 PM	FedExForum
+Portland @ San Antonio	 8:30 PM	AT&T Center
+Cleveland @ Denver	 9:00 PM	Pepsi Center
+Dallas @ Phoenix	 9:00 PM	US Airways Center
+Golden State @ Okla City	 9:30 PM	Chesapeake Energy Arena
+Sat Jan 18	Time	Location
+Detroit @ Washington	 7:00 PM	Verizon Center
+LA Clippers @ Indiana	 7:00 PM	Bankers Life Fieldhouse
+Miami @ Charlotte	 7:30 PM	Time Warner Cable Arena
+Philadelphia @ Chicago	 8:00 PM	United Center
+Milwaukee @ Houston	 8:00 PM	Toyota Center
+Golden State @ New Orleans	 8:00 PM	Smoothie King Center
+Utah @ Minnesota	 8:00 PM	Target Center
+Portland @ Dallas	 8:30 PM	American Airlines Center
+Sun Jan 19	Time	Location
+LA Lakers @ Toronto	 1:00 PM	Air Canada Centre
+Boston @ Orlando	 6:00 PM	Amway Center
+Milwaukee @ San Antonio	 7:00 PM	AT&T Center
+Sacramento @ Okla City	 7:00 PM	Chesapeake Energy Arena
+Denver @ Phoenix	 8:00 PM	US Airways Center
+Mon Jan 20	Time	Location
+LA Clippers @ Detroit	 1:00 PM	The Palace of Auburn Hills
+Dallas @ Cleveland	 1:00 PM	Quicken Loans Arena
+Philadelphia @ Washington	 2:00 PM	Verizon Center
+Toronto @ Charlotte	 2:00 PM	Time Warner Cable Arena
+Brooklyn @ New York	 2:30 PM	Madison Square Garden
+New Orleans @ Memphis	 5:00 PM	FedExForum
+Miami @ Atlanta	 5:30 PM	Philips Arena
+Portland @ Houston	 8:00 PM	Toyota Center
+LA Lakers @ Chicago	 8:00 PM	United Center
+Indiana @ Golden State	10:30 PM	Oracle Arena
+Tue Jan 21	Time	Location
+Boston @ Miami	 7:30 PM	American Airlines Arena
+Orlando @ Brooklyn	 7:30 PM	Barclays Center
+Portland @ Okla City	 8:00 PM	Chesapeake Energy Arena
+Sacramento @ New Orleans	 8:00 PM	Smoothie King Center
+Minnesota @ Utah	 9:00 PM	EnergySolutions Arena
+Wed Jan 22	Time	Location
+Boston @ Washington	 7:00 PM	Verizon Center
+Chicago @ Cleveland	 7:00 PM	Quicken Loans Arena
+Atlanta @ Orlando	 7:00 PM	Amway Center
+LA Clippers @ Charlotte	 7:00 PM	Time Warner Cable Arena
+Dallas @ Toronto	 7:00 PM	Air Canada Centre
+Philadelphia @ New York	 7:30 PM	Madison Square Garden
+Detroit @ Milwaukee	 8:00 PM	BMO Harris Bradley Center
+Okla City @ San Antonio	 8:00 PM	AT&T Center
+Sacramento @ Houston	 8:00 PM	Toyota Center
+Indiana @ Phoenix	10:30 PM	US Airways Center
+Thu Jan 23	Time	Location
+LA Lakers @ Miami	 8:00 PM	American Airlines Arena
+Denver @ Portland	10:30 PM	Moda Center at the Rose Quarter
+Fri Jan 24	Time	Location
+Toronto @ Philadelphia	 7:00 PM	Wells Fargo Center
+LA Lakers @ Orlando	 7:00 PM	Amway Center
+New Orleans @ Detroit	 7:30 PM	The Palace of Auburn Hills
+Milwaukee @ Cleveland	 7:30 PM	Quicken Loans Arena
+Okla City @ Boston	 7:30 PM	TD Garden
+San Antonio @ Atlanta	 7:30 PM	Philips Arena
+Dallas @ Brooklyn	 7:30 PM	Barclays Center
+Charlotte @ New York	 7:30 PM	Madison Square Garden
+LA Clippers @ Chicago	 8:00 PM	United Center
+Memphis @ Houston	 8:00 PM	Toyota Center
+Washington @ Phoenix	 9:00 PM	US Airways Center
+Indiana @ Sacramento	10:00 PM	Sleep Train Arena
+Minnesota @ Golden State	10:30 PM	Oracle Arena
+Sat Jan 25	Time	Location
+Chicago @ Charlotte	 7:00 PM	Time Warner Cable Arena
+LA Clippers @ Toronto	 7:00 PM	Air Canada Centre
+Okla City @ Philadelphia	 7:30 PM	Wells Fargo Center
+Houston @ Memphis	 8:00 PM	FedExForum
+Atlanta @ Milwaukee	 8:30 PM	BMO Harris Bradley Center
+Washington @ Utah	 9:00 PM	EnergySolutions Arena
+Indiana @ Denver	 9:00 PM	Pepsi Center
+Minnesota @ Portland	10:00 PM	Moda Center at the Rose Quarter
+Sun Jan 26	Time	Location
+San Antonio @ Miami	 1:00 PM	American Airlines Arena
+LA Lakers @ New York	 3:30 PM	Madison Square Garden
+Orlando @ New Orleans	 6:00 PM	Smoothie King Center
+Phoenix @ Cleveland	 6:00 PM	Quicken Loans Arena
+Brooklyn @ Boston	 6:30 PM	TD Garden
+Detroit @ Dallas	 7:30 PM	American Airlines Center
+Portland @ Golden State	 9:00 PM	Oracle Arena
+Denver @ Sacramento	 9:00 PM	Sleep Train Arena
+Mon Jan 27	Time	Location
+Phoenix @ Philadelphia	 7:00 PM	Wells Fargo Center
+Toronto @ Brooklyn	 7:30 PM	Barclays Center
+Atlanta @ Okla City	 8:00 PM	Chesapeake Energy Arena
+LA Clippers @ Milwaukee	 8:00 PM	BMO Harris Bradley Center
+Minnesota @ Chicago	 8:00 PM	United Center
+Sacramento @ Utah	 9:00 PM	EnergySolutions Arena
+Tue Jan 28	Time	Location
+New Orleans @ Cleveland	 7:00 PM	Quicken Loans Arena
+Boston @ New York	 7:30 PM	Madison Square Garden
+Orlando @ Detroit	 7:30 PM	The Palace of Auburn Hills
+San Antonio @ Houston	 8:00 PM	Toyota Center
+Memphis @ Portland	10:00 PM	Moda Center at the Rose Quarter
+Washington @ Golden State	10:30 PM	Oracle Arena
+Indiana @ LA Lakers	10:30 PM	Staples Center
+Wed Jan 29	Time	Location
+Orlando @ Toronto	 7:00 PM	Air Canada Centre
+Okla City @ Miami	 7:00 PM	American Airlines Arena
+Philadelphia @ Boston	 7:30 PM	TD Garden
+New Orleans @ Minnesota	 8:00 PM	Target Center
+Phoenix @ Milwaukee	 8:00 PM	BMO Harris Bradley Center
+Houston @ Dallas	 8:30 PM	American Airlines Center
+Charlotte @ Denver	 9:00 PM	Pepsi Center
+Chicago @ San Antonio	 9:30 PM	AT&T Center
+Memphis @ Sacramento	10:00 PM	Sleep Train Arena
+Washington @ LA Clippers	10:30 PM	Staples Center
+Thu Jan 30	Time	Location
+Phoenix @ Indiana	 7:00 PM	Bankers Life Fieldhouse
+Cleveland @ New York	 8:00 PM	Madison Square Garden
+LA Clippers @ Golden State	10:30 PM	Oracle Arena
+Fri Jan 31	Time	Location
+Milwaukee @ Orlando	 7:00 PM	Amway Center
+Atlanta @ Philadelphia	 7:30 PM	Wells Fargo Center
+Okla City @ Brooklyn	 8:00 PM	Barclays Center
+Memphis @ Minnesota	 8:00 PM	Target Center
+Sacramento @ Dallas	 8:30 PM	American Airlines Center
+Toronto @ Denver	 9:00 PM	Pepsi Center
+Golden State @ Utah	10:30 PM	EnergySolutions Arena
+Charlotte @ LA Lakers	10:30 PM	Staples Center
+Sat Feb 1	Time	Location
+Brooklyn @ Indiana	 7:00 PM	Bankers Life Fieldhouse
+Okla City @ Washington	 7:00 PM	Verizon Center
+Philadelphia @ Detroit	 7:30 PM	The Palace of Auburn Hills
+Minnesota @ Atlanta	 7:30 PM	Philips Arena
+Chicago @ New Orleans	 8:00 PM	Smoothie King Center
+Cleveland @ Houston	 8:00 PM	Toyota Center
+Milwaukee @ Memphis	 8:00 PM	FedExForum
+Miami @ New York	 8:30 PM	Madison Square Garden
+Sacramento @ San Antonio	 8:30 PM	AT&T Center
+Charlotte @ Phoenix	 9:00 PM	US Airways Center
+Toronto @ Portland	10:00 PM	Moda Center at the Rose Quarter
+Utah @ LA Clippers	10:30 PM	Staples Center
+Sun Feb 2	Time	Location
+Orlando @ Boston	 1:00 PM	TD Garden
+Mon Feb 3	Time	Location
+Orlando @ Indiana	 7:00 PM	Bankers Life Fieldhouse
+Portland @ Washington	 7:00 PM	Verizon Center
+Philadelphia @ Brooklyn	 7:30 PM	Barclays Center
+Detroit @ Miami	 7:30 PM	American Airlines Arena
+New York @ Milwaukee	 8:00 PM	BMO Harris Bradley Center
+San Antonio @ New Orleans	 8:00 PM	Smoothie King Center
+Memphis @ Okla City	 8:00 PM	Chesapeake Energy Arena
+Cleveland @ Dallas	 8:30 PM	American Airlines Center
+Toronto @ Utah	 9:00 PM	EnergySolutions Arena
+LA Clippers @ Denver	 9:00 PM	Pepsi Center
+Chicago @ Sacramento	10:00 PM	Sleep Train Arena
+Tue Feb 4	Time	Location
+Indiana @ Atlanta	 7:30 PM	Philips Arena
+LA Lakers @ Minnesota	 8:00 PM	Target Center
+Chicago @ Phoenix	 9:00 PM	US Airways Center
+Charlotte @ Golden State	10:30 PM	Oracle Arena
+Wed Feb 5	Time	Location
+Boston @ Philadelphia	 7:00 PM	Wells Fargo Center
+Detroit @ Orlando	 7:00 PM	Amway Center
+LA Lakers @ Cleveland	 7:00 PM	Quicken Loans Arena
+San Antonio @ Washington	 7:00 PM	Verizon Center
+Atlanta @ New Orleans	 8:00 PM	Smoothie King Center
+Portland @ New York	 8:00 PM	Madison Square Garden
+Phoenix @ Houston	 8:00 PM	Toyota Center
+Minnesota @ Okla City	 8:00 PM	Chesapeake Energy Arena
+Dallas @ Memphis	 8:00 PM	FedExForum
+Milwaukee @ Denver	 9:00 PM	Pepsi Center
+Toronto @ Sacramento	10:00 PM	Sleep Train Arena
+Miami @ LA Clippers	10:30 PM	Staples Center
+Thu Feb 6	Time	Location
+San Antonio @ Brooklyn	 8:00 PM	Barclays Center
+Chicago @ Golden State	10:30 PM	Oracle Arena
+Fri Feb 7	Time	Location
+Cleveland @ Washington	 7:00 PM	Verizon Center
+Portland @ Indiana	 7:00 PM	Bankers Life Fieldhouse
+Okla City @ Orlando	 7:00 PM	Amway Center
+LA Lakers @ Philadelphia	 7:00 PM	Wells Fargo Center
+Brooklyn @ Detroit	 7:30 PM	The Palace of Auburn Hills
+Sacramento @ Boston	 7:30 PM	TD Garden
+Denver @ New York	 7:30 PM	Madison Square Garden
+Utah @ Dallas	 8:30 PM	American Airlines Center
+Minnesota @ New Orleans	 9:30 PM	Smoothie King Center
+Toronto @ LA Clippers	10:30 PM	Staples Center
+Sat Feb 8	Time	Location
+San Antonio @ Charlotte	 7:00 PM	Time Warner Cable Arena
+Memphis @ Atlanta	 7:30 PM	Philips Arena
+Denver @ Detroit	 7:30 PM	The Palace of Auburn Hills
+Portland @ Minnesota	 8:00 PM	Target Center
+Houston @ Milwaukee	 8:30 PM	BMO Harris Bradley Center
+Miami @ Utah	 9:00 PM	EnergySolutions Arena
+Golden State @ Phoenix	 9:00 PM	US Airways Center
+Sun Feb 9	Time	Location
+New York @ Okla City	 1:00 PM	Chesapeake Energy Arena
+Chicago @ LA Lakers	 3:30 PM	Staples Center
+New Orleans @ Brooklyn	 6:00 PM	Barclays Center
+Indiana @ Orlando	 6:00 PM	Amway Center
+Sacramento @ Washington	 6:00 PM	Verizon Center
+Memphis @ Cleveland	 6:00 PM	Quicken Loans Arena
+Dallas @ Boston	 6:00 PM	TD Garden
+Philadelphia @ LA Clippers	 9:30 PM	Staples Center
+Mon Feb 10	Time	Location
+New Orleans @ Toronto	 7:00 PM	Air Canada Centre
+Denver @ Indiana	 7:00 PM	Bankers Life Fieldhouse
+San Antonio @ Detroit	 7:30 PM	The Palace of Auburn Hills
+Boston @ Milwaukee	 8:00 PM	BMO Harris Bradley Center
+Houston @ Minnesota	 8:00 PM	Target Center
+Philadelphia @ Golden State	10:30 PM	Oracle Arena
+Tue Feb 11	Time	Location
+Sacramento @ Cleveland	 7:00 PM	Quicken Loans Arena
+Dallas @ Charlotte	 7:00 PM	Time Warner Cable Arena
+Washington @ Memphis	 8:00 PM	FedExForum
+Atlanta @ Chicago	 8:00 PM	United Center
+Miami @ Phoenix	 9:00 PM	US Airways Center
+Okla City @ Portland	10:00 PM	Moda Center at the Rose Quarter
+Utah @ LA Lakers	10:30 PM	Staples Center
+Wed Feb 12	Time	Location
+Atlanta @ Toronto	 7:00 PM	Air Canada Centre
+Memphis @ Orlando	 7:00 PM	Amway Center
+Dallas @ Indiana	 7:00 PM	Bankers Life Fieldhouse
+Cleveland @ Detroit	 7:30 PM	The Palace of Auburn Hills
+Sacramento @ New York	 7:30 PM	Madison Square Garden
+San Antonio @ Boston	 7:30 PM	TD Garden
+Charlotte @ Brooklyn	 7:30 PM	Barclays Center
+Washington @ Houston	 8:00 PM	Toyota Center
+New Orleans @ Milwaukee	 8:00 PM	BMO Harris Bradley Center
+Denver @ Minnesota	 8:00 PM	Target Center
+Philadelphia @ Utah	 9:00 PM	EnergySolutions Arena
+Miami @ Golden State	10:30 PM	Oracle Arena
+Portland @ LA Clippers	10:30 PM	Staples Center
+Thu Feb 13	Time	Location
+Brooklyn @ Chicago	 8:00 PM	United Center
+Okla City @ LA Lakers	10:30 PM	Staples Center
+Tue Feb 18	Time	Location
+Cleveland @ Philadelphia	 7:00 PM	Wells Fargo Center
+Atlanta @ Indiana	 7:00 PM	Bankers Life Fieldhouse
+Toronto @ Washington	 7:00 PM	Verizon Center
+Charlotte @ Detroit	 7:30 PM	The Palace of Auburn Hills
+Orlando @ Milwaukee	 8:00 PM	BMO Harris Bradley Center
+New York @ Memphis	 8:00 PM	FedExForum
+Miami @ Dallas	 8:30 PM	American Airlines Center
+Phoenix @ Denver	 9:00 PM	Pepsi Center
+San Antonio @ LA Clippers	10:30 PM	Staples Center
+Wed Feb 19	Time	Location
+Orlando @ Cleveland	 7:00 PM	Quicken Loans Arena
+Detroit @ Charlotte	 7:00 PM	Time Warner Cable Arena
+Chicago @ Toronto	 7:00 PM	Air Canada Centre
+Washington @ Atlanta	 7:30 PM	Philips Arena
+New York @ New Orleans	 8:00 PM	Smoothie King Center
+Indiana @ Minnesota	 8:00 PM	Target Center
+Brooklyn @ Utah	 9:00 PM	EnergySolutions Arena
+Boston @ Phoenix	 9:00 PM	US Airways Center
+Golden State @ Sacramento	10:00 PM	Sleep Train Arena
+San Antonio @ Portland	10:00 PM	Moda Center at the Rose Quarter
+Houston @ LA Lakers	10:30 PM	Staples Center
+Thu Feb 20	Time	Location
+Miami @ Okla City	 8:00 PM	Chesapeake Energy Arena
+Denver @ Milwaukee	 8:00 PM	BMO Harris Bradley Center
+Houston @ Golden State	10:30 PM	Oracle Arena
+Fri Feb 21	Time	Location
+New York @ Orlando	 7:00 PM	Amway Center
+New Orleans @ Charlotte	 7:00 PM	Time Warner Cable Arena
+Cleveland @ Toronto	 7:00 PM	Air Canada Centre
+Dallas @ Philadelphia	 7:00 PM	Wells Fargo Center
+Atlanta @ Detroit	 7:30 PM	The Palace of Auburn Hills
+LA Clippers @ Memphis	 8:00 PM	FedExForum
+Denver @ Chicago	 8:00 PM	United Center
+San Antonio @ Phoenix	 9:00 PM	US Airways Center
+Utah @ Portland	10:00 PM	Moda Center at the Rose Quarter
+Boston @ LA Lakers	10:30 PM	Staples Center
+Sat Feb 22	Time	Location
+New Orleans @ Washington	 7:00 PM	Verizon Center
+Memphis @ Charlotte	 7:00 PM	Time Warner Cable Arena
+New York @ Atlanta	 7:30 PM	Philips Arena
+Dallas @ Detroit	 7:30 PM	The Palace of Auburn Hills
+Indiana @ Milwaukee	 8:30 PM	BMO Harris Bradley Center
+Minnesota @ Utah	 9:00 PM	EnergySolutions Arena
+Boston @ Sacramento	10:00 PM	Sleep Train Arena
+Brooklyn @ Golden State	10:30 PM	Oracle Arena
+Sun Feb 23	Time	Location
+LA Clippers @ Okla City	 1:00 PM	Chesapeake Energy Arena
+Chicago @ Miami	 3:30 PM	American Airlines Arena
+Orlando @ Toronto	 6:00 PM	Air Canada Centre
+Washington @ Cleveland	 6:00 PM	Quicken Loans Arena
+Sacramento @ Denver	 8:00 PM	Pepsi Center
+Brooklyn @ LA Lakers	 9:00 PM	Staples Center
+Minnesota @ Portland	 9:00 PM	Moda Center at the Rose Quarter
+Houston @ Phoenix	 9:00 PM	US Airways Center
+Mon Feb 24	Time	Location
+Milwaukee @ Philadelphia	 7:00 PM	Wells Fargo Center
+Golden State @ Detroit	 7:30 PM	The Palace of Auburn Hills
+Dallas @ New York	 7:30 PM	Madison Square Garden
+LA Clippers @ New Orleans	 8:00 PM	Smoothie King Center
+Boston @ Utah	 9:00 PM	EnergySolutions Arena
+Tue Feb 25	Time	Location
+Orlando @ Washington	 7:00 PM	Verizon Center
+Toronto @ Cleveland	 7:00 PM	Quicken Loans Arena
+LA Lakers @ Indiana	 7:00 PM	Bankers Life Fieldhouse
+Chicago @ Atlanta	 7:30 PM	Philips Arena
+Portland @ Denver	 9:00 PM	Pepsi Center
+Minnesota @ Phoenix	 9:00 PM	US Airways Center
+Houston @ Sacramento	10:00 PM	Sleep Train Arena
+Wed Feb 26	Time	Location
+Orlando @ Philadelphia	 7:00 PM	Wells Fargo Center
+Atlanta @ Boston	 7:30 PM	TD Garden
+New Orleans @ Dallas	 8:00 PM	American Airlines Center
+Cleveland @ Okla City	 8:00 PM	Chesapeake Energy Arena
+Golden State @ Chicago	 8:00 PM	United Center
+LA Lakers @ Memphis	 8:00 PM	FedExForum
+Detroit @ San Antonio	 8:30 PM	AT&T Center
+Phoenix @ Utah	 9:00 PM	EnergySolutions Arena
+Brooklyn @ Portland	10:00 PM	Moda Center at the Rose Quarter
+Houston @ LA Clippers	10:30 PM	Staples Center
+Thu Feb 27	Time	Location
+Washington @ Toronto	 7:00 PM	Air Canada Centre
+Milwaukee @ Indiana	 7:00 PM	Bankers Life Fieldhouse
+New York @ Miami	 8:00 PM	American Airlines Arena
+Brooklyn @ Denver	10:30 PM	Pepsi Center
+Fri Feb 28	Time	Location
+Utah @ Cleveland	 7:30 PM	Quicken Loans Arena
+Golden State @ New York	 8:00 PM	Madison Square Garden
+Memphis @ Okla City	 8:00 PM	Chesapeake Energy Arena
+Chicago @ Dallas	 8:30 PM	American Airlines Center
+Charlotte @ San Antonio	 8:30 PM	AT&T Center
+New Orleans @ Phoenix	10:30 PM	US Airways Center
+Sacramento @ LA Lakers	10:30 PM	Staples Center
+Sat Mar 1	Time	Location
+Orlando @ Miami	 7:30 PM	American Airlines Arena
+Washington @ Philadelphia	 7:30 PM	Wells Fargo Center
+Detroit @ Houston	 8:00 PM	Toyota Center
+Indiana @ Boston	 8:00 PM	TD Garden
+Brooklyn @ Milwaukee	 8:30 PM	BMO Harris Bradley Center
+Cleveland @ Memphis	 9:00 PM	FedExForum
+Minnesota @ Sacramento	10:00 PM	Sleep Train Arena
+Denver @ Portland	10:00 PM	Moda Center at the Rose Quarter
+New Orleans @ LA Clippers	10:30 PM	Staples Center
+Sun Mar 2	Time	Location
+New York @ Chicago	 1:00 PM	United Center
+Golden State @ Toronto	 4:00 PM	Air Canada Centre
+Philadelphia @ Orlando	 6:00 PM	Amway Center
+Utah @ Indiana	 6:00 PM	Bankers Life Fieldhouse
+Dallas @ San Antonio	 7:00 PM	AT&T Center
+Charlotte @ Okla City	 7:00 PM	Chesapeake Energy Arena
+Atlanta @ Phoenix	 8:00 PM	US Airways Center
+Mon Mar 3	Time	Location
+Memphis @ Washington	 7:00 PM	Verizon Center
+New York @ Detroit	 7:30 PM	The Palace of Auburn Hills
+Chicago @ Brooklyn	 7:30 PM	Barclays Center
+Charlotte @ Miami	 7:30 PM	American Airlines Arena
+Utah @ Milwaukee	 8:00 PM	BMO Harris Bradley Center
+Minnesota @ Denver	 9:00 PM	Pepsi Center
+New Orleans @ Sacramento	10:00 PM	Sleep Train Arena
+LA Lakers @ Portland	10:00 PM	Moda Center at the Rose Quarter
+Tue Mar 4	Time	Location
+Golden State @ Indiana	 7:00 PM	Bankers Life Fieldhouse
+San Antonio @ Cleveland	 7:00 PM	Quicken Loans Arena
+Philadelphia @ Okla City	 8:00 PM	Chesapeake Energy Arena
+Miami @ Houston	 8:00 PM	Toyota Center
+LA Clippers @ Phoenix	 9:00 PM	US Airways Center
+New Orleans @ LA Lakers	10:30 PM	Staples Center
+Wed Mar 5	Time	Location
+Indiana @ Charlotte	 7:00 PM	Time Warner Cable Arena
+Utah @ Washington	 7:00 PM	Verizon Center
+Houston @ Orlando	 7:00 PM	Amway Center
+Chicago @ Detroit	 7:30 PM	The Palace of Auburn Hills
+Golden State @ Boston	 7:30 PM	TD Garden
+Memphis @ Brooklyn	 7:30 PM	Barclays Center
+New York @ Minnesota	 8:00 PM	Target Center
+Sacramento @ Milwaukee	 8:00 PM	BMO Harris Bradley Center
+Dallas @ Denver	 8:00 PM	Pepsi Center
+Atlanta @ Portland	10:30 PM	Moda Center at the Rose Quarter
+Thu Mar 6	Time	Location
+Miami @ San Antonio	 8:00 PM	AT&T Center
+Okla City @ Phoenix	 9:00 PM	US Airways Center
+LA Clippers @ LA Lakers	10:30 PM	Staples Center
+Fri Mar 7	Time	Location
+Cleveland @ Charlotte	 7:00 PM	Time Warner Cable Arena
+Sacramento @ Toronto	 7:00 PM	Air Canada Centre
+Memphis @ Chicago	 7:00 PM	United Center
+Brooklyn @ Boston	 7:30 PM	TD Garden
+Utah @ New York	 7:30 PM	Madison Square Garden
+Detroit @ Minnesota	 8:00 PM	Target Center
+Milwaukee @ New Orleans	 8:00 PM	Smoothie King Center
+Portland @ Dallas	 8:30 PM	American Airlines Center
+LA Lakers @ Denver	 9:00 PM	Pepsi Center
+Indiana @ Houston	 9:30 PM	Toyota Center
+Atlanta @ Golden State	10:30 PM	Oracle Arena
+Sat Mar 8	Time	Location
+New York @ Cleveland	 7:30 PM	Quicken Loans Arena
+Utah @ Philadelphia	 7:30 PM	Wells Fargo Center
+Charlotte @ Memphis	 8:00 PM	FedExForum
+Orlando @ San Antonio	 8:30 PM	AT&T Center
+Washington @ Milwaukee	 9:00 PM	BMO Harris Bradley Center
+Atlanta @ LA Clippers	10:30 PM	Staples Center
+Sun Mar 9	Time	Location
+Miami @ Chicago	 1:00 PM	United Center
+Okla City @ LA Lakers	 3:30 PM	Staples Center
+Detroit @ Boston	 6:00 PM	TD Garden
+Sacramento @ Brooklyn	 6:00 PM	Barclays Center
+Denver @ New Orleans	 6:00 PM	Smoothie King Center
+Toronto @ Minnesota	 7:00 PM	Target Center
+Portland @ Houston	 7:00 PM	Toyota Center
+Indiana @ Dallas	 7:30 PM	American Airlines Center
+Phoenix @ Golden State	 9:00 PM	Oracle Arena
+Mon Mar 10	Time	Location
+Denver @ Charlotte	 7:00 PM	Time Warner Cable Arena
+Philadelphia @ New York	 7:30 PM	Madison Square Garden
+Washington @ Miami	 7:30 PM	American Airlines Arena
+Toronto @ Brooklyn	 7:30 PM	Barclays Center
+Orlando @ Milwaukee	 8:00 PM	BMO Harris Bradley Center
+Atlanta @ Utah	 9:00 PM	EnergySolutions Arena
+Phoenix @ LA Clippers	10:30 PM	Staples Center
+Tue Mar 11	Time	Location
+Boston @ Indiana	 7:00 PM	Bankers Life Fieldhouse
+Sacramento @ Detroit	 7:30 PM	The Palace of Auburn Hills
+Milwaukee @ Minnesota	 8:00 PM	Target Center
+Portland @ Memphis	 8:00 PM	FedExForum
+San Antonio @ Chicago	 8:00 PM	United Center
+Houston @ Okla City	 8:00 PM	Chesapeake Energy Arena
+Dallas @ Golden State	10:30 PM	Oracle Arena
+Wed Mar 12	Time	Location
+Brooklyn @ Miami	 7:00 PM	American Airlines Arena
+Detroit @ Toronto	 7:00 PM	Air Canada Centre
+Sacramento @ Philadelphia	 7:00 PM	Wells Fargo Center
+Denver @ Orlando	 7:00 PM	Amway Center
+Charlotte @ Washington	 7:00 PM	Verizon Center
+New York @ Boston	 7:30 PM	TD Garden
+Memphis @ New Orleans	 8:00 PM	Smoothie King Center
+Dallas @ Utah	 9:00 PM	EnergySolutions Arena
+Portland @ San Antonio	 9:30 PM	AT&T Center
+Cleveland @ Phoenix	10:00 PM	US Airways Center
+Golden State @ LA Clippers	10:30 PM	Staples Center
+Thu Mar 13	Time	Location
+Houston @ Chicago	 7:00 PM	United Center
+Milwaukee @ Atlanta	 7:30 PM	Philips Arena
+LA Lakers @ Okla City	 9:30 PM	Chesapeake Energy Arena
+Fri Mar 14	Time	Location
+Washington @ Orlando	 7:00 PM	Amway Center
+Indiana @ Philadelphia	 7:00 PM	Wells Fargo Center
+Minnesota @ Charlotte	 7:00 PM	Time Warner Cable Arena
+Memphis @ Toronto	 7:00 PM	Air Canada Centre
+Phoenix @ Boston	 7:30 PM	TD Garden
+Denver @ Miami	 7:30 PM	American Airlines Arena
+Portland @ New Orleans	 8:00 PM	Smoothie King Center
+LA Lakers @ San Antonio	 8:30 PM	AT&T Center
+LA Clippers @ Utah	 9:00 PM	EnergySolutions Arena
+Cleveland @ Golden State	10:30 PM	Oracle Arena
+Sat Mar 15	Time	Location
+Milwaukee @ New York	12:00 PM	Madison Square Garden
+Brooklyn @ Washington	 7:00 PM	Verizon Center
+Indiana @ Detroit	 7:30 PM	The Palace of Auburn Hills
+Memphis @ Philadelphia	 7:30 PM	Wells Fargo Center
+Denver @ Atlanta	 7:30 PM	Philips Arena
+Sacramento @ Chicago	 8:00 PM	United Center
+Sun Mar 16	Time	Location
+Phoenix @ Toronto	 1:00 PM	Air Canada Centre
+Charlotte @ Milwaukee	 1:00 PM	BMO Harris Bradley Center
+Houston @ Miami	 3:30 PM	American Airlines Arena
+Boston @ New Orleans	 6:00 PM	Smoothie King Center
+Sacramento @ Minnesota	 7:00 PM	Target Center
+Utah @ San Antonio	 7:00 PM	AT&T Center
+Dallas @ Okla City	 7:00 PM	Chesapeake Energy Arena
+Golden State @ Portland	 9:00 PM	Moda Center at the Rose Quarter
+Cleveland @ LA Clippers	 9:30 PM	Staples Center
+Mon Mar 17	Time	Location
+Philadelphia @ Indiana	 7:00 PM	Bankers Life Fieldhouse
+Atlanta @ Charlotte	 7:00 PM	Time Warner Cable Arena
+Phoenix @ Brooklyn	 7:30 PM	Barclays Center
+Okla City @ Chicago	 8:00 PM	United Center
+Utah @ Houston	 8:00 PM	Toyota Center
+Boston @ Dallas	 8:30 PM	American Airlines Center
+LA Clippers @ Denver	10:30 PM	Pepsi Center
+Tue Mar 18	Time	Location
+Miami @ Cleveland	 7:00 PM	Quicken Loans Arena
+Toronto @ Atlanta	 7:30 PM	Philips Arena
+Washington @ Sacramento	10:00 PM	Sleep Train Arena
+Milwaukee @ Portland	10:00 PM	Moda Center at the Rose Quarter
+Orlando @ Golden State	10:30 PM	Oracle Arena
+Wed Mar 19	Time	Location
+Chicago @ Philadelphia	 7:00 PM	Wells Fargo Center
+Miami @ Boston	 7:30 PM	TD Garden
+Charlotte @ Brooklyn	 7:30 PM	Barclays Center
+Toronto @ New Orleans	 8:00 PM	Smoothie King Center
+Indiana @ New York	 8:00 PM	Madison Square Garden
+Utah @ Memphis	 8:00 PM	FedExForum
+Minnesota @ Dallas	 8:30 PM	American Airlines Center
+Detroit @ Denver	 9:00 PM	Pepsi Center
+Orlando @ Phoenix	10:00 PM	US Airways Center
+San Antonio @ LA Lakers	10:30 PM	Staples Center
+Thu Mar 20	Time	Location
+Okla City @ Cleveland	 7:00 PM	Quicken Loans Arena
+Minnesota @ Houston	 8:00 PM	Toyota Center
+Washington @ Portland	10:00 PM	Moda Center at the Rose Quarter
+Milwaukee @ Golden State	10:30 PM	Oracle Arena
+Fri Mar 21	Time	Location
+New York @ Philadelphia	 7:00 PM	Wells Fargo Center
+Chicago @ Indiana	 7:00 PM	Bankers Life Fieldhouse
+Okla City @ Toronto	 7:00 PM	Air Canada Centre
+Boston @ Brooklyn	 7:30 PM	Barclays Center
+New Orleans @ Atlanta	 7:30 PM	Philips Arena
+Memphis @ Miami	 7:30 PM	American Airlines Arena
+Denver @ Dallas	 8:30 PM	American Airlines Center
+Detroit @ Phoenix	10:00 PM	US Airways Center
+San Antonio @ Sacramento	10:00 PM	Sleep Train Arena
+Washington @ LA Lakers	10:30 PM	Staples Center
+Sat Mar 22	Time	Location
+Portland @ Charlotte	 7:00 PM	Time Warner Cable Arena
+Houston @ Cleveland	 7:30 PM	Quicken Loans Arena
+Philadelphia @ Chicago	 8:00 PM	United Center
+Miami @ New Orleans	 8:00 PM	Smoothie King Center
+Indiana @ Memphis	 8:00 PM	FedExForum
+Orlando @ Utah	 9:00 PM	EnergySolutions Arena
+Detroit @ LA Clippers	10:30 PM	Staples Center
+San Antonio @ Golden State	10:30 PM	Oracle Arena
+Sun Mar 23	Time	Location
+Atlanta @ Toronto	 1:00 PM	Air Canada Centre
+Phoenix @ Minnesota	 3:30 PM	Target Center
+Washington @ Denver	 5:00 PM	Pepsi Center
+Milwaukee @ Sacramento	 6:00 PM	Sleep Train Arena
+Brooklyn @ Dallas	 7:30 PM	American Airlines Center
+Cleveland @ New York	 7:30 PM	Madison Square Garden
+Orlando @ LA Lakers	 9:30 PM	Staples Center
+Mon Mar 24	Time	Location
+Houston @ Charlotte	 7:00 PM	Time Warner Cable Arena
+Portland @ Miami	 7:30 PM	American Airlines Arena
+Phoenix @ Atlanta	 7:30 PM	Philips Arena
+Brooklyn @ New Orleans	 8:00 PM	Smoothie King Center
+Indiana @ Chicago	 8:00 PM	United Center
+Minnesota @ Memphis	 8:00 PM	FedExForum
+Denver @ Okla City	 8:00 PM	Chesapeake Energy Arena
+Philadelphia @ San Antonio	 8:30 PM	AT&T Center
+Detroit @ Utah	 9:00 PM	EnergySolutions Arena
+Milwaukee @ LA Clippers	10:30 PM	Staples Center
+Tue Mar 25	Time	Location
+Toronto @ Cleveland	 7:00 PM	Quicken Loans Arena
+Portland @ Orlando	 7:00 PM	Amway Center
+Okla City @ Dallas	 8:00 PM	American Airlines Center
+New York @ LA Lakers	10:30 PM	Staples Center
+Wed Mar 26	Time	Location
+Brooklyn @ Charlotte	 7:00 PM	Time Warner Cable Arena
+Phoenix @ Washington	 7:00 PM	Verizon Center
+Cleveland @ Detroit	 7:30 PM	The Palace of Auburn Hills
+Toronto @ Boston	 7:30 PM	TD Garden
+Miami @ Indiana	 8:00 PM	Bankers Life Fieldhouse
+Atlanta @ Minnesota	 8:00 PM	Target Center
+LA Clippers @ New Orleans	 8:00 PM	Smoothie King Center
+Denver @ San Antonio	 8:30 PM	AT&T Center
+New York @ Sacramento	10:00 PM	Sleep Train Arena
+Memphis @ Utah	10:30 PM	EnergySolutions Arena
+Thu Mar 27	Time	Location
+Portland @ Atlanta	 7:30 PM	Philips Arena
+Philadelphia @ Houston	 8:00 PM	Toyota Center
+LA Lakers @ Milwaukee	 8:00 PM	BMO Harris Bradley Center
+LA Clippers @ Dallas	 8:30 PM	American Airlines Center
+Fri Mar 28	Time	Location
+Boston @ Toronto	 7:00 PM	Air Canada Centre
+Indiana @ Washington	 7:00 PM	Verizon Center
+Charlotte @ Orlando	 7:00 PM	Amway Center
+Miami @ Detroit	 7:30 PM	The Palace of Auburn Hills
+Cleveland @ Brooklyn	 7:30 PM	Barclays Center
+Portland @ Chicago	 8:00 PM	United Center
+LA Lakers @ Minnesota	 8:00 PM	Target Center
+Sacramento @ Okla City	 8:00 PM	Chesapeake Energy Arena
+Utah @ New Orleans	 8:00 PM	Smoothie King Center
+San Antonio @ Denver	 9:00 PM	Pepsi Center
+New York @ Phoenix	10:00 PM	US Airways Center
+Memphis @ Golden State	10:30 PM	Oracle Arena
+Sat Mar 29	Time	Location
+Detroit @ Philadelphia	 7:30 PM	Wells Fargo Center
+Atlanta @ Washington	 8:00 PM	Verizon Center
+LA Clippers @ Houston	 8:00 PM	Toyota Center
+Miami @ Milwaukee	 8:30 PM	BMO Harris Bradley Center
+New Orleans @ San Antonio	 8:30 PM	AT&T Center
+Sacramento @ Dallas	 8:30 PM	American Airlines Center
+Sun Mar 30	Time	Location
+Indiana @ Cleveland	 3:00 PM	Quicken Loans Arena
+Utah @ Okla City	 3:00 PM	Chesapeake Energy Arena
+Toronto @ Orlando	 6:00 PM	Amway Center
+Minnesota @ Brooklyn	 6:00 PM	Barclays Center
+Chicago @ Boston	 7:00 PM	TD Garden
+New York @ Golden State	 9:00 PM	Oracle Arena
+Memphis @ Portland	 9:00 PM	Moda Center at the Rose Quarter
+Phoenix @ LA Lakers	 9:30 PM	Staples Center
+Mon Mar 31	Time	Location
+Washington @ Charlotte	 7:00 PM	Time Warner Cable Arena
+San Antonio @ Indiana	 7:00 PM	Bankers Life Fieldhouse
+Philadelphia @ Atlanta	 7:30 PM	Philips Arena
+Toronto @ Miami	 7:30 PM	American Airlines Arena
+Milwaukee @ Detroit	 7:30 PM	The Palace of Auburn Hills
+Boston @ Chicago	 8:00 PM	United Center
+LA Clippers @ Minnesota	 8:00 PM	Target Center
+Sacramento @ New Orleans	 8:00 PM	Smoothie King Center
+New York @ Utah	 9:00 PM	EnergySolutions Arena
+Memphis @ Denver	 9:00 PM	Pepsi Center
+Tue Apr 1	Time	Location
+Houston @ Brooklyn	 8:00 PM	Barclays Center
+Golden State @ Dallas	 8:30 PM	American Airlines Center
+Portland @ LA Lakers	10:30 PM	Staples Center
+Wed Apr 2	Time	Location
+Brooklyn @ New York	 7:00 PM	Madison Square Garden
+Boston @ Washington	 7:00 PM	Verizon Center
+Detroit @ Indiana	 7:00 PM	Bankers Life Fieldhouse
+Cleveland @ Orlando	 7:00 PM	Amway Center
+Houston @ Toronto	 7:00 PM	Air Canada Centre
+Charlotte @ Philadelphia	 7:00 PM	Wells Fargo Center
+Chicago @ Atlanta	 7:30 PM	Philips Arena
+Milwaukee @ Miami	 7:30 PM	American Airlines Arena
+Memphis @ Minnesota	 8:00 PM	Target Center
+Golden State @ San Antonio	 8:30 PM	AT&T Center
+New Orleans @ Denver	 9:00 PM	Pepsi Center
+LA Lakers @ Sacramento	10:00 PM	Sleep Train Arena
+LA Clippers @ Phoenix	10:00 PM	US Airways Center
+Thu Apr 3	Time	Location
+San Antonio @ Okla City	 8:00 PM	Chesapeake Energy Arena
+Dallas @ LA Clippers	10:30 PM	Staples Center
+Fri Apr 4	Time	Location
+Orlando @ Charlotte	 7:00 PM	Time Warner Cable Arena
+Indiana @ Toronto	 7:00 PM	Air Canada Centre
+Denver @ Memphis	 7:00 PM	FedExForum
+Philadelphia @ Boston	 7:30 PM	TD Garden
+Washington @ New York	 7:30 PM	Madison Square Garden
+Detroit @ Brooklyn	 7:30 PM	Barclays Center
+Cleveland @ Atlanta	 7:30 PM	Philips Arena
+Minnesota @ Miami	 7:30 PM	American Airlines Arena
+Milwaukee @ Chicago	 8:00 PM	United Center
+New Orleans @ Utah	 9:00 PM	EnergySolutions Arena
+Okla City @ Houston	 9:30 PM	Toyota Center
+Phoenix @ Portland	10:00 PM	Moda Center at the Rose Quarter
+Sacramento @ Golden State	10:30 PM	Oracle Arena
+Dallas @ LA Lakers	10:30 PM	Staples Center
+Sat Apr 5	Time	Location
+Chicago @ Washington	 7:00 PM	Verizon Center
+Minnesota @ Orlando	 7:00 PM	Amway Center
+Brooklyn @ Philadelphia	 7:30 PM	Wells Fargo Center
+Boston @ Detroit	 7:30 PM	The Palace of Auburn Hills
+Charlotte @ Cleveland	 7:30 PM	Quicken Loans Arena
+Toronto @ Milwaukee	 8:30 PM	BMO Harris Bradley Center
+Sun Apr 6	Time	Location
+New York @ Miami	 1:00 PM	American Airlines Arena
+LA Lakers @ LA Clippers	 3:30 PM	Staples Center
+Atlanta @ Indiana	 6:00 PM	Bankers Life Fieldhouse
+Dallas @ Sacramento	 6:00 PM	Sleep Train Arena
+Memphis @ San Antonio	 7:00 PM	AT&T Center
+Denver @ Houston	 7:00 PM	Toyota Center
+New Orleans @ Portland	 9:00 PM	Moda Center at the Rose Quarter
+Okla City @ Phoenix	 9:00 PM	US Airways Center
+Utah @ Golden State	 9:00 PM	Oracle Arena
+Tue Apr 8	Time	Location
+Detroit @ Atlanta	 7:30 PM	Philips Arena
+Brooklyn @ Miami	 8:00 PM	American Airlines Arena
+San Antonio @ Minnesota	 8:00 PM	Target Center
+Dallas @ Utah	 9:00 PM	EnergySolutions Arena
+Okla City @ Sacramento	10:00 PM	Sleep Train Arena
+Houston @ LA Lakers	10:30 PM	Staples Center
+Wed Apr 9	Time	Location
+Brooklyn @ Orlando	 7:00 PM	Amway Center
+Philadelphia @ Toronto	 7:00 PM	Air Canada Centre
+Detroit @ Cleveland	 7:00 PM	Quicken Loans Arena
+Charlotte @ Washington	 7:00 PM	Verizon Center
+Boston @ Atlanta	 7:30 PM	Philips Arena
+Miami @ Memphis	 8:00 PM	FedExForum
+Chicago @ Minnesota	 8:00 PM	Target Center
+Indiana @ Milwaukee	 8:00 PM	BMO Harris Bradley Center
+Phoenix @ New Orleans	 8:00 PM	Smoothie King Center
+Houston @ Denver	 9:00 PM	Pepsi Center
+Sacramento @ Portland	10:00 PM	Moda Center at the Rose Quarter
+Okla City @ LA Clippers	10:30 PM	Staples Center
+Thu Apr 10	Time	Location
+San Antonio @ Dallas	 8:00 PM	American Airlines Center
+Denver @ Golden State	10:30 PM	Oracle Arena
+Fri Apr 11	Time	Location
+Washington @ Orlando	 7:00 PM	Amway Center
+New York @ Toronto	 7:00 PM	Air Canada Centre
+Atlanta @ Brooklyn	 7:30 PM	Barclays Center
+Indiana @ Miami	 7:30 PM	American Airlines Arena
+Charlotte @ Boston	 7:30 PM	TD Garden
+Philadelphia @ Memphis	 8:00 PM	FedExForum
+New Orleans @ Okla City	 8:00 PM	Chesapeake Energy Arena
+Detroit @ Chicago	 8:00 PM	United Center
+Houston @ Minnesota	 8:00 PM	Target Center
+Cleveland @ Milwaukee	 8:30 PM	BMO Harris Bradley Center
+Phoenix @ San Antonio	 8:30 PM	AT&T Center
+Portland @ Utah	 9:00 PM	EnergySolutions Arena
+Golden State @ LA Lakers	10:30 PM	Staples Center
+Sat Apr 12	Time	Location
+Sacramento @ LA Clippers	 3:30 PM	Staples Center
+Philadelphia @ Charlotte	 7:00 PM	Time Warner Cable Arena
+Milwaukee @ Washington	 7:00 PM	Verizon Center
+Boston @ Cleveland	 7:30 PM	Quicken Loans Arena
+Miami @ Atlanta	 7:30 PM	Philips Arena
+New Orleans @ Houston	 8:00 PM	Toyota Center
+Phoenix @ Dallas	 8:30 PM	American Airlines Center
+Utah @ Denver	 9:00 PM	Pepsi Center
+Sun Apr 13	Time	Location
+Okla City @ Indiana	 1:00 PM	Bankers Life Fieldhouse
+Toronto @ Detroit	 3:30 PM	The Palace of Auburn Hills
+Orlando @ Brooklyn	 6:00 PM	Barclays Center
+Chicago @ New York	 7:30 PM	Madison Square Garden
+Golden State @ Portland	 9:00 PM	Moda Center at the Rose Quarter
+Minnesota @ Sacramento	 9:00 PM	Sleep Train Arena
+Memphis @ LA Lakers	 9:30 PM	Staples Center
+Mon Apr 14	Time	Location
+Boston @ Philadelphia	 7:00 PM	Wells Fargo Center
+Miami @ Washington	 7:00 PM	Verizon Center
+Milwaukee @ Toronto	 7:00 PM	Air Canada Centre
+Charlotte @ Atlanta	 7:30 PM	Philips Arena
+Orlando @ Chicago	 8:00 PM	United Center
+Okla City @ New Orleans	 8:00 PM	Smoothie King Center
+San Antonio @ Houston	 8:00 PM	Toyota Center
+LA Lakers @ Utah	 9:00 PM	EnergySolutions Arena
+Memphis @ Phoenix	10:00 PM	US Airways Center
+Minnesota @ Golden State	10:30 PM	Oracle Arena
+Tue Apr 15	Time	Location
+New York @ Brooklyn	 8:00 PM	Barclays Center
+Denver @ LA Clippers	10:30 PM	Staples Center
+Wed Apr 16	Time	Location
+Chicago @ Charlotte	 7:00 PM	Time Warner Cable Arena
+Indiana @ Orlando	 7:00 PM	Amway Center
+Brooklyn @ Cleveland	 8:00 PM	Quicken Loans Arena
+Philadelphia @ Miami	 8:00 PM	American Airlines Arena
+Washington @ Boston	 8:00 PM	TD Garden
+Detroit @ Okla City	 8:00 PM	Chesapeake Energy Arena
+Atlanta @ Milwaukee	 8:00 PM	BMO Harris Bradley Center
+Toronto @ New York	 8:00 PM	Madison Square Garden
+LA Lakers @ San Antonio	 8:00 PM	AT&T Center
+Utah @ Minnesota	 8:00 PM	Target Center
+Houston @ New Orleans	 8:00 PM	Smoothie King Center
+Dallas @ Memphis	 8:00 PM	FedExForum
+Golden State @ Denver	10:30 PM	Pepsi Center
+Phoenix @ Sacramento	10:30 PM	Sleep Train Arena
+LA Clippers @ Portland	10:30 PM	Moda Center at the Rose Quarter
+Sat Apr 19	Time	Location
+Brooklyn @ Toronto	12:30 PM	Air Canada Centre
+Golden State @ LA Clippers	 3:30 PM	Staples Center
+Atlanta @ Indiana	 7:00 PM	Bankers Life Fieldhouse
+Memphis @ Okla City	 9:30 PM	Chesapeake Energy Arena
+Sun Apr 20	Time	Location
+Dallas @ San Antonio	 1:00 PM	AT&T Center
+Charlotte @ Miami	 3:30 PM	American Airlines Arena
+Washington @ Chicago	 7:00 PM	United Center
+Portland @ Houston	 9:30 PM	Toyota Center
+Mon Apr 21	Time	Location
+Memphis @ Okla City	 8:00 PM	Chesapeake Energy Arena
+Golden State @ LA Clippers	10:30 PM	Staples Center
+Tue Apr 22	Time	Location
+Atlanta @ Indiana	 7:00 PM	Bankers Life Fieldhouse
+Brooklyn @ Toronto	 7:30 PM	Air Canada Centre
+Washington @ Chicago	 9:30 PM	United Center
+Wed Apr 23	Time	Location
+Charlotte @ Miami	 7:00 PM	American Airlines Arena
+Dallas @ San Antonio	 8:00 PM	AT&T Center
+Portland @ Houston	 9:30 PM	Toyota Center
+Thu Apr 24	Time	Location
+Indiana @ Atlanta	 7:00 PM	Philips Arena
+Okla City @ Memphis	 8:00 PM	FedExForum
+LA Clippers @ Golden State	10:30 PM	Oracle Arena
+Fri Apr 25	Time	Location
+Toronto @ Brooklyn	 7:00 PM	Barclays Center
+Chicago @ Washington	 8:00 PM	Verizon Center
+Houston @ Portland	10:30 PM	Moda Center at the Rose Quarter
+Sat Apr 26	Time	Location
+Indiana @ Atlanta	 2:00 PM	Philips Arena
+San Antonio @ Dallas	 4:30 PM	American Airlines Center
+Miami @ Charlotte	 7:00 PM	Time Warner Cable Arena
+Okla City @ Memphis	 9:30 PM	FedExForum
+Sun Apr 27	Time	Location
+Chicago @ Washington	 1:00 PM	Verizon Center
+LA Clippers @ Golden State	 3:30 PM	Oracle Arena
+Toronto @ Brooklyn	 7:00 PM	Barclays Center
+Houston @ Portland	 9:30 PM	Moda Center at the Rose Quarter
+Mon Apr 28	Time	Location
+Miami @ Charlotte	 7:00 PM	Time Warner Cable Arena
+Atlanta @ Indiana	 8:00 PM	Bankers Life Fieldhouse
+San Antonio @ Dallas	 9:30 PM	American Airlines Center
+Tue Apr 29	Time	Location
+Washington @ Chicago	 8:00 PM	United Center
+Memphis @ Okla City	 9:00 PM	Chesapeake Energy Arena
+Golden State @ LA Clippers	10:30 PM	Staples Center
+Wed Apr 30	Time	Location
+Dallas @ San Antonio	 7:00 PM	AT&T Center
+Brooklyn @ Toronto	 7:30 PM	Air Canada Centre
+Portland @ Houston	 9:30 PM	Toyota Center
+Thu May 1	Time	Location
+Indiana @ Atlanta	 7:00 PM	Philips Arena
+Okla City @ Memphis	 8:00 PM	FedExForum
+LA Clippers @ Golden State	10:30 PM	Oracle Arena
+Fri May 2	Time	Location
+San Antonio @ Dallas	12:00 PM	American Airlines Center
+Houston @ Portland	12:00 PM	Moda Center at the Rose Quarter
+Toronto @ Brooklyn	 7:00 PM	Barclays Center
+Sat May 3	Time	Location
+Atlanta @ Indiana	12:00 PM	Bankers Life Fieldhouse
+Golden State @ LA Clippers	12:00 PM	Staples Center
+Memphis @ Okla City	12:00 PM	Chesapeake Energy Arena
+Sun May 4	Time	Location
+Brooklyn @ Toronto	12:00 PM	Air Canada Centre
+Portland @ Houston	12:00 PM	Toyota Center
+Dallas @ San Antonio	12:00 PM	AT&T Center
