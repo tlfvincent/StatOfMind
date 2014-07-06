@@ -1,0 +1,78 @@
+Year	Lg	Champion	Runner-Up
+2014	NBA	San Antonio Spurs	Miami Heat
+2013	NBA	Miami Heat	San Antonio Spurs
+2012	NBA	Miami Heat	Oklahoma City Thunder
+2011	NBA	Dallas Mavericks	Miami Heat
+2010	NBA	Los Angeles Lakers	Boston Celtics
+2009	NBA	Los Angeles Lakers	Orlando Magic
+2008	NBA	Boston Celtics	Los Angeles Lakers
+2007	NBA	San Antonio Spurs	Cleveland Cavaliers
+2006	NBA	Miami Heat	Dallas Mavericks
+2005	NBA	San Antonio Spurs	Detroit Pistons
+2004	NBA	Detroit Pistons	Los Angeles Lakers
+2003	NBA	San Antonio Spurs	New Jersey Nets
+2002	NBA	Los Angeles Lakers	New Jersey Nets
+2001	NBA	Los Angeles Lakers	Philadelphia 76ers
+2000	NBA	Los Angeles Lakers	Indiana Pacers
+1999	NBA	San Antonio Spurs	New York Knicks
+1998	NBA	Chicago Bulls	Utah Jazz
+1997	NBA	Chicago Bulls	Utah Jazz
+1996	NBA	Chicago Bulls	Seattle SuperSonics
+1995	NBA	Houston Rockets	Orlando Magic
+1994	NBA	Houston Rockets	New York Knicks
+1993	NBA	Chicago Bulls	Phoenix Suns
+1992	NBA	Chicago Bulls	Portland Trail Blazers
+1991	NBA	Chicago Bulls	Los Angeles Lakers
+1990	NBA	Detroit Pistons	Portland Trail Blazers
+1989	NBA	Detroit Pistons	Los Angeles Lakers
+1988	NBA	Los Angeles Lakers	Detroit Pistons
+1987	NBA	Los Angeles Lakers	Boston Celtics
+1986	NBA	Boston Celtics	Houston Rockets
+1985	NBA	Los Angeles Lakers	Boston Celtics
+1984	NBA	Boston Celtics	Los Angeles Lakers
+1983	NBA	Philadelphia 76ers	Los Angeles Lakers
+1982	NBA	Los Angeles Lakers	Philadelphia 76ers
+1981	NBA	Boston Celtics	Houston Rockets
+1980	NBA	Los Angeles Lakers	Philadelphia 76ers
+1979	NBA	Seattle SuperSonics	Washington Bullets
+1978	NBA	Washington Bullets	Seattle SuperSonics
+1977	NBA	Portland Trail Blazers	Philadelphia 76ers
+1976	NBA	Boston Celtics	Phoenix Suns
+1976	ABA	New York Nets	Denver Nuggets
+1975	NBA	Golden State Warriors	Washington Bullets
+1975	ABA	Kentucky Colonels	Indiana Pacers
+1974	NBA	Boston Celtics	Milwaukee Bucks
+1974	ABA	New York Nets	Utah Stars
+1973	NBA	New York Knicks	Los Angeles Lakers
+1973	ABA	Indiana Pacers	Kentucky Colonels
+1972	NBA	Los Angeles Lakers	New York Knicks
+1972	ABA	Indiana Pacers	New York Nets
+1971	NBA	Milwaukee Bucks	Baltimore Bullets
+1971	ABA	Utah Stars	Kentucky Colonels
+1970	NBA	New York Knicks	Los Angeles Lakers
+1970	ABA	Indiana Pacers	Los Angeles Stars
+1969	NBA	Boston Celtics	Los Angeles Lakers
+1969	ABA	Oakland Oaks	Indiana Pacers
+1968	NBA	Boston Celtics	Los Angeles Lakers
+1968	ABA	Pittsburgh Pipers	New Orleans Buccaneers
+1967	NBA	Philadelphia 76ers	San Francisco Warriors
+1966	NBA	Boston Celtics	Los Angeles Lakers
+1965	NBA	Boston Celtics	Los Angeles Lakers
+1964	NBA	Boston Celtics	San Francisco Warriors
+1963	NBA	Boston Celtics	Los Angeles Lakers
+1962	NBA	Boston Celtics	Los Angeles Lakers
+1961	NBA	Boston Celtics	St. Louis Hawks
+1960	NBA	Boston Celtics	St. Louis Hawks
+1959	NBA	Boston Celtics	Minneapolis Lakers
+1958	NBA	St. Louis Hawks	Boston Celtics
+1957	NBA	Boston Celtics	St. Louis Hawks
+1956	NBA	Philadelphia Warriors	Fort Wayne Pistons
+1955	NBA	Syracuse Nationals	Fort Wayne Pistons
+1954	NBA	Minneapolis Lakers	Syracuse Nationals
+1953	NBA	Minneapolis Lakers	New York Knicks
+1952	NBA	Minneapolis Lakers	New York Knicks
+1951	NBA	Rochester Royals	New York Knicks
+1950	NBA	Minneapolis Lakers	Syracuse Nationals
+1949	BAA	Minneapolis Lakers	Washington Capitols
+1948	BAA	Baltimore Bullets	Philadelphia Warriors
+1947	BAA	Philadelphia Warriors	Chicago Stags
