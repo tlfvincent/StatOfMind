@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+circle {
+  fill: rgb(31, 119, 180);
+  fill-opacity: .25;
+  stroke: rgb(31, 119, 180);
+  stroke-width: 1px;
+}
+
+.leaf circle {
+  fill: #ff7f0e;
+  fill-opacity: 1;
+}
+
+text {
+  font: 10px sans-serif;
+}
+
+</style>
+<body>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script>
+
+var diameter = 960,
+    format = d3.format(",d");
+
+var pack = d3.layout.pack()
+    .size([diameter - 4, diameter - 4])
+    .value(function(d) { return d.size; });
+
+var svg = d3.select("body").append("svg")
+    .attr("width", diameter)
+    .attr("height", diameter)
+  .append("g")
+    .attr("transform", "translate(2,2)");
+
+var root = {
+     "name": "flare",
+     "children": [
+      {
+        "name": "Chinese",
+        "children": [
+          {"name": "Chinese", "size": 1197},
+          {"name": "Gan", "size": 20.6},
+          {"name": "Hakka", "size": 30.1},
+          {"name": "Huizhou", "size": 4.60},
+          {"name": "Jinyu", "size": 45.0},
+          {"name": "Mandarin", "size": 848},
+          {"name": "Min Bei", "size": 10.3},
+          {"name": "Min Dong", "size": 9.12},
+          {"name": "Min Nan", "size": 46.6},
+          {"name": "Min Zhong", "size": 3.10},
+          {"name": "Pu-Xian", "size": 2.56},
+          {"name": "Wu", "size": 77.2},
+          {"name": "Xiang", "size": 36.0},
+          {"name": "Yue", "size": 62.2}
+        ]
+      },
+      {
+        "name": "Lahndav",
+        "children": [
+          {"name": "Pakistan", "size": 88.7},
+          {"name": "Hindko, Northern", "size": 1.88},
+          {"name": "Pahari-Potwari", "size": 2.50},
+          {"name": "Punjabi, Western", "size": 62.6},
+          {"name": "Saraiki", "size": 20.1}
+        ]
+      },
+      {"name": "Spanish", "size": 339},
+      {"name": "English", "size": 335},
+      {"name": "Hindi", "size": 260},
+      {"name": "Portuguese", "size": 203},
+      {"name": "Bengali", "size": 189},
+      {"name": "Russian", "size": 166},
+      {"name": "Japanese", "size": 128},
+      {"name": "Javanese", "size": 84.3},
+      {"name": "German, Standard", "size": 78.1},
+      {"name": "Korean", "size": 7.2},
+      {"name": "French", "size": 75.9},
+      {"name": "Telugu", "size": 74.0},
+      {"name": "Marathi", "size": 71.8},
+      {"name": "Turkish", "size": 70.9},
+      {"name": "Tamil", "size": 68.8},
+      {"name": "Vietnamese", "size": 67.8},
+      {"name": "Urdu", "size": 64.0},
+      {"name": "Italian", "size": 63.8},
+      {
+        "name": "Persian",
+        "children": [
+          {"name": "Persian", "size": 57.0},
+          {"name": "Dari", "size": 9.60},
+          {"name": "Persian, Iran", "size": 47.4}
+        ]
+      },
+      {
+        "name": "Malay",
+        "children": [
+          {"name": "Malay", "size": 60.5},
+          {"name": "Banjar", "size": 3.50},
+          {"name": "Indonesian", "size": 23.2},
+          {"name": "Malay [zlm]", "size": 15.8},
+          {"name": "Malay, Central", "size": 1.59},
+          {"name": "Malay, Jambi", "size": 1.00},
+          {"name": "Malay, Kedah", "size": 2.60},
+          {"name": "Malay, Pattani", "size":1.00},
+          {"name": "Minangkabau", "size":5.53},
+          {"name": "Musi", "size": 3.10}
+        ]
+      },
+      {
+      "name": "Arabic",
+        "children": [
+          {"name": "Arabic", "size": 242},
+          {"name": "Arabic, Algerian Spoken", "size": 26.7},
+          {"name": "Arabic, Chadian Spoken", "size": 1.14},
+          {"name": "Arabic, Eastern Egyptian Bedawi Spoken", "size": 1.69},
+          {"name": "Arabic, Egyptian Spoken", "size": 55.0},
+          {"name": "Arabic, Gulf Spoken", "size": 5.34},
+          {"name": "Arabic, Hijazi Spoken", "size": 6.02},
+          {"name": "Arabic, Libyan Spoken", "size": 4.32},
+          {"name": "Arabic, Mesopotamian Spoken", "size": 15.1},
+          {"name": "Arabic, Moroccan Spoken", "size": 21.0},
+          {"name": "Arabic, Najdi Spoken", "size": 9.87},
+          {"name": "Arabic, North Levantine Spoken", "size": 14.8},
+          {"name": "Arabic, North Mesopotamian Spoken", "size": 6.30},
+          {"name": "Arabic, Omani Spoken", "size": 1.09},
+          {"name": "Arabic, Sa’idi Spoken", "size": 19.0},
+          {"name": "Arabic, Sanaani Spoken", "size": 7.60},
+          {"name": "Arabic, South Levantine Spoken", "size": 6.47},
+          {"name": "Arabic, Sudanese Spoken", "size": 16.9},
+          {"name": "Arabic, Ta’izzi-Adeni Spoken", "size": 7.08},
+          {"name": "Arabic, Tunisian Spoken", "size": 11.2}
+        ]
+      }
+     ]
+    };
+
+//d3.json("flare.json", function(error, root) {
+  var node = svg.datum(root).selectAll(".node")
+      .data(pack.nodes)
+    .enter().append("g")
+      .attr("class", function(d) { return d.children ? "node" : "leaf node"; })
+      .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
+
+  node.append("title")
+      .text(function(d) { return d.name + (d.children ? "" : ": " + format(d.size)); });
+
+  node.append("circle")
+      .attr("r", function(d) { return d.r; });
+
+  node.filter(function(d) { return !d.children; }).append("text")
+      .attr("dy", ".3em")
+      .style("text-anchor", "middle")
+      .text(function(d) { return d.name.substring(0, d.r / 3); });
+//});
+
+d3.select(self.frameElement).style("height", diameter + "px");
+
+</script>
